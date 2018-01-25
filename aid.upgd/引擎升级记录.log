@@ -1,0 +1,145 @@
+1.类与方法名称变更 @explain: 参数表和调用方式不变,可全局替换|更改
+	所有以CC--驼峰命名的类&&方法,部分cc--命名的方法，其他方法
+	
+	details:
+		1. CCDirector,CCUserDefault,CCMoveTo,CCRepeatForever/ccui 等 <类/表>  ->  cc.--
+		
+		2. 方法
+			-- 全局方法
+			2.1 CCSize(),CCRect(),ccp() 等<>  ->  cc.--()
+				批:特殊情况 如 ccc3()  ->  cc.c3b()
+					ccc4()  ->  cc.c4f()
+					CCLuaLoadChunksFromZIP()  ->  cc.LuaLoadChunksFromZIP()
+			
+			-- API名称
+				所有以 shared-- 获取单例实例的方法,其他更改
+			2.2 
+				2.2.1 CCFileUtils:sharedFileUtils(),CCDirector:sharedDirector(),CCUserDefault:sharedUserDefault()  ->  cc.--:getInstance()
+				
+					批:特殊情况 CCTextureCache:sharedTextureCache()  ->  cc.Director:getInstance():getTextureCache()
+					
+				2.2.2 Node:{set|get}ZOrder()  ->  Node:{set|get}LocalZOrder()
+				
+					Sprite:setFlip{X|Y}()  ->  Sprite:setFlipped{X|Y}()
+					
+					CCGLProgram:addAttribute()  ->  cc.GLProgram:bindAttribLocation()
+					
+					SpriteFrameCache:spriteFrameByName()  ->  SpriteFrameCache:getSpriteFrame()
+					
+					Node:setShaderProgram()  ->  Node:setGLProgram()
+					
+					CCGLProgram:getUniformLocationForName()  ->  cc.GLProgram:getUniformLocation()
+					
+					Label:setFontSize()  ->  Label:setSystemFontSize()
+					
+					Node:numberOfRunningActions()  ->  Node:getNumberOfRunningActions()
+					
+					Label:setColor()  ->  Label:setTextColor()  批:3.6.3 Label:setColor调用的是Node:setColor(),但在Label中没有重写这个方法.
+					
+					cc.PointDistance() == ccpDistance()  -> cc.pGetDistance()
+					
+2.方法和类实例化参数表变更
+	details:
+		CCLabelTTF::setDimensions(const CCSize &dim)  ->  Label::setDimensions(unsigned int width, unsigned int height)
+		
+		ui.newEditBox(params)  批:旧版本params.image 可为nil, 新的版本 params.image 不可为nil 
+		
+		DrawNode:drawRect(tabxywh, params)  ->  DrawNode::drawRect(tabOrg, tabDes, tabParams)  
+			@param tabxywh: {x = type(number), y = type(number), w = type(number), h = type(number)} 分别是 左下角坐标x,y Rect的宽w高h
+				params: {fillColor = Color4Fcolor<type = userData>} Color4F对象
+				tabOrg: {x = type(number), y = type(number)} 左下角起点坐标向量表
+				tabDes: {x = type(number), y = type(number)} 右上角终点坐标向量表
+				tabParams： 同params 但fillColor 可为 Color3B 对象
+				
+		CatmullRomTo:create(dt, pointArray)  ->  cc.CatmullRomTo:create(dt, pointTable)
+			@param dt: type(number) 时间间隔
+				pointArray: type(userData) CCPointArray对象
+				pointTable: type(table) {{x = , y = ,} ...} 坐标向量表向量
+		
+		Sprite:setBlendFunc(blendFunc)  ->  Sprite:setBlendFunc(src, dst)
+			@param blendFunc: type(userData) ccBlendFunc 对象
+				src: type(number) ccBlendFunc对象中的起始值
+				dst：type(number) ccBlendFunc对象中的终点值
+		
+		CCBezierTo:create(dt, config)  ->  cc.BezierTo(dt, ccBezierConfig)
+			@param dt: type(number) 时间间隔
+				config:  type(userData) ccBezierConfig对象
+				ccBezierConfig: type(table) {cc.p(x, y), cc.p(x, y), cc.p(x, y)}其中 ccBezierConfig[1] == controlPoint_1, ccBezierConfig[2] == controlPoint_2, ccBezierConfig[3] == endPosition
+				
+		
+3.API名称和参数表同时发生变化
+	details:
+		Sprite:setDisplayFrame()  ->  Sprite:setSpriteFrame()
+		批:参数只能为SpriteFrame				参数可以是SpriteFrame或img Key
+		 
+4.弃用的方法(尽可能提供替换方案)
+	details:
+		CCLuaLog()  -\>  print()
+		
+		CCSequence:createWithTwoActions()  -\>  cc.Sequence:create()  批:前者参数表传递动作数量只能为2,后者可传任意个数量大于等于1的动作
+		
+		Node:removeFromParentAndCleanup()  -\>  Node:removeFromParent()
+		
+		Node:getPositionInCCPoint()  -\>  cc.p(Node:getPosition())
+		
+		cc.BezierConfig()  -/> {cc.p(x, y), cc.p(x, y), cc.p(x, y)} 以table代替, [1] == controlPoint_1, [2] == controlPoint_2, [3] == endPosition
+		
+	引擎建议修改的部分(尚未弃用,建议使用新的API代替):
+		details:
+			ui.newTTFLabel(param)  -\>  cc.ui.UILabel.new(param) 锚点发生改变从display.CENTER 改为 display.LEFT_BOTTOM 建议使用display.newTTFLabel(param)替换,保持锚点一致
+			
+			ui,newEditBox(param)  -\>  cc.ui.UIInput.new(param)
+		
+5.兼容性修改引擎内容
+	details:
+		display.newRect(width, height, params)
+			-\>  display.newRect(width, height, params) || display.newRect(rect, params)  批:该方法做了兼容性修改 params.color 改为 params.fillColor Rect对象锚点在中心
+			
+		DrawNode:drawPolygon(points, params) 
+			@param points:{{x, y}, {x, y}, ......} 旧版为区域四个顶点坐标表, 新版将坐标表改为了cc.p()坐标对象 作兼容性改动，改回了之前的用法
+			
+		ui.newTTFLabelWithOutline(params)
+			@param params.outlineColor 旧版默认值display.COLOR_BLACK, 新版本无默认值 需传入, 作兼容性改动,添加默认颜色display.COLOR_BLACK
+
+6.其他参数数据结构性调整
+	details:
+		network.createHTTPRequest(function(evt), url, method)
+			其中回调function 中的 evt 旧版的inprogress 的回传参数数据结构调整 具体如下:
+				evt.name = inprogress  ->  evt.name = progress
+				evt.dlnow  ->  evt.dltotal
+				evt.dltotal  -> evt.total
+				去掉 evt.ultotal, evt.ulnow
+				
+		ui.newEditBox:setReturnType(type)
+			@param type 作了调整,详见 \quick\framework\cocos2dx\Cocos2dConstants.lua
+			
+		network.getInternetConnectionStatus() kCCNetworkStatusReachableViaWiFi -> cc.kCCNetworkStatusReachableViaWiFi 
+												... etc.
+
+7.实际应用到项目中的若干注意事项
+	details:
+		新版本引擎对于视图层级有要求,这种要求只在真机上体现,导致部分视图出现界面点击无响应问题
+			针对房间内的视图层级关系做了适应性调整 见RoomScene:createNodes_()方法中的具体调整
+			
+		新版本对于内存的清理变严格,要求节点或视图在清理完成之后不得再调用其内部的方法和变量.
+			也就是在执行完Node:removeFromParent()的release()后不允许再调用Node的内部方法或变量,类似问题可能会引起报错或者逻辑失效.
+			eg: TopTipManager 类的 cleanup()方法的调用修改
+			
+		相关动画调用效果发生改变,调用方式上略有调整.
+			eg: SeatProgressTimer 座位计时动画类的修改
+				PokerCard 翻牌动画类的修改( AppDelegate 类设置动画和画面效果为 2D)
+				
+		新的版本移除了友盟模块,上报功能暂时无效,待接入SDK.目前仅作了空函数处理.
+		
+		新版本 Native::openURL(const char* url) 若url参数无法被设备识别会造成应用死机,通过在PSNative.java 中的openUrl()方法中添加try catch模块可以捕捉该异常,避免应用死机的问题出现.
+		
+		FB SDK 对分享的Feed内容有长度要求，若过长会导致分享方法返回errorCode 100 
+		
+		新版本 cc.ui.UIInput 对象在部分输入法必须要同时设置 setReturnType() 和 setInputMode(),否则可能导致输入框在个别输入法中无法结束输入.
+
+-- 若干细节未能详尽展示请参阅 三公项目 http://svn.oa.com:24399/mobile/quick-cocos2d-x/branches/NineKe2.0_new/引擎升级接口修改.xlsx    Author:于凯
+
+-- 参考 rehf: http://www.android100.org/html/201507/06/162141.html
+
+																																				-- Author:TsingZhang
+																																				-- Date:2016.12.20

@@ -1,0 +1,6 @@
+framework module CoreBluePay {
+  umbrella header "CoreBluePay.h"
+
+  export *
+  module * { export * }
+}

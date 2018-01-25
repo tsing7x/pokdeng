@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f7926264-1acb-4f08-af88-440099cf97a2++2857",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f7926264-1acb-4f08-af88-440099cf97a2++2857" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f7926264-1acb-4f08-af88-440099cf97a2++2857" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E539C782-53A4-4BB7-8673-E48F2853DB60",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f7926264-1acb-4f08-af88-440099cf97a2++2857" : "NineKe2.0_new\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "nineke",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "frameworks\/runtime-src\/proj.ios\/nineke.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.oa.com:24399\/mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f7926264-1acb-4f08-af88-440099cf97a2++2857"
+    }
+  ]
+}

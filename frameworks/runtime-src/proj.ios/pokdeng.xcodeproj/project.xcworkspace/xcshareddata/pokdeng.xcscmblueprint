@@ -1,0 +1,47 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "586fc692-afc0-4119-aa1f-aa7d3f84104f++546",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f7926264-1acb-4f08-af88-440099cf97a2++2857" : {
+
+    },
+    "586fc692-afc0-4119-aa1f-aa7d3f84104f++546" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "client_new\/branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "client_new\/tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "client_new\/trunk"
+    },
+    "bc345701-378f-43ec-97dc-1762be724dab++8614" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f7926264-1acb-4f08-af88-440099cf97a2++2857" : 9223372036854775807,
+    "586fc692-afc0-4119-aa1f-aa7d3f84104f++546" : 9223372036854775807,
+    "bc345701-378f-43ec-97dc-1762be724dab++8614" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "79B7FC7A-6C9A-4122-9AEA-286DBFB8BDD4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f7926264-1acb-4f08-af88-440099cf97a2++2857" : "..\/NineKe2.0_new",
+    "586fc692-afc0-4119-aa1f-aa7d3f84104f++546" : "client_new\/",
+    "bc345701-378f-43ec-97dc-1762be724dab++8614" : "Quick-Cocos2dx-Community3.6.3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pokdeng",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "branches\/pokdeng\/frameworks\/runtime-src\/proj.ios\/pokdeng.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.oa.com:24399\/pokdeng",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "586fc692-afc0-4119-aa1f-aa7d3f84104f++546"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.oa.com:24399\/haiying",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "bc345701-378f-43ec-97dc-1762be724dab++8614"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.oa.com:24399\/mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f7926264-1acb-4f08-af88-440099cf97a2++2857"
+    }
+  ]
+}

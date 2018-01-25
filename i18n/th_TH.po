@@ -1,0 +1,6236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-10-31 18:20+0800\n"
+"PO-Revision-Date: 2017-10-31 18:21+0800\n"
+"Last-Translator: \n"
+"Language-Team: Boyaa <LeoLuo@boyaa.com>\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ../src\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/module/cornucopiaEx/CornuCheckInfoView.lua:120
+msgid "邀请好友>>"
+msgstr "เชิญเพื่อน>>"
+
+#: app/module/cornucopiaEx/CornuFriendsView.lua:86 lang.lua:64
+msgid "发送"
+msgstr "ส่ง"
+
+#: app/module/cornucopiaEx/CornuFriendsView.lua:275 app/module/cornucopiaEx/CornuHomePageView.lua:255
+msgid "欢迎来到我这农场"
+msgstr "ยินดีต้อนรับเข้าฟาร์มชิปของฉัน"
+
+#: app/module/cornucopiaEx/CornuHomePageView.lua:66
+msgid "重新编辑>>"
+msgstr "กรอกใหม่>>"
+
+#: app/module/cornucopiaEx/CornuHomePageView.lua:74
+msgid "确认提交>>"
+msgstr "ยืนยันส่ง>>"
+
+#: app/module/cornucopiaEx/CornuRecordItem.lua:23
+msgid "去偷他>>"
+msgstr "ไปขโมย>>"
+
+#: app/module/cornucopiaEx/CornuRecordView.lua:23
+msgid "暂无记录"
+msgstr "ยังไม่มีบันทึก"
+
+#: app/module/friend/InviteRecallPopup.lua:701
+msgid "每召回8位好友即可获得30K筹码"
+msgstr "สะกิดเพื่อน 8 ท่านรับฟรี 30K ชิป"
+
+#: app/module/friend/InviteRecallPopup.lua:1120
+msgid "恭喜您获得召回奖励:30K筹码"
+msgstr "ยินดีด้วยค่ะ คุณได้รับรางวัลสะกิดเพื่อน :30K ชิป"
+
+#: app/module/friend/InviteRecallPopup.lua:1122
+msgid "召回成功"
+msgstr "สะกิดเพื่อนสำเร็จค่ะ"
+
+#: app/module/friend/InviteRecallPopup.lua:1131
+msgid "召回玩家上报失败"
+msgstr "สะกิดเพื่อนล้มเหลวค่ะ"
+
+#: app/module/gameRecord/GameCardRecordPopup.lua:34
+msgid "你"
+msgstr "ฉัน"
+
+#: app/module/gameRecord/GameCardRecordPopup.lua:37 lang.lua:150
+msgid "庄家"
+msgstr "เจ้ามือ"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:19 app/module/roomEx/room/OperationManager.lua:19
+#: app/module/roomEx/room/OperationManagerEx.lua:19
+msgid "重复上轮"
+msgstr "เกซ้ำ"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:20 app/module/room/OperationManager.lua:22
+#: app/module/roomEx/room/OperationManager.lua:20 app/module/roomEx/room/OperationManagerEx.lua:20
+msgid "下注"
+msgstr "เดิมพัน"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:21 app/module/room/OperationManager.lua:23
+#: app/module/roomEx/room/OperationManager.lua:21 app/module/roomEx/room/OperationManagerEx.lua:21
+#: lang.lua:371
+msgid "要牌"
+msgstr "จั่วไพ่"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:22 app/module/room/OperationManager.lua:24
+#: app/module/roomEx/room/OperationManager.lua:22 app/module/roomEx/room/OperationManagerEx.lua:22
+#: lang.lua:372
+msgid "不要牌"
+msgstr "ไม่จั่ว"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:23 app/module/room/OperationManager.lua:25
+#: app/module/roomEx/room/OperationManager.lua:23 app/module/roomEx/room/OperationManagerEx.lua:23
+#: lang.lua:373
+msgid "自动要牌"
+msgstr "ออโต้จั่วไพ่"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:24 app/module/room/OperationManager.lua:26
+#: app/module/roomEx/room/OperationManager.lua:24 app/module/roomEx/room/OperationManagerEx.lua:24
+#: lang.lua:374
+msgid "自动不要牌"
+msgstr "ออโต้ไม่จั่ว"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:25 app/module/room/OperationManager.lua:27
+#: app/module/roomEx/room/OperationManager.lua:25 app/module/roomEx/room/OperationManagerEx.lua:25
+#: lang.lua:308
+msgid "全下"
+msgstr "All In"
+
+#: app/module/grabDealer/room/GrabOperationManager.lua:158 app/module/room/OperationManager.lua:160
+#: app/module/roomEx/room/OperationManager.lua:158 app/module/roomEx/room/OperationManagerEx.lua:158
+msgid "等待闲家下注"
+msgstr "รอผู้เล่นวางเดิมพัน"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:326 app/module/hall/HallController.lua:151
+#: app/module/match/matchRoom/MatchRoomController.lua:329 app/module/room/RoomController.lua:316
+#: app/module/roomEx/room/RoomController.lua:327
+msgid "您的账户在别处登录"
+msgstr "บัญชีของคุณถูกล็อกอินที่อื่น"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:327
+#: app/module/grabDealer/room/views/GrabAddDealerAnteMoneyPopup.lua:162
+#: app/module/hall/ChooseRoomView.lua:417 app/module/hall/HallController.lua:152
+#: app/module/hall/MainHallView.lua:1599 app/module/hall/MainHallView.lua:1654
+#: app/module/hall/MainHallView.lua:1876 app/module/match/matchRoom/MatchRoomController.lua:330
+#: app/module/room/RoomController.lua:317 app/module/roomEx/room/RoomController.lua:328
+#: app/module/roomEx/room/views/AddDealerAnteMoneyPopup.lua:162 lang.lua:57
+msgid "确定"
+msgstr "ยืนยัน"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:563 app/module/roomEx/room/RoomController.lua:591
+msgid "站起失败,您处于庄家5局保护期内，请继续游戏"
+msgstr "ลุกขึ้นล้มเหลว ตอนนี้คุณอยู่ในโหมด【ปกป้องเจ้า】กรุณาเล่นต่อค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:715 app/module/roomEx/room/RoomController.lua:748
+msgid "玩牌至少五局"
+msgstr "รอบเล่นไพ่น้อยสุด 5 รอบ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:721 app/module/roomEx/room/RoomController.lua:754
+msgid "您金币太少，需要补充金币!需要金币:"
+msgstr "ชิปของคุณมีไม่พอค่ะ กรุณาไปสะสมชิปแล้วค่อยมาใหม่นะคะ จำนวนชิปที่ต้องการ:"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:733 app/module/roomEx/room/RoomController.lua:766
+msgid "补币失败"
+msgstr "เพิ่มชิปล้มเหลวค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:737 app/module/roomEx/room/RoomController.lua:770
+msgid "上庄失败"
+msgstr "คุณเป็นเจ้าล้มเหลวค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:788 app/module/roomEx/room/RoomController.lua:821
+msgid "抢庄请求成功"
+msgstr "แย่งเป็นเจ้าสำเร็จค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:790 app/module/roomEx/room/RoomController.lua:823
+msgid "未知错误"
+msgstr "ข้อมูลผิดพลาด"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:792 app/module/roomEx/room/RoomController.lua:825
+msgid "上庄失败，已被其他人优先上庄"
+msgstr "คุณเป็นเจ้าล้มเหลว ผู้เล่นอื่นแย่งเป็นเจ้าแล้วค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:794
+#: app/module/grabDealer/room/GrabRoomController.lua:796 app/module/roomEx/room/RoomController.lua:827
+#: app/module/roomEx/room/RoomController.lua:829
+msgid "携带金币不足"
+msgstr "ชิปนำเข้าของคุณมีไม่พอค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:798 app/module/roomEx/room/RoomController.lua:831
+msgid "携带值不在你的当前资产范围"
+msgstr "ชิปนำเข้ามากเกินยอดชิปของคุณ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:800 app/module/roomEx/room/RoomController.lua:833
+msgid "您已经请求上庄"
+msgstr "คุณขอเป็นเจ้าแล้วค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:802 app/module/roomEx/room/RoomController.lua:835
+msgid "您就是庄家"
+msgstr "คุณเป็นเจ้ามือแล้วค่ะ"
+
+#: app/module/grabDealer/room/GrabRoomController.lua:1057 app/module/room/RoomController.lua:974
+#: app/module/roomEx/room/RoomController.lua:1091
+msgid "距离比赛开始还剩: "
+msgstr "จะเริ่มแข่งยังมีเวลา: "
+
+#: app/module/grabDealer/room/GrabRoomController.lua:1060 app/module/room/RoomController.lua:977
+#: app/module/roomEx/room/RoomController.lua:1093
+msgid "立即参赛"
+msgstr "เข้าแข่งทันที"
+
+#: app/module/grabDealer/room/GrabSeatManager.lua:518 app/module/roomEx/room/SeatManager.lua:529
+#: app/module/roomEx/room/views/DealerLeftTimeTip.lua:72 app/scenes/GrabDealerRoomScene.lua:214
+#: app/scenes/GrabDealerRoomScene.lua:228 app/scenes/RoomSceneEx.lua:227 app/scenes/RoomSceneEx.lua:241
+#: lang.lua:501
+msgid "金币不足"
+msgstr "ชิปของคุณมีไม่พอค่ะ!"
+
+#: app/module/grabDealer/room/GrabSeatManager.lua:520 app/module/roomEx/room/SeatManager.lua:531
+#: app/scenes/GrabDealerRoomScene.lua:216 app/scenes/GrabDealerRoomScene.lua:230
+#: app/scenes/RoomSceneEx.lua:229 app/scenes/RoomSceneEx.lua:243
+msgid "您的现金币不足"
+msgstr "ชิปเงินสดของคุณมีไม่พอค่ะ"
+
+#: app/module/grabDealer/room/views/GrabAddDealerAnteMoneyPopup.lua:131
+#: app/module/roomEx/room/views/AddDealerAnteMoneyPopup.lua:131
+msgid "追加金币越高，保庄成功率越大"
+msgstr "เพิ่มชิปยิ่งเยอะ อัตราความสำเร็จในการปกป้องยิ่งสูงค่ะ"
+
+#: app/module/grabDealer/room/views/GrabDealerAdvanceNotice.lua:23
+#: app/module/roomEx/room/views/DealerAdvanceNotice.lua:23
+msgid "上庄预告"
+msgstr "เป็นเจ้าคนต่อไป "
+
+#: app/module/grabDealer/room/views/GrabDealerAdvanceNotice.lua:43
+#: app/module/roomEx/room/views/DealerAdvanceNotice.lua:43
+msgid "欢迎上庄，下轮更新庄家位"
+msgstr "ยินดีต้อนรับเพื่อนๆมาเป็นเจ้าค่ะ รอบต่อไปจะอัพเดทเจ้ามือใหม่"
+
+#: app/module/grabDealer/room/views/GrabDealerBuyInPopup.lua:133
+#: app/module/roomEx/room/views/DealerBuyInPopup.lua:133
+msgid "抢庄金额越高，成功率越大"
+msgstr "ใช้ชิปแย่งเป็นเจ้ายิ่งเยอะ อัตราความสำเร็จในการเป็นเจ้ายิ่งสูงค่ะ"
+
+#: app/module/grabDealer/room/views/GrabDealerLeftTimeTip.lua:17
+#: app/module/roomEx/room/views/DealerLeftTimeTip.lua:17
+msgid "上庄倒计时: "
+msgstr "เวลาเป็นเจ้าที่เหลือ"
+
+#: app/module/grabDealer/room/views/GrabDealerLeftTimeTip.lua:24
+#: app/module/grabDealer/room/views/GrabDealerLeftTimeTip.lua:51
+#: app/module/grabDealer/room/views/GrabDealerLeftTimeTip.lua:60
+#: app/module/roomEx/room/views/DealerLeftTimeTip.lua:24
+#: app/module/roomEx/room/views/DealerLeftTimeTip.lua:51
+#: app/module/roomEx/room/views/DealerLeftTimeTip.lua:60
+msgid "秒"
+msgstr "วินาที"
+
+#: app/module/grabDealer/room/views/GrabNormalRoomBaseView.lua:464
+msgid "抢庄房"
+msgstr "ห้องเจ้า"
+
+#: app/module/grabDealer/room/views/GrabNormalRoomBaseView.lua:466 lang.lua:143
+msgid "现金币场"
+msgstr "ห้องชิปเงินสด"
+
+#: app/module/grabDealer/views/GrabDealerEnterLimitPopup.lua:41
+#: app/module/roomEx/views/DealerEnterLimitPopup.lua:41
+msgid "进入失败,您的现金币不足"
+msgstr "เข้าล้มเหลว ชิปเงินสดมีไม่พอค่ะ"
+
+#: app/module/grabDealer/views/GrabDealerEnterLimitPopup.lua:48
+#: app/module/roomEx/views/DealerEnterLimitPopup.lua:48
+msgid "1.参与比赛，可赢取部分现金币"
+msgstr "1.ร่วมการแข่ง สามารถชนะรับชิปเงินสดฟรีได้"
+
+#: app/module/grabDealer/views/GrabDealerEnterLimitPopup.lua:49
+#: app/module/roomEx/views/DealerEnterLimitPopup.lua:49
+msgid "2.在上庄玩法的现金币场可快速赢取海量现金币"
+msgstr "2.เล่นห้องชิปเงินสดในห้องเจ้า สามารถชนะรับชิปเงินสดมหาศาลได้อย่างรวดเร็ว"
+
+#: app/module/grabDealer/views/GrabDealerEnterLimitPopup.lua:50
+#: app/module/roomEx/views/DealerEnterLimitPopup.lua:50
+msgid "3.累计现金币可在兑换商城中兑换超多实物奖励"
+msgstr "3.สะสมชิปเงินสดสามารถแลกรางวัลจริงในห้างได้มากมาย"
+
+#: app/module/grabDealer/views/GrabDealerEnterLimitPopup.lua:68
+#: app/module/grabDealer/views/GrabDealerEnterLimitPopup.lua:69
+#: app/module/roomEx/views/DealerEnterLimitPopup.lua:68
+#: app/module/roomEx/views/DealerEnterLimitPopup.lua:69
+msgid "充值进入"
+msgstr "เข้าโดยเติมชิป"
+
+#: app/module/grabDealer/views/GrabDealerEnterLimitPopup.lua:76
+#: app/module/roomEx/views/DealerEnterLimitPopup.lua:76
+msgid "进入旁观>>"
+msgstr "สังเกตการณ์"
+
+#: app/module/grabDealer/views/GrabDealerHelpPopup.lua:39 app/module/roomEx/views/DealerHelpPopup.lua:39
+msgid "上庄场玩法介绍"
+msgstr "กติกาห้องเจ้า"
+
+#: app/module/grabDealer/views/GrabDealerHelpPopup.lua:46 app/module/roomEx/views/DealerHelpPopup.lua:46
+msgid "1.基于普通玩法，额外增加一个庄家位供玩家上庄"
+msgstr "1.อิงตามวิธีเล่นปกติ โดยเพิ่มที่นั่งเจ้ามือ เพื่อให้ผู้เล่นเลือกเป็นเจ้าได้เอง"
+
+#: app/module/grabDealer/views/GrabDealerHelpPopup.lua:47 app/module/roomEx/views/DealerHelpPopup.lua:47
+msgid "2.上庄需要比在座其他人携带更多的资产，且无携带上限"
+msgstr "2.หากเลือกเป็นเจ้า จะต้องนำชิปเข้าห้องเยอะกว่าผู้เล่นอื่น โดยไม่จำกัดจำนวนนำเข้า"
+
+#: app/module/grabDealer/views/GrabDealerHelpPopup.lua:48 app/module/roomEx/views/DealerHelpPopup.lua:48
+msgid ""
+"3.抢庄或上庄后，第四轮起其他玩家才可再次竞争庄位，共两轮抢庄时间，第六轮开局前更换新的庄家，前五轮统称为"
+"【庄家保护期】"
+msgstr ""
+"3.หลังแย่งเป็นเจ้าหรือเป็นเจ้าแล้ว ผู้เล่นอื่นจะแย่งเป็นเจ้าได้หลังการเล่นรอบที่ 4  ทั้งหมดมีเวลา 2 รอบในการแย่งที่นั่ง "
+"ก่อนเริ่มเกมส์รอบที่ 6 จะเปลี่ยนเจ้ามือใหม่ ซึ่ง 5 รอบแรกนั้นจะเรียกว่าโหมด【ปกป้องเจ้า】"
+
+#: app/module/grabDealer/views/GrabDealerHelpPopup.lua:49 app/module/roomEx/views/DealerHelpPopup.lua:49
+msgid "4.若第四、五轮均无人上庄，后续每轮均可选择上庄，上庄后的下一轮更新庄家，进入【庄家保护期】 "
+msgstr ""
+"4.หากรอบที่ 4-5 ไม่มีผู้เล่นเป็นเจ้า รอบต่อไปสามารถเลือกเป็นเจ้าได้ หลังแย่งเป็นเจ้าได้ รอบต่อไปจะอัพเดทเจ้ามือใหม่ "
+"แล้วเข้าสู่โหมด【ปกป้องเจ้า】"
+
+#: app/module/grabDealer/views/GrabDealerHelpPopup.lua:50 app/module/roomEx/views/DealerHelpPopup.lua:50
+msgid "5.庄家在携带资产足够的情况下，【庄家保护期】内不可退出房间"
+msgstr "5.ในสภาวะที่เจ้ามือมีชิปนำเข้ามากพอ  ในโหมด【ปกป้องเจ้า】เจ้ามือจะไม่สามารถออกจากเกมส์ได้"
+
+#: app/module/hall/ChooseMatchRoomListItem.lua:23 lang.lua:484
+msgid "报名"
+msgstr "ลงชื่อ"
+
+#: app/module/hall/ChooseMatchRoomListItem.lua:32
+msgid "百钻疯狂赛"
+msgstr ""
+
+#: app/module/hall/ChooseProRoomListItem.lua:152
+msgid "空庄"
+msgstr "ไม่มีเจ้า"
+
+#: app/module/hall/ChooseRoomView.lua:416 app/module/hall/MainHallView.lua:1594
+#: app/module/hall/MainHallView.lua:1648 app/module/hall/MainHallView.lua:1876 lang.lua:128
+msgid "暂未开放 敬请期待"
+msgstr "ยังไม่เปิดให้บริการค่ะ"
+
+#: app/module/hall/HallController.lua:1378
+msgid "正在进入抢庄房间，请稍候..."
+msgstr "กำลังเข้าห้องเจ้าอยู่ กรุณารอสักครู่"
+
+#: app/module/hall/HallController.lua:1422
+msgid "正在进入新玩法房间，请稍候..."
+msgstr "กำลังเข้าห้องการเล่นใหม่ กรุณารอสักครู่"
+
+#: app/module/hall/HallController.lua:1705
+msgid "您的筹码已超过该底注场上限，请切换更高级的场次游戏吧"
+msgstr "จำนวนชิปคุณเกินกว่าจำนวนชิปสูงสุดที่ห้องนี้กำหมดไว้ กรุณาไปห้องเดิมพันสูงกว่านี้ค่ะ"
+
+#: app/module/hall/HallController.lua:1859 app/module/hall/HallController.lua:1894
+#, lua-format
+msgid "服务器繁忙,请稍后再试[%d]"
+msgstr "เซิร์ฟเวอร์ไม่ว่าง กรุณาลองใหม่ภายหลัง[%d]"
+
+#: app/module/hall/message/MessageListItem.lua:48
+msgid "去农场>>"
+msgstr "ไปฟาร์มชิป>>"
+
+#: app/module/match/matchRoom/MatchRoomController.lua:584 app/scenes/MatchRoomScene.lua:514
+msgid "退赛失败，请继续比赛"
+msgstr "ออกจากการแข่งขันล้มเหลว กรุณาอยู่ห้องแข่งต่อค่ะ"
+
+#: app/module/match/matchRoom/MatchRoomController.lua:824
+msgid "等待合桌"
+msgstr "รอรวมโต๊ะ"
+
+#: app/module/match/matchRoom/MatchRoomController.lua:1617
+#: app/module/match/matchRoom/MatchRoomController.lua:1720
+#: app/module/match/matchRoom/MatchRoomController.lua:1783
+#: app/module/match/matchRoom/MatchRoomController.lua:1872
+#: app/module/match/matchRoom/MatchRoomController.lua:1942
+#: app/module/match/matchRoom/MatchRoomController.lua:2012
+#: app/module/scoreMarket/ScoreMarketControl.lua:463 app/module/scoreMarket/ScoreMarketControl.lua:529
+msgid "退赛失败,请继续比赛"
+msgstr "ออกจากการแข่งขันล้มเหลว กรุณาอยู่ห้องแข่งต่อค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:78 app/module/match/views/MatchRegisterPopup.lua:78
+#: app/module/match/views/MatchTimeRegisterPopup.lua:76
+msgid "点击报名"
+msgstr "กดลงชื่อ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:98 app/module/match/views/MatchRegisterPopup.lua:98
+#: app/module/match/views/MatchTimeRegisterPopup.lua:96 lang.lua:493
+msgid "免费"
+msgstr "ฟรี"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:132
+#: app/module/match/views/MatchRegisterPopup.lua:132 app/module/match/views/MatchTimeRegisterPopup.lua:130
+#: lang.lua:508
+msgid "名次"
+msgstr "แรงค์กิ้ง"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:136
+#: app/module/match/views/MatchRegisterPopup.lua:136 app/module/match/views/MatchTimeRegisterPopup.lua:134
+#: lang.lua:167 lang.lua:550 lang.lua:1600
+msgid "奖励"
+msgstr "รางวัล"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:454
+#: app/module/match/views/MatchNormalRegisterPopup.lua:542
+#: app/module/match/views/MatchRegisterPopup.lua:454 app/module/match/views/MatchRegisterPopup.lua:535
+#: app/module/match/views/MatchTimeRegisterPopup.lua:451
+#: app/module/match/views/MatchTimeRegisterPopup.lua:532 lang.lua:502
+msgid "门票不足"
+msgstr "ชิปของคุณมีไม่พอค่ะ!"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:456
+#: app/module/match/views/MatchRegisterPopup.lua:456 app/module/match/views/MatchTimeRegisterPopup.lua:453
+msgid "筹码不足"
+msgstr "ชิปมีไม่พอค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:458
+#: app/module/match/views/MatchRegisterPopup.lua:458 app/module/match/views/MatchTimeRegisterPopup.lua:455
+#: app/module/roomEx/room/views/DealerLeftTimeTip.lua:70
+msgid "现金币不足"
+msgstr "ชิปเงินสดมีไม่พอ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:481
+#: app/module/match/views/MatchRegisterPopup.lua:479 app/module/match/views/MatchTimeRegisterPopup.lua:476
+msgid "报名成功"
+msgstr "ลงชื่อสำเร็จ่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:524
+#: app/module/match/views/MatchRegisterPopup.lua:517 app/module/match/views/MatchTimeRegisterPopup.lua:514
+#: lang.lua:486
+msgid "已报名"
+msgstr "ลงชื่อแล้ว"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:536
+#: app/module/match/views/MatchNormalRegisterPopup.lua:544
+#: app/module/match/views/MatchNormalRegisterPopup.lua:546
+#: app/module/match/views/MatchNormalRegisterPopup.lua:550
+#: app/module/match/views/MatchNormalRegisterPopup.lua:562
+#: app/module/match/views/MatchRegisterPopup.lua:529 app/module/match/views/MatchRegisterPopup.lua:537
+#: app/module/match/views/MatchRegisterPopup.lua:539 app/module/match/views/MatchRegisterPopup.lua:543
+#: app/module/match/views/MatchRegisterPopup.lua:555 app/module/match/views/MatchTimeRegisterPopup.lua:526
+#: app/module/match/views/MatchTimeRegisterPopup.lua:534
+#: app/module/match/views/MatchTimeRegisterPopup.lua:536
+#: app/module/match/views/MatchTimeRegisterPopup.lua:540
+#: app/module/match/views/MatchTimeRegisterPopup.lua:552
+msgid "报名失败"
+msgstr "ลงชื่อล้มเหลวค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:538
+#: app/module/match/views/MatchRegisterPopup.lua:531 app/module/match/views/MatchTimeRegisterPopup.lua:528
+msgid "该比赛已经关闭"
+msgstr "การแข่งนี้ปิดไปแล้วค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:540
+#: app/module/match/views/MatchRegisterPopup.lua:533 app/module/match/views/MatchTimeRegisterPopup.lua:530
+msgid "金币不足,请补充金币后再来"
+msgstr "ชิปมีไม่พอ กรุณาไปสะสมชิปก่อนค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:548
+#: app/module/match/views/MatchRegisterPopup.lua:541 app/module/match/views/MatchTimeRegisterPopup.lua:538
+msgid "报名次数今日达到上限"
+msgstr "จำนวนครั้งลงชื่อของวันนี้ถึงจำนวนครั้งที่กำหนดแล้วค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:552
+#: app/module/match/views/MatchNormalRegisterPopup.lua:554
+#: app/module/match/views/MatchNormalRegisterPopup.lua:556
+#: app/module/match/views/MatchRegisterPopup.lua:545 app/module/match/views/MatchRegisterPopup.lua:547
+#: app/module/match/views/MatchRegisterPopup.lua:549 app/module/match/views/MatchTimeRegisterPopup.lua:542
+#: app/module/match/views/MatchTimeRegisterPopup.lua:544
+#: app/module/match/views/MatchTimeRegisterPopup.lua:546
+msgid "网络错误，请稍后再试"
+msgstr "เน็ตเกิดความผิดพลาด กรุณาลองใหม่อีกครั้งภายหลังค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:558
+#: app/module/match/views/MatchNormalRegisterPopup.lua:560
+#: app/module/match/views/MatchRegisterPopup.lua:551 app/module/match/views/MatchRegisterPopup.lua:553
+#: app/module/match/views/MatchTimeRegisterPopup.lua:548
+#: app/module/match/views/MatchTimeRegisterPopup.lua:550
+msgid "报名失败,该比赛已经开始"
+msgstr "ลงชื่อล้มเหลว การแข่งนี้เริ่มแข่งแล้วค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:564
+#: app/module/match/views/MatchRegisterPopup.lua:557 app/module/match/views/MatchTimeRegisterPopup.lua:554
+msgid "您已经报名该比赛"
+msgstr "คุณลงชื่อการแข่งนี้แล้วค่ะ"
+
+#: app/module/match/views/MatchNormalRegisterPopup.lua:566
+#: app/module/match/views/MatchRegisterPopup.lua:559 app/module/match/views/MatchTimeRegisterPopup.lua:556
+msgid "该场比赛已经满人"
+msgstr "การแข่งนี้ครบจำนวนคนร่วมแล้วค่ะ"
+
+#: app/module/room/OperationManager.lua:21
+msgid "最低下注"
+msgstr "เดิมพันขั้นต่ำ"
+
+#: app/module/scoreMarket/ScoreMarketView.lua:77
+msgid "什么是实物券  "
+msgstr "คูปองคืออะไร    "
+
+#: app/module/settingAndhelp/help/HelpController.lua:132
+msgid "升级奖励"
+msgstr "รางวัลอัพ Lv."
+
+#: app/module/settingAndhelp/help/HelpController.lua:132
+msgid "称号"
+msgstr "สมญานาม"
+
+#: app/module/settingAndhelp/help/HelpController.lua:132
+msgid "所有EXP"
+msgstr "จำนวน EXP ที่ได้"
+
+#: app/module/userInfo/UserInfoPopup.lua:2595
+#, lua-format
+msgid "Lv.%d"
+msgstr "Lv.%d"
+
+#: app/net/HallServer.lua:429
+msgid "比赛人数不足,已经取消:"
+msgstr "การแข่งไม่ครบจำนวนคนร่วม ระบบขอยกเลิกค่ะ"
+
+#: app/net/HallServer.lua:583
+msgid "คุณเป็นเจ้าต่อเนื่อง 50 ตาแล้ว กรุณาให้ผู้เล่นอื่นๆลองเป็นเจ้านะ"
+msgstr ""
+
+#: app/scenes/GrabDealerRoomScene.lua:288 app/scenes/RoomSceneEx.lua:301
+msgid "庄家保庄成功!"
+msgstr "เป็นเจ้าต่อสำเร็จค่ะ"
+
+#: app/scenes/GrabDealerRoomScene.lua:596 app/scenes/GrabDealerRoomScene.lua:631
+#: app/scenes/RoomSceneEx.lua:589 app/scenes/RoomSceneEx.lua:627
+msgid "现金币场不可换桌。"
+msgstr "ห้องชิปเงินสดไม่สามารถเปลี่ยนโต๊ะได้ค่ะ"
+
+#: app/scenes/GrabDealerRoomScene.lua:610 app/scenes/GrabDealerRoomScene.lua:645
+#: app/scenes/RoomSceneEx.lua:596 app/scenes/RoomSceneEx.lua:632
+msgid "坐下后不可换桌"
+msgstr "หลังนั่งลงไม่สามารถเปลี่ยนโต๊ะได้ค่ะ"
+
+#: app/scenes/MatchRoomScene.lua:559 app/scenes/MatchRoomScene.lua:572
+msgid "比赛场不可换桌"
+msgstr "เปลี่ยนโต๊ะในห้องแข่งขันไม่ได้ค่ะ"
+
+#: app/util/functions.lua:109
+msgid "游戏玩家"
+msgstr "ผู้เล่นป๊อกเด้ง"
+
+#: lang.lua:55 lang.lua:277
+msgid "Lv.{1}"
+msgstr "Lv.{1}"
+
+#: lang.lua:56
+msgid "${1}"
+msgstr "${1}"
+
+#: lang.lua:58 lang.lua:485
+msgid "取消"
+msgstr "ยกเลิก"
+
+#: lang.lua:59
+msgid "同意"
+msgstr "ยอมรับ"
+
+#: lang.lua:60
+msgid "拒绝"
+msgstr "ปฏิเสธ"
+
+#: lang.lua:61
+msgid "重试"
+msgstr "ลองใหม่อีกครั้ง"
+
+#: lang.lua:62
+msgid "温馨提示"
+msgstr "เตือน"
+
+#: lang.lua:63 lang.lua:78 lang.lua:618
+msgid "购买"
+msgstr "ซื้อ"
+
+#: lang.lua:65
+msgid "网络不给力"
+msgstr "อินเตอร์เน็ตไม่ดี"
+
+#: lang.lua:66
+msgid "网络不给力，获取数据失败，请重试！"
+msgstr "อินเตอร์เน็ตไม่ดี การเรียกข้อมูลล้มเหลว กรุณาลองใหม่ค่ะ!"
+
+#: lang.lua:67
+msgid "现在该房间旁观人数过多，请换一个房间"
+msgstr "ห้องนี้มีคนชมการแข่งขันเป็นจำนวนมาก กรุณาเปลี่ยนห้องค่ะ"
+
+#: lang.lua:68
+msgid "您的账户被冻结了，请你反馈或联系管理员"
+msgstr "บัญชีของคุณถูกแบน กรุณาฟีดแบคติดต่อทีมงานค่ะ"
+
+#: lang.lua:69
+msgid "历史最高资产: {1}"
+msgstr "ยอดชิปสูงสุด: {1}"
+
+#: lang.lua:70
+msgid "赢得最大奖池: {1}"
+msgstr "ชนะได้ชิปกองกลางสูงสุด: {1}"
+
+#: lang.lua:71
+#, lua-format
+msgid "历史胜率: {1}%%"
+msgstr "อัตราชนะ: {1}%%"
+
+#: lang.lua:72 lang.lua:661
+msgid "历史最佳牌型:"
+msgstr "รูปแบบไพ่ที่ดีที่สุด:"
+
+#: lang.lua:73
+msgid "恭喜你升到{1}级, 获得奖励:{2}"
+msgstr "ยินดีด้วยค่ะคุณอัพเวลเป็น Lv. {1} ได้รับรางวัล:{2}"
+
+#: lang.lua:74 lang.lua:662
+msgid "我的道具:"
+msgstr "ไอเทมของฉัน:"
+
+#: lang.lua:75
+msgid "分  享"
+msgstr "แชร์"
+
+#: lang.lua:76
+msgid "立即玩牌"
+msgstr "ไปเล่นไพ่"
+
+#: lang.lua:77 lang.lua:1948
+msgid "领取奖励"
+msgstr "รับรางวัล"
+
+#: lang.lua:79 lang.lua:771
+msgid "登出"
+msgstr "ออกเกมส์"
+
+#: lang.lua:80
+msgid "确认退出"
+msgstr "ยืนยันที่จะออกจากเกมส์"
+
+#: lang.lua:81
+msgid "真的确认退出游戏吗？淫家好舍不得滴啦~\\(≧▽≦)/~"
+msgstr "แน่ใจใช่ไหมที่จะออกจากเกมส์? อย่าไปเลยนะคะ~\\(≧▽≦)/~"
+
+#: lang.lua:82
+msgid "忍痛退出"
+msgstr "ออกเกมส์"
+
+#: lang.lua:83
+msgid "我点错了"
+msgstr "ไม่ออกเกมส์"
+
+#: lang.lua:84
+msgid "确认退出登录"
+msgstr "ออกจากเกมส์"
+
+#: lang.lua:85
+msgid "真的要退出登录吗？"
+msgstr "ยืนยันที่จะออกจากเกมส์?"
+
+#: lang.lua:86
+msgid "您的筹码不足最小买入{1}，您需要补充筹码后重试。"
+msgstr "ชิปของคุณมีไม่พอในการเดิมพันขั้นต่ำ {1} กรุณาไปเพิ่มชิปก่อนแล้วค่อยลองใหม่ค่ะ"
+
+#: lang.lua:87
+msgid "您的现金币不足最小买入{1}，您需要补充现金币后重试。"
+msgstr "ชิปเงินสดของคุณมีไม่พอนำเข้าต่ำสุด{1} กรุณาไปสะสมชิปเงินสดก่อนค่อยมาใหม่นะคะ"
+
+#: lang.lua:88
+msgid "您的帐号已被禁言，您可以在帮助-反馈里联系管理员处理"
+msgstr "บัญชีของคุณถูกระงับการแชท คุณสามารถกดปุ่มช่วยเหลือแล้วฟีดแบคปัญหามายังทีมงานได้ค่ะ"
+
+#: lang.lua:89 lang.lua:775 lang.lua:1276
+msgid "其他"
+msgstr "อื่นๆ"
+
+#: lang.lua:90
+msgid "你的号被封了,请联系客服"
+msgstr "ไอดีของคุณถูกแบนค่ะ กรุณาติดต่อฝ่ายบริการลูกค้า"
+
+#: lang.lua:91
+msgid "服务器响应超时"
+msgstr "การตอบสนองของเซิร์ฟเวอร์หมดเวลา"
+
+#: lang.lua:92
+msgid "服务器登录超时"
+msgstr "หมดเวลาเข้าสู่ระบบเซิร์ฟเวอร์"
+
+#: lang.lua:93
+msgid "服务器连接失败"
+msgstr "การเชื่อมต่อเซิร์ฟเวอร์ล้มเหลว"
+
+#: lang.lua:94
+msgid "与服务器失去连接,请查看您的网络连接后再次连接"
+msgstr "หลุดการเชื่อมต่อเซิร์ฟเวอร์ กรุณาเช็คเน็ตแล้วลองใหม่อีกครั้งค่ะ"
+
+#: lang.lua:95
+msgid "错误提示"
+msgstr "ข้อผิดพลาด"
+
+#: lang.lua:96
+msgid "请重试"
+msgstr "ลองใหม่ค่ะ"
+
+#: lang.lua:97
+msgid "网络状况不佳{1}正在链接网络"
+msgstr "เน็ตไม่ดี{1}กำลังเชื่อมต่ออยู่ค่ะ"
+
+#: lang.lua:99
+msgid "FB账户登录"
+msgstr "ล็อกอินบัญชี FB"
+
+#: lang.lua:100
+msgid "游客账户登录"
+msgstr "ล็อกอินบัญชีนักเที่ยว"
+
+#: lang.lua:101
+msgid ""
+"您是否允许我们使用您的设备名称\n"
+"作为游客账户的昵称并上传到游戏服务器？"
+msgstr "ยินยอมที่จะให้เราใช้ชื่ออุปกรณ์ของคุณเป็นชื่อเกมส์บัญชีนักเที่ยวหรือไม่?"
+
+#: lang.lua:102
+msgid "领取奖励成功"
+msgstr "รับรางวัลสำเร็จ"
+
+#: lang.lua:103 lang.lua:1493
+msgid "领取失败"
+msgstr "รับรางวัลล้มเหลว"
+
+#: lang.lua:104
+msgid "第一天"
+msgstr "วันที่ 1 "
+
+#: lang.lua:105
+msgid "第二天"
+msgstr "วันที่ 2"
+
+#: lang.lua:106
+msgid "第三天"
+msgstr "วันที่ 3"
+
+#: lang.lua:107
+msgid "正在登录游戏..."
+msgstr "กำลังล็อกอินเข้าเกมส์..."
+
+#: lang.lua:108
+msgid "登录已经取消"
+msgstr "ยกเลิกการล็อกอิน"
+
+#: lang.lua:109
+msgid "กรุณาแจ้งปัญหาโดยละเอียดพร้อมเบอร์โทรของท่าน ทางทีมงานจะรีบติดต่อท่านเพื่อแก้ปัญหาเข้าเกมไม่ได้โดยเร็ว ขอบคุณค่ะ "
+msgstr "กรุณาแจ้งปัญหาโดยละเอียดพร้อมเบอร์โทร ทางทีมงานจะรีบติดต่อคุณเพื่อแก้ไขปัญหาเข้าเกมส์ไม่ได้โดยเร็ว ขอบคุณค่ะ "
+
+#: lang.lua:110
+msgid "ฟีดแบค"
+msgstr ""
+
+#: lang.lua:111
+msgid " โปรดกรอกเบอร์โทร (ต้องกรอก)"
+msgstr " โปรดกรอกเบอร์โทร (ต้องกรอก)"
+
+#: lang.lua:112
+msgid "您的账户在其他地方登录"
+msgstr "บัญชีของคุณถูกล็อกอินที่อื่น"
+
+#: lang.lua:114
+msgid "反馈"
+msgstr "ปัญหาผู้เล่น"
+
+#: lang.lua:115
+msgid "处理结果"
+msgstr "คำตอบ GM"
+
+#: lang.lua:118
+msgid "点击一键清理按钮后,可以清理游戏中的缓存,是否确认清理？"
+msgstr "กดปุ่ม \"ล้างแคช\" เข้าเกมส์ได้สะดวกยิ่งขึ้น  ยืนยันที่จะล้าง?"
+
+#: lang.lua:120
+msgid "当前在线人数{1}"
+msgstr "คนออนไลน์: {1}"
+
+#: lang.lua:121
+msgid "邀请FB好友+{1}"
+msgstr "เชิญเพื่อน +{1}"
+
+#: lang.lua:122
+msgid "登录奖励"
+msgstr "รางวัลล็อกอิน"
+
+#: lang.lua:123
+msgid "每日任务"
+msgstr "ภารกิจรายวัน"
+
+#: lang.lua:124 lang.lua:1025
+msgid "最新活动"
+msgstr "กิจกรรมล่าสุด"
+
+#: lang.lua:125
+msgid "幸运转转转"
+msgstr "วงล้อหมุนๆ"
+
+#: lang.lua:126
+msgid "签到领奖"
+msgstr "ลงชื่อรับรางวัล"
+
+#: lang.lua:129 lang.lua:605
+msgid "商城"
+msgstr "ห้าง"
+
+#: lang.lua:130 lang.lua:205
+msgid "好友"
+msgstr "เพื่อน"
+
+#: lang.lua:131 lang.lua:506
+msgid "排行榜"
+msgstr "แรงค์กิ้ง"
+
+#: lang.lua:132 lang.lua:1665
+msgid "兑换"
+msgstr "แลก"
+
+#: lang.lua:133
+msgid "最大买入{1}"
+msgstr "นำเข้าสูงสุด{1}"
+
+#: lang.lua:134
+msgid "最小买入{1}"
+msgstr "นำเข้าต่ำสุด{1}"
+
+#: lang.lua:135
+msgid "最小入场{1}"
+msgstr "นำเข้าต่ำสุด{1}"
+
+#: lang.lua:136
+msgid "前注"
+msgstr "เดิมพัน"
+
+#: lang.lua:137
+msgid "你输入的房间号码有误"
+msgstr "ไอดีห้องไม่ถูกต้องค่ะ"
+
+#: lang.lua:138
+msgid "房间号码不能为空"
+msgstr "ห้ามเว้นว่างไอดีห้องค่ะ"
+
+#: lang.lua:139
+msgid "你输入的房间位数不对"
+msgstr "ไอดีห้องไม่ถูกต้องค่ะ"
+
+#: lang.lua:140
+msgid "请输入房间号码"
+msgstr "กรุณากรอกไอดีห้อง"
+
+#: lang.lua:142
+msgid "普通场"
+msgstr "ห้องธรรมดา"
+
+#: lang.lua:144 lang.lua:171
+msgid "私人房"
+msgstr "ห้องส่วนตัว"
+
+#: lang.lua:147
+msgid "点击这里使用小喇叭 >>"
+msgstr "กดส่งลำโพงทั่วเซิร์ฟ >>"
+
+#: lang.lua:151
+msgid "上庄资产"
+msgstr "ชิปเจ้ามือ"
+
+#: lang.lua:152 lang.lua:197
+msgid "底注"
+msgstr "เดิมพัน"
+
+#: lang.lua:153
+msgid "入场门槛"
+msgstr "นำเข้าต่ำสุด"
+
+#: lang.lua:154
+msgid "MIN上庄值"
+msgstr "ชิปเป็นเจ้า"
+
+#: lang.lua:155
+msgid "在线人数"
+msgstr "ผู้ออนไลน์"
+
+#: lang.lua:158
+msgid "快速进入"
+msgstr "เล่นทันที"
+
+#: lang.lua:161
+msgid "热门比赛"
+msgstr "แข่งจับเวลา"
+
+#: lang.lua:162
+msgid "常规赛"
+msgstr "แข่งชิงเงิน"
+
+#: lang.lua:163
+msgid "敬请期待"
+msgstr "เร็วๆนี้"
+
+#: lang.lua:166
+msgid "规则"
+msgstr "กติกา"
+
+#: lang.lua:169
+msgid "全新上庄玩法火热研发中，敬请期待下个版本"
+msgstr "ฟังก์ชั่นใหม่【เป็นเจ้า】กำลังพัฒนาอยู่ค่ะ จะเปิดให้บริการเวอร์ชั่นหน้าค่ะ"
+
+#: lang.lua:172
+msgid "创建筹码房间"
+msgstr "สร้างห้องชิป"
+
+#: lang.lua:173
+msgid "创建房间"
+msgstr "สร้างห้อง"
+
+#: lang.lua:174 lang.lua:726
+msgid "邀请好友"
+msgstr "เชิญเพื่อน"
+
+#: lang.lua:175
+msgid "扫码推荐"
+msgstr "สแกน Code"
+
+#: lang.lua:176
+msgid "进入"
+msgstr "เข้าห้อง"
+
+#: lang.lua:177
+msgid "密码错误"
+msgstr "รหัสไม่ถูกต้องค่ะ"
+
+#: lang.lua:179
+msgid "初级场"
+msgstr "ห้องมือใหม่"
+
+#: lang.lua:180
+msgid "中级场"
+msgstr "ห้องโปร"
+
+#: lang.lua:183
+msgid "房间名称: "
+msgstr "ชื่อห้อง:"
+
+#: lang.lua:184
+msgid "房间底注: "
+msgstr "เดิมพัน:"
+
+#: lang.lua:185
+msgid "房间密码: "
+msgstr "รหัสห้อง:"
+
+#: lang.lua:186
+msgid "赢家服务费: "
+msgstr "ผู้ชนะต้องจ่ายค่าบริการ："
+
+#: lang.lua:187
+msgid "房间最小进入: "
+msgstr "นำเข้าต่ำสุด:"
+
+#: lang.lua:188
+msgid "输入房间名称"
+msgstr "กรอกชื่อห้อง"
+
+#: lang.lua:189
+msgid "请输入6位数密码"
+msgstr "กรอกรหัส 6 หลัก"
+
+#: lang.lua:190
+msgid "不填则没有密码"
+msgstr "หากไม่กรอก จะไม่มีรหัสห้อง"
+
+#: lang.lua:195
+msgid "房间ID"
+msgstr "ID ห้อง"
+
+#: lang.lua:196
+msgid "房间名称"
+msgstr "ชื่อห้อง"
+
+#: lang.lua:198
+msgid "最小进入"
+msgstr "นำเข้าต่ำสุด"
+
+#: lang.lua:199
+msgid "服务费"
+msgstr "ค่าบริการ"
+
+#: lang.lua:200
+msgid "密码"
+msgstr "รหัส"
+
+#: lang.lua:201
+msgid "房间人数"
+msgstr "ผู้เล่น"
+
+#: lang.lua:206
+msgid "在线玩家"
+msgstr "ผู้เล่นออนไลน์"
+
+#: lang.lua:208
+msgid "用LINE叫TA"
+msgstr "LINE หาเพื่อน"
+
+#: lang.lua:210
+msgid "在线"
+msgstr "ออนไลน์"
+
+#: lang.lua:211 lang.lua:751
+msgid "离线"
+msgstr "ออฟไลน์"
+
+#: lang.lua:212 lang.lua:750
+msgid "大厅"
+msgstr "ล็อบบี้"
+
+#: lang.lua:213
+msgid "房间游戏中"
+msgstr "ในห้องกำลังเล่น"
+
+#: lang.lua:214
+msgid "发送成功"
+msgstr "ส่งสำเร็จ"
+
+#: lang.lua:215
+msgid "发送失败"
+msgstr "ส่งล้มเหลว"
+
+#: lang.lua:218
+msgid "接受邀请"
+msgstr "รับคำขอ"
+
+#: lang.lua:219
+msgid "稍后接受"
+msgstr "ไว้ก่อน"
+
+#: lang.lua:221
+msgid "房间不存在"
+msgstr "ไม่มีห้องค่ะ"
+
+#: lang.lua:222
+#, lua-format
+msgid "ทุกรอบในห้องชิป ผู้ชนะต้องจ่ายค่าบริการ=ชิปที่ชนะ*10%% นำเข้าต่ำสุด=เดิมพัน*20เท่า"
+msgstr ""
+
+#: lang.lua:229
+msgid "小欢欢"
+msgstr "ป๊อกเด้ง"
+
+#: lang.lua:230
+msgid "{1}邀请您进入私人房"
+msgstr "{1} เชิญคุณเข้าห้องส่วนตัว"
+
+#: lang.lua:231
+msgid "您的金币不足，不能创建该底注场私人房"
+msgstr "ชิปของคุณมีไม่พอค่ะ ไม่สามารถสร้างห้องที่มีชิปเดิมพันเท่านี้ได้"
+
+#: lang.lua:232
+msgid "私人房不可换桌"
+msgstr "ห้องส่วนตัวไม่สามารถเปลี่ยนโต๊ะได้ค่ะ"
+
+#: lang.lua:235
+msgid "扫描二维码下载'搏定牌'游戏"
+msgstr "สแกน QR Code โหลดเกมส์ไพ่ป๊อกเด้ง"
+
+#: lang.lua:236
+msgid "把二维码给朋友扫一扫,即可下载搏定牌游戏,一起玩更开心"
+msgstr "ให้เพื่อนสแกน QR Code โหลดเกมส์ไพ่ป๊อกเด้ง เล่นด้วยกันสนุกยิ่งขึ้น!"
+
+#: lang.lua:237
+msgid "私人房功能介绍"
+msgstr "คำอธิบายห้องส่วนตัว"
+
+#: lang.lua:239
+msgid "1. 什么是私人房？"
+msgstr "1. ห้องส่วนตัวคืออะไร?"
+
+#: lang.lua:240
+msgid "2. 筹码房间和积分房间有什么区别？"
+msgstr "2. ห้องชิปและห้องคะแนนแตกต่างกันอย่างไร?"
+
+#: lang.lua:241
+msgid "3. 临时积分输完后怎么办？"
+msgstr "3. หากคะแนนสะสมชั่วคราวของคุณหมดจะทำอย่างไร?"
+
+#: lang.lua:242
+msgid "4. 二维码有什么用？"
+msgstr "4. QR Code มีประโยชน์อะไรบ้าง?"
+
+#: lang.lua:245
+msgid "私人房是玩家和朋友间游戏的私密房间,可以设定密码避免陌生人打扰。"
+msgstr ""
+"คือห้องส่วนตัวที่คุณกับเพื่อนๆใช้ในการเล่นป๊อกเด้งแบบส่วนตัว สามารถตั้งรหัสห้องได้ เพื่อไม่ให้คนอื่นเข้ามารบกวน โดยห้องส่วนตัวแบ่งออกเป็น "
+"2 ประเภท คือ1.) ห้องชิป และ 2.) ห้องคะแนน"
+
+#: lang.lua:246
+msgid ""
+"两种房间区别是结算货币不同。‘筹码房间’输赢使用“游戏筹码”结算。‘积分房间’输赢使用‘临时积分’ 结算,不消耗游"
+"戏筹码。临时积分是一种临时结算代币,只在积分房间内有效,退出积分房间则清零。"
+msgstr ""
+"ความแตกต่างของ 2 ห้องนี้อยู่ที่ชิป การแพ้ชนะใน“ห้องชิป” จะใช้ชิปเกมส์ในการคิดผลรวม ส่วน“ห้องคะแนน” "
+"จะใช้“คะแนนชั่วคราว”ในการคิดผลรวม คะแนนชั่วคราวนั้นใช้ในการคิดผลรวมชั่วคราวแทนการใช้ชิปเกมส์ ใช้ได้เฉพาะในห้องคะแนนเท่านั้น "
+"หากออกจากห้องคะแนน คะแนนทั้งหมดจะถูกหักเป็น 0 \n"
+"***ซึ่งตอนนี้ระบบเปิดให้บริการเฉพาะ“ห้องชิป”เท่านั้น ส่วน“ห้องคะแนน” จะเปิดให้บริการในเร็วๆนี้ค่ะ"
+
+#: lang.lua:248
+msgid "输完后可以在房间内申请添加,申请后系统会记录玩家申请次数及总数。"
+msgstr "หากแพ้หมด สามารถยื่นเรื่องขอเพิ่มคะแนนได้ ระบบจะบันทึกจำนวนครั้งในการยื่นเรื่องและคะแนนที่ได้ทั้งหมดของคุณไว้"
+
+#: lang.lua:249
+msgid "可以把二维码展示给朋友让其扫码快速下载游戏,朋友下载后就可以和你一起游戏了。"
+msgstr "สามารถส่งให้เพื่อนสแกน QR Code เพื่อทำการโหลดเกมส์ไพ่ป๊อกเด้งได้ หลังเพื่อนโหลดเสร็จ ก็สามารถเข้าเกมส์มาเล่นกับคุณได้ทันที"
+
+#: lang.lua:252
+msgid "请输入房间密码"
+msgstr "ใส่รหัสห้อง"
+
+#: lang.lua:254
+msgid "房间 id:"
+msgstr "ID ห้อง:"
+
+#: lang.lua:257
+msgid "密码输入有误！"
+msgstr "รหัสไม่ถูกต้องค่ะ!"
+
+#: lang.lua:258
+msgid "进入房间"
+msgstr "เข้าห้อง"
+
+#: lang.lua:261
+msgid "创建自己的房间邀请好友一起游戏"
+msgstr "สร้างห้องส่วนตัว แล้วเรียกซี๊มาเล่นกัน"
+
+#: lang.lua:262
+msgid "你可以分享游戏的二维码给好友，方便快速下载"
+msgstr "แชร์ QR โค้ดให้เพื่อนๆ โหลดเกมส์เร็วขึ้น"
+
+#: lang.lua:267
+msgid "点击领取免费筹码"
+msgstr "กดรับชิปฟรี"
+
+#: lang.lua:270
+msgid ""
+"9\n"
+"人"
+msgstr ""
+"9\n"
+"คน"
+
+#: lang.lua:271
+msgid ""
+"5\n"
+"人"
+msgstr ""
+"5\n"
+"คน"
+
+#: lang.lua:273
+msgid ""
+"太棒了！您在游戏中连胜了5局，快去分享成就给伙伴们吧，还能获得5000游戏币，或许还有更大惊喜等着你，一定要分"
+"享哟！"
+msgstr "คุณสุดยอดมาก! เล่นชนะติดต่อกัน 5 ครั้ง แชร์อวดเพื่อนตอนนี้  รับรางวัลฟรี 50000 ชิป อย่าพลาดของดี แชร์เลย!"
+
+#: lang.lua:274
+msgid "今天,您得到5倍牌型!如此成就必须炫耀炫耀 "
+msgstr "วันนี้คุณชนะได้ชิป * 5 เท่า บันทึกครั้งยิ่งใหญ่นี้ มันหนักอก ต้องบอกต่อ แชร์เลยค่ะ "
+
+#: lang.lua:276
+msgid "ID {1}"
+msgstr "ID {1}"
+
+#: lang.lua:278
+msgid "排名:  {1}"
+msgstr "แรงค์กิ้ง:  {1}"
+
+#: lang.lua:279
+#, lua-format
+msgid "胜率:  {1}%%"
+msgstr "อัตราชนะ:  {1}%%"
+
+#: lang.lua:280 lang.lua:697
+msgid "赠送筹码"
+msgstr "ส่งชิป"
+
+#: lang.lua:281
+msgid "加为好友"
+msgstr "เพิ่มเพื่อน"
+
+#: lang.lua:282
+msgid "删除好友"
+msgstr "ลบเพื่อน"
+
+#: lang.lua:283
+msgid "关注"
+msgstr "ติดตาม"
+
+#: lang.lua:284
+msgid "取消关注"
+msgstr "ยกเลิกติดตาม"
+
+#: lang.lua:285
+msgid "添加好友失败"
+msgstr "เพิ่มเพื่อนล้มเหลว"
+
+#: lang.lua:286
+msgid "删除好友成功"
+msgstr "ลบเพื่อนสำเร็จ"
+
+#: lang.lua:287
+msgid "删除好友失败"
+msgstr "ลบเพื่อนล้มเหลว"
+
+#: lang.lua:288
+msgid "只有普通场才可以赠送筹码"
+msgstr "นอกเหนือจากห้องแข่งขันถึงจะส่งชิปได้"
+
+#: lang.lua:289
+msgid "你的筹码不够多，不足给荷官小费"
+msgstr "ชิปของคุณไม่พอที่จะให้ทิปค่ะ"
+
+#: lang.lua:290
+msgid "坐下才可以赠送筹码"
+msgstr "นั่งลงถึงจะส่งชิปได้ค่ะ"
+
+#: lang.lua:291
+msgid "钱不够啊"
+msgstr "ชิปไม่พอค่ะ"
+
+#: lang.lua:292
+msgid "赠送的太频繁了"
+msgstr "ส่งชิปบ่อยเกินไปค่ะ"
+
+#: lang.lua:293
+msgid "赠送的太多了"
+msgstr "ส่งชิปมากเกินไปค่ะ"
+
+#: lang.lua:294
+msgid "比赛场不能发送互动道具"
+msgstr "ห้องแข่งขันไม่สามารถส่งไอเทมได้ค่ะ"
+
+#: lang.lua:295
+msgid "坐下才能发送互动道具"
+msgstr "นั่งลงถึงจะสามารถส่งไอเทมได้ค่ะ"
+
+#: lang.lua:296
+msgid "您的互动道具数量不足，赶快去商城购买吧"
+msgstr "จำนวนไอเทมมีไม่พอที่จะส่งค่ะ กรุณาไปที่ห้างเพื่อซื้อไอเทมค่ะ"
+
+#: lang.lua:297
+msgid "坐下才可以发送表情"
+msgstr "นั่งลงถึงจะส่งอีโมได้ค่ะ"
+
+#: lang.lua:298
+msgid "{1}: {2}"
+msgstr "{1}: {2}"
+
+#: lang.lua:299
+msgid "{1} {2}/前注{3}"
+msgstr "{1} {2}/เดิมพัน{3}"
+
+#: lang.lua:300
+msgid "暂无喇叭,是否立即购买？"
+msgstr "ยังไม่มีลำโพง  จะซื้อทันทีหรือไม่?"
+
+#: lang.lua:301
+msgid "发送大喇叭消息失败"
+msgstr "ส่งข่าวสารผ่านลำโพงล้มเหลว"
+
+#: lang.lua:302
+msgid "您获得了{1}筹码的破产补助，终身只有三次机会获得，且用且珍惜"
+msgstr "คุณได้รับชิปช่วยเหลือ {1} ชิป ในหนึ่งบัญชีมีสิทธิ์รับชิปช่วยเหลือ 3 ครั้งเท่านั้น ใช้อย่างระมัดระวังนะคะ"
+
+#: lang.lua:303
+msgid "您也可以立即购买，输赢只是转瞬的事"
+msgstr "คุณจะซื้อชิปก็ได้เหมือนกันนะคะ แพ้ชนะเป็นเรื่องธรรมดา"
+
+#: lang.lua:304
+msgid "您已经领完所有破产补助，您可以去商城购买筹码，每天登录还有免费筹码赠送哦！"
+msgstr "คุณใช้สิทธิ์รับชิปช่วยเหลือครบแล้ว สามารถซื้อชิปเพิ่มได้ที่ห้าง หากล็อกอินทุกวัน จะได้รับชิปฟรีทุกวันด้วยนะคะ!"
+
+#: lang.lua:305
+msgid "输赢乃兵家常事，不要灰心，立即购买筹码，重整旗鼓。"
+msgstr "แพ้ชนะเป็นเรื่องธรรมดา อย่าท้อเด็ดขาดนะคะ ไปซื้อชิปตอนนี้ ชัยชนะอยู่แค่เอื้อม"
+
+#: lang.lua:306
+msgid "请等待下一局开始"
+msgstr "กรุณารอรอบต่อไป"
+
+#: lang.lua:307
+msgid "登录房间失败"
+msgstr "ล็อกอินเข้าห้องล้มเหลว"
+
+#: lang.lua:309
+msgid "2/3"
+msgstr ""
+
+#: lang.lua:310
+msgid "1/2"
+msgstr ""
+
+#: lang.lua:311
+msgid "1/3"
+msgstr ""
+
+#: lang.lua:312
+msgid "快捷聊天"
+msgstr "แชทแบบเร็ว"
+
+#: lang.lua:313
+msgid "聊天记录"
+msgstr "บันทึกแชท"
+
+#: lang.lua:314
+msgid "点击输入聊天内容"
+msgstr "กดเพื่อกรอกข้อความแชท"
+
+#: lang.lua:316
+msgid "大家好!"
+msgstr "สวัสดีค่ะ!"
+
+#: lang.lua:317
+msgid "初来乍到，多多关照"
+msgstr "ฝากเนื้อฝากตัวด้วยนะคะ"
+
+#: lang.lua:318
+msgid "我等到花儿都谢了"
+msgstr "รอนานมากแล้วนะ"
+
+#: lang.lua:319
+msgid "ALL IN 他!!"
+msgstr "ALL IN!!!"
+
+#: lang.lua:320
+msgid "你的牌打得太好了!"
+msgstr "เล่นได้เจ๋งมาก!"
+
+#: lang.lua:321
+msgid "冲动是魔鬼，淡定!"
+msgstr "ใจเย็นๆ"
+
+#: lang.lua:322
+msgid "求跟注，求ALL IN!"
+msgstr "เดิมพันได้แล้ว"
+
+#: lang.lua:323
+msgid "送点钱给我吧!"
+msgstr "ส่งชิปให้หน่อย"
+
+#: lang.lua:324
+msgid "哇，你抢钱啊!"
+msgstr "นี่จะขโมยชิปหรอ"
+
+#: lang.lua:325
+msgid "又断线，网络太差了!"
+msgstr "เน็ตหลุดอีกละ เน่ามาก!"
+
+#: lang.lua:328
+msgid "您刚刚离线异常,自动玩牌期间赢收了{1}筹码"
+msgstr "เมื่อกี้เน็ตหลุด ในช่วงเวลาระบบเล่นแทน ท่านชนะ{1}ชิป"
+
+#: lang.lua:329
+msgid "您刚刚离线异常,自动玩牌期间亏损了{1}筹码"
+msgstr "เมื่อกี้เน็ตหลุด ในช่วงเวลาระบบเล่นแทน ท่านเสียไป{1}ชิป"
+
+#: lang.lua:330
+msgid "您刚刚离线异常,自动玩牌期间赢收了{1}现金币"
+msgstr "เมื่อกี้เน็ตหลุด ในช่วงเวลาระบบเล่นแทน ท่านชนะ{1}ชิปเงินสด"
+
+#: lang.lua:331
+msgid "您刚刚离线异常,自动玩牌期间亏损了{1}现金币"
+msgstr "เมื่อกี้เน็ตหลุด ในช่วงเวลาระบบเล่นแทน ท่านเสียไป{1}ชิปเงินสด"
+
+#: lang.lua:334
+msgid "买入筹码"
+msgstr "ซื้อชิป"
+
+#: lang.lua:335
+msgid "您的账户余额:"
+msgstr "ยอดชิปที่เหลือ:"
+
+#: lang.lua:336
+msgid "最低买入"
+msgstr "นำเข้าต่ำสุด"
+
+#: lang.lua:337
+msgid "最高买入"
+msgstr "นำเข้าสูงสุด"
+
+#: lang.lua:338
+msgid "筹码不足时自动买入"
+msgstr "ชิปไม่พอซื้อเข้าอัตโนมัติ"
+
+#: lang.lua:339
+msgid "买入坐下"
+msgstr "นำขิปเข้าห้อง"
+
+#: lang.lua:340
+msgid "返回大厅"
+msgstr "กลับล็อบบี้"
+
+#: lang.lua:341
+msgid "换  桌"
+msgstr "เปลี่ยนห้อง"
+
+#: lang.lua:342
+msgid "设  置"
+msgstr "ตั้งค่า"
+
+#: lang.lua:343
+msgid "您的筹码不足当前房间的最小携带，您可以点击自动换桌系统帮你选择房间或者补足筹码重新坐下。"
+msgstr "ชิปของคุณมีไม่พอในการเดิมพันขั้นต่ำ กรุณากดเปลี่ยนห้อง ระบบจะช่วยเลือกห้องให้คุณอัตโนมัติหรือไปเพิ่มชิปก่อนเข้าห้องค่ะ"
+
+#: lang.lua:344
+msgid "自动换桌"
+msgstr "เปลี่ยนห้อง"
+
+#: lang.lua:345
+msgid "个人信息"
+msgstr "ข้อมูลส่วนตัว"
+
+#: lang.lua:346
+msgid "补充筹码"
+msgstr "เพิ่มชิป"
+
+#: lang.lua:347
+msgid ""
+"正在进入，请稍候...\n"
+"有识尚需有胆方可成赢家"
+msgstr ""
+"กำลังดำเนินการ กรุณารอสักครู่...\n"
+"ผู้กล้าเท่านั้นที่จะมีสิทธิ์เป็นผู้ชนะ"
+
+#: lang.lua:348
+msgid "正在退出，请稍候..."
+msgstr "กำลังออก กรุณารอสักครู่..."
+
+#: lang.lua:349
+msgid "正在更换房间.."
+msgstr "กำลังเปลี่ยนห้อง..."
+
+#: lang.lua:350
+msgid "更换房间失败，是否重试？"
+msgstr "เปลี่ยนห้องล้มเหลว ลองใหม่อีกครั้ง?"
+
+#: lang.lua:351
+msgid "请在本局结束后站起, 强制站起按“输牌”处理, 你确定要站起吗?"
+msgstr "กรุณาลุกขึ้นหลังเกมส์จบ หากลุกตอนนี้ถือว่ายอมแพ้ในรอบนี้ คุณยืนยันที่จะลุกขึ้น?"
+
+#: lang.lua:352
+msgid "本局结束站起"
+msgstr "หลังจบรอบนี้ ลุกขึ้นอัตโนมัติ"
+
+#: lang.lua:353
+msgid "请在本局结束后退出, 强制退出按“输牌”处理, 你确定要退出吗?"
+msgstr "รอบนี้ยังไม่จบ หากออกตอนนี้ถือว่าหนี จะถูกหักชิป 5 เท่าของชิปเดิมพัน คุณยืนยันที่จะออกเกมส์?"
+
+#: lang.lua:354
+msgid "请在本局结束后换桌, 强制换桌按“输牌”处理, 你确定要换桌吗?"
+msgstr "รอบนี้ยังไม่จบ หากเปลี่ยนโต๊ะตอนนี้ถือว่าหนี จะถูกหักชิป 5 เท่าของชิปเดิมพัน คุณยืนยันที่จะเปลี่ยนโต๊ะ?"
+
+#: lang.lua:355
+msgid "与服务器的连接中断，是否尝试重新连接？"
+msgstr "หลุดการเชื่อมต่อเซิร์ฟเวอร์กระทันหัน ลองใหม่อีกครั้ง?"
+
+#: lang.lua:356
+msgid "正在重新连接.."
+msgstr "กำลังเชื่อมต่อใหม่..."
+
+#: lang.lua:358
+msgid "自动看牌"
+msgstr "ผ่านอัตโนมัติ"
+
+#: lang.lua:359
+msgid "看或弃"
+msgstr "ผ่าน/หมอบ"
+
+#: lang.lua:360
+msgid "自动弃牌"
+msgstr "หมอบอัตโนมัติ"
+
+#: lang.lua:361
+msgid "跟任何注"
+msgstr "สู้ทุกตา"
+
+#: lang.lua:362
+msgid "弃  牌"
+msgstr "หมอบ"
+
+#: lang.lua:363
+msgid "ALL IN"
+msgstr "ALL IN"
+
+#: lang.lua:364
+msgid "跟  注"
+msgstr "สู้"
+
+#: lang.lua:365
+msgid "跟注 {1}"
+msgstr "สู้ {1}"
+
+#: lang.lua:366
+msgid "小盲"
+msgstr ""
+
+#: lang.lua:367
+msgid "大盲"
+msgstr ""
+
+#: lang.lua:368
+msgid "加  注"
+msgstr "เก"
+
+#: lang.lua:369
+msgid "加注 {1}"
+msgstr "เก {1}"
+
+#: lang.lua:370
+msgid "看  牌"
+msgstr "ผ่าน"
+
+#: lang.lua:378
+msgid "小提示：游客用户点击自己的头像弹框或者性别标志可更换头像和性别哦"
+msgstr "เตือน: ผู้เล่นบัญชีนักเที่ยวสามารถเปลี่ยนรูปประจำตัวและเพศได้โดยกดไอคอนรูปประจำตัวค่ะ"
+
+#: lang.lua:379
+msgid "小经验：当你牌比对方小的时候，你会输掉已经押上的所有筹码"
+msgstr "Tips: เมื่อไพ่ของคุณเล็กกว่าเจ้า จะเสียชิปเดิมพันทั้งหมดให้กับเจ้าค่ะ"
+
+#: lang.lua:380
+msgid "高手养成：所有的高手，在他会三公游戏之前，一定是一个三公游戏的菜鸟"
+msgstr "การเป็นเซียน: ก่อนจะเป็นเซียนป๊อกเด้ง ทุกคนล้วนแต่เป็นเด็กน้อยหัดเล่นทั้งนั้นแหละ!"
+
+#: lang.lua:381
+msgid "有了好牌要加注，要掌握优势，主动进攻。"
+msgstr "ได้ไพ่ดีมันต้องเก เราต้องควบคุมเกมส์ เป็นฝ่ายรุก!"
+
+#: lang.lua:382
+msgid "留意观察对手，不要被对手的某些伎俩所欺骗。"
+msgstr "คอยสังเกตคู่แข่ง อย่าให้พวกเขามาหลอกคุณได้"
+
+#: lang.lua:383
+msgid "要打出气势，让别人怕你。"
+msgstr "เล่นไพ่ต้องมีมาด ให้คู่แข่งกลัวเรา"
+
+#: lang.lua:384
+msgid "控制情绪，赢下该赢的牌。"
+msgstr "ควบคุมอารมณ์ให้ดี มีชัยไปกว่าครึ่ง!"
+
+#: lang.lua:385
+msgid "游客玩家可以自定义自己的头像。"
+msgstr "ผู้เล่นบัญชีนักเที่ยว สามารถเปลี่ยนรูปประจำตัวได้"
+
+#: lang.lua:386
+msgid "小提示：设置页可以设置进入房间是否自动买入坐下。"
+msgstr "เตือน:หน้าการตั้งค่า สามารถตั้งค่านั่งลงอัตโนมัติได้"
+
+#: lang.lua:387
+msgid "小提示：设置页可以设置是否震动提醒。"
+msgstr "เตือน: หน้าการตั้งค่า สามารถตั้งค่าเสียงสั่นได้"
+
+#: lang.lua:388
+msgid "忍是为了下一次All In。"
+msgstr "อดทน! เพื่อชัยชนะ"
+
+#: lang.lua:389
+msgid "冲动是魔鬼，心态好，好运自然来。"
+msgstr "รีบร้อนไปไม่ดี ต้องใจเย็นๆ โชคถึงจะมา"
+
+#: lang.lua:390
+msgid "风水不好时，尝试换个位置。"
+msgstr "ตอนฮวงจุ้ยไม่ค่อยดี ลองเปลี่ยนที่นั่งก็ดีนะ"
+
+#: lang.lua:391
+msgid "输牌并不可怕，输掉信心才是最可怕的。"
+msgstr "แพ้ไม่น่ากลัว ขาดความมั่นใจนี่สิน่ากลัวกว่า"
+
+#: lang.lua:392
+msgid "你不能控制输赢，但可以控制输赢的多少。"
+msgstr "คุณไม่สามารถกำหนดได้ว่าใครจะแพ้หรือชนะ แต่สามารถควบคุมจำนวนเงินแพ้ชนะได้"
+
+#: lang.lua:393
+msgid "用互动道具砸醒长时间不反应的玩家。"
+msgstr "ปาไอเทมให้กับพวกที่ทำให้รอนานๆ"
+
+#: lang.lua:394
+msgid "运气有时好有时坏，知识将伴随你一生。"
+msgstr "โชคดีบ้างไม่ดีบ้างไม่เป็นไร ขอแค่มีเทคนิคในการเล่นก็พอ"
+
+#: lang.lua:395
+msgid "诈唬是胜利的一大手段，要有选择性的诈唬。"
+msgstr "การแกล้งถือเป็นทีเด็ดที่นำไปสู่การชนะ แต่ต้องเลือกวิธีให้ถูก"
+
+#: lang.lua:396
+msgid "下注要结合池底，不要看绝对数字。"
+msgstr "เดิมพันต้องมีเทคนิค ขอให้โชคดี"
+
+#: lang.lua:397
+msgid "All In是一种战术，用好并不容易。"
+msgstr "All In ถือเป็นกลยุธ์เด็ด จะใช้ก็ต่อเมื่อมั่นใจ"
+
+#: lang.lua:399
+msgid "亮出手牌"
+msgstr "เปิดไพ่ในมือออก"
+
+#: lang.lua:401
+msgid "祝您牌运亨通，{1}"
+msgstr "ขอให้ได้ไพ่ดีๆนะคะ {1}"
+
+#: lang.lua:402
+msgid "祝您好运连连，{1}"
+msgstr "ขอให้คุณโชคดี {1}"
+
+#: lang.lua:403
+msgid "您人真好，{1}"
+msgstr "คุณใจดีจริงๆ {1}"
+
+#: lang.lua:404
+msgid "真高兴能为您服务，{1}"
+msgstr "ดีใจที่ได้รับใช้คุณค่ะ{1}"
+
+#: lang.lua:405
+msgid "衷心的感谢您，{1}"
+msgstr "ขอบคุณมากๆเลยค่ะ {1}"
+
+#: lang.lua:407
+msgid "服务器正在升级中，请稍候.."
+msgstr "กำลังอัพเดทเซิร์ฟเวอร์ กรุณารอสักครู่..."
+
+#: lang.lua:408
+msgid "破产了"
+msgstr "ล้มละลายแล้ว"
+
+#: lang.lua:410
+msgid "消息"
+msgstr "ข้อความ"
+
+#: lang.lua:411
+msgid "消息记录"
+msgstr "บันทึกแชท"
+
+#: lang.lua:413
+msgid "您已被管理员踢出该房间"
+msgstr "คุณถูกเตะออกจากห้องค่ะ"
+
+#: lang.lua:414
+msgid "您被用户{1}踢出了房间"
+msgstr "คุณถูก {1} เตะออกจากห้องค่ะ"
+
+#: lang.lua:415
+msgid "您被用户{1}踢出房间，本局结束之后将自动返回大厅"
+msgstr "คุณถูก {1} เตะออกจากห้องค่ะ เกมส์รอบนี้สิ้นสุดลงเมื่อใดจะกลับล็อบบี้อัตโนมัติ"
+
+#: lang.lua:419
+msgid "常规表情"
+msgstr "อีโมทั่วไป"
+
+#: lang.lua:420
+msgid "狐狸表情"
+msgstr "อีโมจิ้งจอกเจ้าเล่ห์"
+
+#: lang.lua:421
+msgid "兔子表情"
+msgstr "อีโมกระต่ายคิกข"
+
+#: lang.lua:424
+msgid "全场免费使用"
+msgstr "ใช้ได้ฟรีทุกห้อง"
+
+#: lang.lua:425
+msgid "单次使用费{1}筹码"
+msgstr "ค่าใช้จ่าย {1} ชิป/ครั้ง"
+
+#: lang.lua:426
+msgid "表情使用失败,请重试"
+msgstr "ใช้อีโมล้มเหลวค่ะ กรุณาลองใหม่อีกครั้งค่ะ"
+
+#: lang.lua:427
+msgid "筹码不足，付费表情使用失败，请稍后再试"
+msgstr "ชิปมีไม่พอ ใช้อีโมพิเศษล้มเหลว กรุณาลองทีหลัง"
+
+#: lang.lua:429
+msgid "您没有多余的筹码赠送了,请稍后再试"
+msgstr "คุณมีชิปไม่พอส่งให้เพื่อน กรุณาส่งใหม่ทีหลังค่ะ"
+
+#: lang.lua:432
+msgid "比赛场说明"
+msgstr "กติกาห้องแข่งขัน"
+
+#: lang.lua:434
+msgid "1. 怎么参加比赛?"
+msgstr "1. จะเข้าร่วมการแข่งขันได้อย่างไร?"
+
+#: lang.lua:435
+msgid "2. 怎么获取比赛门票?"
+msgstr "2. ตั๋วแข่งขันและคูปองรวมจะหามาจากที่ใดได้บ้าง?"
+
+#: lang.lua:436
+msgid "3. 比赛规则是什么?"
+msgstr "3. การแข่งขันมีกติกาอะไรบ้าง?"
+
+#: lang.lua:437
+msgid "4. 积分是什么?"
+msgstr "4. คะแนนคืออะไร?"
+
+#: lang.lua:438
+msgid "5. 比赛怎么玩?"
+msgstr "5. ห้องแข่งขันเล่นอย่างไร?"
+
+#: lang.lua:440
+msgid "您确认要退出本场比赛吗?"
+msgstr "คุณยืนยันจะออกจากการแข่งนี้ไหมคะ?"
+
+#: lang.lua:443
+msgid ""
+"比赛分为“付费比赛”和“免费比赛”两种方式。付费比赛需要消耗 “筹码” 或者 “参赛门票”。每场比赛官方会收取一定比"
+"例的筹码作为服务费;"
+msgstr ""
+"ไพ่ป๊อกเด้งมีการแข่งขัน 2 แบบ คือ 1.การแข่งขันแบบจ่ายค่าเข้าร่วม 2.การแข่งขันแบบฟรี ซึ่งการแข่งขันแบบจ่ายค่าเข้าร่วมนั้นจะใช้ “ชิป” "
+"หรือ “ตั๋วแข่งขัน” เป็นค่าเข้าร่วมการแข่งขัน ซึ่งการแข่งขันแต่ละรอบ ระบบจะมีการเก็บค่าบริการตามสัดส่วนที่กำหนด"
+
+#: lang.lua:445
+msgid ""
+"比赛门票有2种获取方式:\n"
+"    1.参加低级别的比赛取得名次后可获取高级别的比赛门票;\n"
+"    2.在商城储值购买“比赛门票”;"
+msgstr ""
+"วิธีการหาตั๋วแข่งขันและคูปองรวมมี 2 วิธี ดังนี้ \n"
+"  1.เข้าร่วมการแข่งขันในห้องระดับต่ำ หลังได้แรงค์กิ้งตามที่ระบบกำหนด จะได้รับตั๋วแข่งขันที่มีสิทธิ์เข้าแข่งในห้องระดับสูงฟรี \n"
+"  2.สามารถหาซื้อ “คูปองรวม” ได้ใน “ห้าง”"
+
+#: lang.lua:447
+msgid ""
+"比赛采用搏定牌的比牌规则。原来是闲家和庄家进行比牌判断输赢,但在比赛中是玩家和玩家进行比牌,所有玩家下注的"
+"积分算作桌面奖池,最大牌型的玩家赢得桌面奖池全部积分。"
+msgstr ""
+"การแข่งขันป๊อกเด้งใช้กติกาการเทียบไพ่แบบเดิม ต่างกันตรงที่จากเดิมเจ้าและผู้เล่นเทียบไพ่หาผู้แพ้ชนะ "
+"แต่ในห้องแข่งขันจะเปลี่ยนเป็นผู้เล่นแข่งขันกับผู้เล่นด้วยกันเอง คะแนนที่ใช้ในการเดิมพันของผู้เล่นทุกท่านจะถือเป็นคะแนนกองกลาง "
+"ใครชนะได้ไพ่ใหญ่สุด ผู้นั้นจะได้รับคะแนนกองกลางทั้งหมด"
+
+#: lang.lua:449
+msgid ""
+"积分是搏定比赛玩法采用的筹码代币,每场比赛所有玩家初始携带的积分相同,积分输完后自动站起并淘汰出局。最后根"
+"据站起的顺序决定排名名次。"
+msgstr ""
+"คือคะแนนที่ใช้เล่นแทนชิปในห้องแข่งขัน ผู้เล่นทุกท่านในทุกห้องแข่งขันจะนำเข้าคะแนนเท่ากัน "
+"คะแนนใครหมดก่อนจะถูกให้ยืนขึ้นอัตโนมัติและคัดออกจากการแข่งขัน หลังจากนั้นจะวัดผลแรงค์กิ้งตามลำดับต่อไป"
+
+#: lang.lua:451
+msgid ""
+"每局开始时所有玩家先下注一定积分到桌面奖池作为前注,下注额度和当前底注相同;\n"
+"荷官开始顺时针方向发牌,每人2张牌。为了增强趣味性,每人2张牌中的其中一张亮为明牌给其他玩家看到;\n"
+"发完牌后玩家开始轮流下注。下注规则是:上家选择下注积分,则下家下注额度不能少于上家下注额度（可以等于）,下家"
+"也可以选择弃牌;\n"
+"所有玩家第一轮下注完成后选择是否继续要牌。（已弃牌玩家本轮判输不再要牌）;\n"
+"荷官依次给要牌玩家发第三张牌。为了增强趣味性第三张牌依然为明牌;\n"
+"第三张牌发完后桌面玩家开始第二次轮流下注;\n"
+"第二轮下注完毕后所有玩家亮牌进行比牌,最大牌型玩家获胜,赢得桌面奖池;\n"
+"玩家输完积分后自动站起,根据出局的顺序决定排名并颁奖。"
+msgstr ""
+"1.หลังเริ่มการแข่งขัน ผู้เล่นทุกท่านจะวางเดิมพันแรกไว้เป็นคะแนนกองกลาง โดยจำนวนคะแนนที่จะวางเดิมพันจะเท่ากับคะแนนเดิมพันปัจจุบัน\n"
+"2.สาวแจกไพ่เริ่มแจกไพ่ตามเข็มนาฬิกา ทุกท่านจะได้รับไพ่ 2 ใบ เพื่อให้การแข่งขันมีความสนุกและน่าตื่นเต้นมากขึ้น ไพ่ที่แจกให้ผู้เล่นนั้นจะมี "
+"1 ใบเป็นไพ่หงาย ทุกท่านสามารถเห็นไพ่หงายของคู่แข่งได้\n"
+"3.หลังแจกไพ่เสร็จ ผู้เล่นจะผลัดกันวางเดิมพัน กติการการวางเดิมพันคือ: ผู้เล่นก่อนหน้าเลือกจำนวนคะแนนที่จะวางเดิมพัน "
+"ผู้เล่นท่านถัดไปจะต้องวางเดิมพันที่มีจำนวนห้ามต่ำกว่าจำนวนเดิมพันของผู้เล่นก่อนหน้า (เดิมพันเท่ากันได้) "
+"หรือผู้เล่นท่านถัดไปสามารถเลือกหมอบได้ \n"
+"4.หลังจากผู้เล่นทุกท่านทำการวางเดิมพันรอบที่ 1 เสร็จแล้ว สามารถเลือกที่จะจั่วไพ่ได้ (ผู้เล่นที่หมอบถือว่าแพ้ในรอบการแข่งขันนี้แล้ว "
+"จะทำการจั่วไพ่ไม่ได้)\n"
+"5.สาวแจกไพ่ทำการแจกไพ่ใบที่ 3 ให้กับผู้เล่นที่จั่วไพ่ เพื่อให้การแข่งขันน่าลุ้นมากยิ่งขึ้น ไพ่ใบที่ 3 จะเป็นไพ่หงาย "
+"ผู้เล่นทุกท่านสามารถมองเห็นได้\n"
+"6.เมื่อไพ่ใบที่ 3 แจกเสร็จแล้ว ผู้เล่นทุกท่านจะผลัดกันวางเดิมพันรอบที่ 2\n"
+"7.เมื่อวางเดิมพันรอบที่ 2 เสร็จแล้ว จะเริ่มทำการเทียบไพ่ โดยผู้เล่นที่ได้ไพ่ใหญ่สุดจะเป็นผู้ชนะ ได้รับคะแนนชิปกองกลางทั้งหมด\n"
+"8.ผู้เล่นที่แข่งจนคะแนนหมด จะถูกให้ยืนขึ้นอัตโนมัติ หลังจากนั้นจะวัดผลแรงค์กิ้งตามลำดับต่อไป"
+
+#: lang.lua:470
+msgid "比赛开始了"
+msgstr "เริ่มการแข่งแล้วค่ะ"
+
+#: lang.lua:471
+msgid "等待开赛..."
+msgstr "รอเปิดแข่ง"
+
+#: lang.lua:473
+msgid "退赛说明:"
+msgstr "คำอธิบายการออกการแข่ง"
+
+#: lang.lua:474
+msgid "1.当前状态为\"等待开赛\"，强制退赛将不予返还报名费用。请您耐心等待;"
+msgstr "1.เมื่อสถานะขอคุณคือ “รอเปิดแข่ง” หากออกจากการแข่งเองก่อน ระบบจะไม่คืนค่าลงชื่อให้ กรุณาใจเย็นๆนะคะ"
+
+#: lang.lua:475
+msgid "2.避免您等待时间过久，再过 {1} 秒后如还未开赛则可以免费退赛。"
+msgstr "2.เพื่อไม่ให้คุณรอนานเกินไป หากอีก {1} วินาที ยังไม่เริ่มแข่ง จะสามารถออกจากการแข่งขันได้ฟรี"
+
+#: lang.lua:476
+msgid "注意：筹码报名的玩家仅返还报名费用，服务费用不再返还。门票报名的玩家返还门票。"
+msgstr "เตือน: ผู้เล่นที่ใช้ชิปในการลงชื่อ ระบบจะคืนเฉพาะค่าลงชื่อให้เท่านั้น "
+
+#: lang.lua:479
+msgid "我要退赛"
+msgstr "ออกการแข่ง"
+
+#: lang.lua:480 lang.lua:546
+msgid "继续比赛"
+msgstr "แข่งต่อ"
+
+#: lang.lua:483
+msgid "报名比赛"
+msgstr "ลงชื่อเข้าแข่ง"
+
+#: lang.lua:488
+msgid "更多奖励"
+msgstr "รางวัลอื่นๆ"
+
+#: lang.lua:489
+msgid "使用门票参赛"
+msgstr "ใช้ตั๋วเข้าแข่ง"
+
+#: lang.lua:490
+msgid "使用筹码参赛"
+msgstr "ใช้ชิปเข้าแข่ง"
+
+#: lang.lua:491
+msgid "参赛费:"
+msgstr "ค่าแข่ง:"
+
+#: lang.lua:492
+msgid "服务费:"
+msgstr "ค่าบริการ:"
+
+#: lang.lua:494
+msgid "您的筹码:"
+msgstr "ชิปของคุณ:"
+
+#: lang.lua:495
+msgid "您的门票数:"
+msgstr "จำนวนตั๋ว:"
+
+#: lang.lua:496 lang.lua:615 lang.lua:1999
+msgid "{1}张"
+msgstr "{1}ใบ"
+
+#: lang.lua:497
+msgid "数:"
+msgstr "จำนวน:"
+
+#: lang.lua:498
+msgid "可使用筹码报名次数:"
+msgstr "สามารถใช้ชิปลงชื่อได้:"
+
+#: lang.lua:499
+msgid "可免费报名次数:"
+msgstr "จำนวนครั้งลงชื่อฟรี:"
+
+#: lang.lua:500
+msgid "报名失败{1}"
+msgstr "ลงชื่อล้มเหลว{1}"
+
+#: lang.lua:503
+msgid "今天免费报名次数已经用完，请明天再来"
+msgstr "จำนวนลงชื่อวันนี้ใช้หมดแล้ว พรุ่งนี้มาใหม่นะคะ"
+
+#: lang.lua:504
+msgid "今天筹码报名次数已经用完，请尝试其他报名方式"
+msgstr "จำนวนลงชื่อโดยใช้ชิปของวันนี้ใช้หมดแล้ว กรุณาลองใช้วีธีอื่นลงชื่อค่ะ"
+
+#: lang.lua:507
+msgid "排行奖励"
+msgstr "รางวัลแรงค์กิ้ง"
+
+#: lang.lua:509
+msgid "获奖时间"
+msgstr "เวลารับรางวัล"
+
+#: lang.lua:510
+msgid "领奖"
+msgstr "รับรางวัล"
+
+#: lang.lua:511
+msgid "{1} 参加 {2}  获得第 {3} 名"
+msgstr "{1}ร่วมแข่ง{2}ได้ที่{3}"
+
+#: lang.lua:512 lang.lua:1952
+msgid "领取成功"
+msgstr "รับรางวัลสำเร็จ"
+
+#: lang.lua:513 lang.lua:1556
+msgid "奖励内容"
+msgstr "รางวัล"
+
+#: lang.lua:514
+msgid "恭喜您获得了第{1}名的好成绩，向朋友们炫耀一下吧！"
+msgstr "ยินดีด้วยค่ะ คุณได้ที่ {1} ในห้องแข่งไพ่ป๊อกเด้ง อวดเพื่อนกันเลย!"
+
+#: lang.lua:515
+msgid "无"
+msgstr "ไม่มี"
+
+#: lang.lua:516 lang.lua:743
+msgid "返回"
+msgstr "กลับ"
+
+#: lang.lua:517
+msgid "留下旁观"
+msgstr "ยืนดูต่อ"
+
+#: lang.lua:518 lang.lua:1172 lang.lua:1252
+msgid "分享"
+msgstr "แชร์"
+
+#: lang.lua:519
+msgid "您短时间内多次获得该名次，超过当日颁奖上限，请明天再来."
+msgstr "ในระยะเวลาอันสั้นนี้ คุณได้รับรางวัลในอันดับนี้เกินจำนวนรับ/วันที่ระบบกำหนด พรุ่งนี้ค่อยมาใหม่นะคะ "
+
+#: lang.lua:520
+msgid "您离冠军并不遥远，调整好状态再来一局吧"
+msgstr "ตำแหน่งผู้ชนะอยู่ใกล้แค่เอื้อม ปรับเทคนิคอีกซักนิดแล้วมาดวลใหม่"
+
+#: lang.lua:521
+msgid "门票张数: "
+msgstr "จำนวนตั๋ว"
+
+#: lang.lua:522
+msgid "通用门票张数: "
+msgstr "จำนวนคูปองรวม"
+
+#: lang.lua:523
+msgid "暂无获奖记录"
+msgstr "ยังไม่มีบันทึกรางวัล"
+
+#: lang.lua:524
+msgid "当前排名:"
+msgstr "แรงค์กิ้งปัจจุบัน"
+
+#: lang.lua:525 lang.lua:538
+msgid "当前底注:"
+msgstr "เดิมพันปัจจุบัน"
+
+#: lang.lua:526
+msgid "下轮底注:"
+msgstr "เดิมพันรอบหน้า"
+
+#: lang.lua:527
+msgid "第 {1} 名"
+msgstr "ที่{1}"
+
+#: lang.lua:528
+msgid "请不要频繁强制退赛，再过{1}局后才可退赛"
+msgstr "กรุณาอย่ากดออกการแข่งบ่อยเกิน รออีก {1} รอบค่อยกดออกค่ะ"
+
+#: lang.lua:530
+msgid "退赛提示"
+msgstr "คำเตือนออกห้องแข่ง"
+
+#: lang.lua:531
+msgid "当前状态为‘已经开赛’，强制退赛将不会获得比赛名次及奖励!"
+msgstr "สถานะของคุณตอนนี้คือ “รอเปิดแข่ง” หากออกจากการแข่งเองก่อน จะไม่ได้ขึ้นอันดับและไม่ได้รับรางวัลค่ะ"
+
+#: lang.lua:532
+msgid "您确定要强制退赛吗？"
+msgstr "คุณยืนยันที่จะออกการแข่งขันเอง?"
+
+#: lang.lua:534
+msgid "你报名的{1},还有{2}秒钟开赛,请玩家赶紧到比赛场集合"
+msgstr "การแข่ง {1} ที่คุณลงชื่อเข้าร่วม อีก {2} วินาทีจะเริ่มแล้ว เมื่อถึงเวลา จะเข้าแข่งอัตโนมัติ รีบเข้าห้องแข่งมาเตรียมตัวก่อนนะคะ"
+
+#: lang.lua:537
+msgid "我的排名:"
+msgstr "แรงค์กิ้งของฉัน"
+
+#: lang.lua:539
+msgid "下次底注:"
+msgstr "เดิมพันครั้งหน้า"
+
+#: lang.lua:540
+msgid "当前第一名积分:"
+msgstr "คะแนนผู้ได้ที่ 1 "
+
+#: lang.lua:541
+msgid "所有人平均积分:"
+msgstr "คะแนนเฉลี่ยรวม"
+
+#: lang.lua:542
+msgid "当前剩余人数:"
+msgstr "เหลือคน"
+
+#: lang.lua:545
+msgid "强制退赛"
+msgstr "ออกห้องแข่ง"
+
+#: lang.lua:549
+msgid "详情"
+msgstr "ข้อมูล"
+
+#: lang.lua:553
+msgid "比赛即将开赛，马上参赛赢取大奖！"
+msgstr "การแข่งกำลังจะเริ่ม รีบมาเข้าร่วมแล้วเอารางวัลใหญ่กัน!"
+
+#: lang.lua:554
+msgid "参加比赛"
+msgstr "ร่วมแข่ง"
+
+#: lang.lua:555
+msgid "邀请已发布，请等待用户加入"
+msgstr "คำ \"เชิญเข้าแข่ง\" ถูกส่งออกแล้ว สักครู่จะมีเพื่อนร่วมเข้าแข่งค่ะ"
+
+#: lang.lua:556
+msgid "邀请朋友比赛"
+msgstr "ชวนเพื่อนแข่ง"
+
+#: lang.lua:557
+msgid "开赛时间"
+msgstr "เวลาแข่ง"
+
+#: lang.lua:558
+msgid "即将开赛"
+msgstr "จะเริ่มแข่ง"
+
+#: lang.lua:559
+msgid "第{1}名"
+msgstr "ผู้ได้ที่ {1}"
+
+#: lang.lua:567
+msgid "顺子"
+msgstr "เรียง"
+
+#: lang.lua:568
+msgid "同花顺"
+msgstr "เรียงดอก"
+
+#: lang.lua:569
+msgid "三黄"
+msgstr "สามเหลือง"
+
+#: lang.lua:570
+msgid "三张"
+msgstr "ตอง"
+
+#: lang.lua:571
+msgid "博定"
+msgstr "ป๊อกเด้ง"
+
+#: lang.lua:572
+msgid "0点"
+msgstr "ไพ่ 0 แต้ม"
+
+#: lang.lua:573
+msgid "1点"
+msgstr "ไพ่ 1 แต้ม"
+
+#: lang.lua:574
+msgid "2点"
+msgstr "ไพ่ 2 แต้ม"
+
+#: lang.lua:575
+msgid "3点"
+msgstr "ไพ่ 3 แต้ม"
+
+#: lang.lua:576
+msgid "4点"
+msgstr "ไพ่ 4 แต้ม"
+
+#: lang.lua:577
+msgid "5点"
+msgstr "ไพ่ 5 แต้ม"
+
+#: lang.lua:578
+msgid "6点"
+msgstr "ไพ่ 6 แต้ม"
+
+#: lang.lua:579
+msgid "7点"
+msgstr "ไพ่7 แต้ม"
+
+#: lang.lua:580
+msgid "8点"
+msgstr "ไพ่8 แต้ม"
+
+#: lang.lua:581
+msgid "9点"
+msgstr "ไพ่ 9 แต้ม"
+
+#: lang.lua:584
+msgid "坐下失败，同一IP不能坐下"
+msgstr "นั่งลงล้มเหลว IP เดียวกันไม่สามารถนั่งซ้ำได้"
+
+#: lang.lua:585
+msgid "坐下失败，该桌位已经有玩家坐下。"
+msgstr "นั่งลงล้มเหลว ที่นั่งนี้มีคนนั่งแล้ว"
+
+#: lang.lua:586
+msgid "坐下失败, 携带的筹码不正确。"
+msgstr "นั่งลงล้มเหลว ชิปที่นำเข้าไม่ถูกต้องค่ะ"
+
+#: lang.lua:587
+msgid "筹码超出该场限制，快去更高场次游戏吧"
+msgstr "จำนวนชิปของคุณมากกว่าจำนวนชิปที่กำหนดไว้ของห้องนี้ กรุณาไปห้องเดิมพันที่สูงกว่านี้ค่ะ"
+
+#: lang.lua:588
+msgid "坐下失败."
+msgstr "นั่งลงล้มเหลว "
+
+#: lang.lua:590
+msgid "桌子不存在"
+msgstr "ไม่มีห้องนี้"
+
+#: lang.lua:591
+msgid "您正在房间内"
+msgstr "กำลังอยู่ในห้อง"
+
+#: lang.lua:592
+msgid "筹码太少，不能进场"
+msgstr "ชิปมีน้อยเกินไป เข้าห้องไม่ได้"
+
+#: lang.lua:593
+msgid "筹码太多，不能进场"
+msgstr "ชิปมีมากเกินไป เข้าห้องไม่ได้"
+
+#: lang.lua:595
+msgid "进入{1}场玩牌赢得更多哦"
+msgstr "เข้าห้อง {1} เล่นไพ่ชนะยิ่งเยอะจ้า"
+
+#: lang.lua:597
+msgid "系统正在停服维护, 请耐心等候"
+msgstr "กำลังปิดปรับปรุงเซิร์ฟเวอร์ กรุณาอดใจรอสักครู่ค่ะ"
+
+#: lang.lua:598
+msgid "您的账户暂不支持支付"
+msgstr "บัญชีของคุณไม่สนับสนุนการเติมเงิน"
+
+#: lang.lua:599
+msgid "已支付成功，正在进行发货，请稍候.."
+msgstr "เติมเงินสำเร็จ กำลังส่งสินค้าให้คุณ กรุณารอสักครู่ค่ะ..."
+
+#: lang.lua:600
+msgid "支付已经取消"
+msgstr "เติมเงินได้ถูกยกเลิกแล้ว"
+
+#: lang.lua:601
+msgid "支付失败"
+msgstr "เติมเงินล้มเหลว"
+
+#: lang.lua:602
+msgid "此卡无效或输入有误，请重试。"
+msgstr ""
+
+#: lang.lua:603
+msgid "网络故障，系统将在您下次打开商城时重试。"
+msgstr "เน็ตเกิดเหตุขัดข้อง กรุณาลองใหม่ค่ะ"
+
+#: lang.lua:604
+msgid "发货成功，感谢您的购买。"
+msgstr "ส่งสินค้าสำเร็จ ขอบคุณที่อุดหนุนค่ะ"
+
+#: lang.lua:606 lang.lua:1235 lang.lua:1893
+msgid "筹码"
+msgstr "ชิป"
+
+#: lang.lua:607 lang.lua:617 lang.lua:1892
+msgid "互动道具"
+msgstr "ไอเทม"
+
+#: lang.lua:608 lang.lua:1236 lang.lua:1526 lang.lua:1894
+msgid "现金币"
+msgstr "ชิปเงินสด"
+
+#: lang.lua:609
+msgid "通用门票"
+msgstr "คูปองรวม"
+
+#: lang.lua:610 lang.lua:1569
+msgid "礼物"
+msgstr "ของขวัญ"
+
+#: lang.lua:611 lang.lua:1205
+msgid "我的道具"
+msgstr "ไอเทมของฉัน"
+
+#: lang.lua:612
+msgid "储值记录"
+msgstr "บันทึกสั่งซื้อ"
+
+#: lang.lua:613
+msgid "1{2}={1}筹码"
+msgstr "1{2}={1} ชิป"
+
+#: lang.lua:614 lang.lua:1522 lang.lua:1741
+msgid "{1}筹码"
+msgstr "ชิป {1}"
+
+#: lang.lua:616
+msgid "剩余：{1}{2}"
+msgstr "เหลือ：{1}{2}"
+
+#: lang.lua:619
+msgid "使用"
+msgstr "ใช้"
+
+#: lang.lua:620
+msgid "购买{1}筹码"
+msgstr "ซื้อ {1} ชิป"
+
+#: lang.lua:621
+msgid "购买 {1} 现金币"
+msgstr "ซื้อ {1} ชิปเงินสด"
+
+#: lang.lua:622
+msgid "购买 {1} 比赛门票"
+msgstr "ซื้อ {1} คูปองรวม"
+
+#: lang.lua:623
+msgid "购买 {1}TH 大礼包"
+msgstr "ซื้อ {1} บาทแพคเกจใหญ่"
+
+#: lang.lua:626
+msgid "已下单"
+msgstr "สั่งซื้อแล้ว"
+
+#: lang.lua:627
+msgid "已发货"
+msgstr "ส่งสินค้าแล้ว"
+
+#: lang.lua:628
+msgid "已退款"
+msgstr "คืนเงินแล้ว"
+
+#: lang.lua:630
+msgid "道具使用成功"
+msgstr "ใช้ไอเทมสำเร็จ"
+
+#: lang.lua:631
+msgid "道具使用失败"
+msgstr "ใช้ไอเทมล้มเหลว"
+
+#: lang.lua:632
+msgid "暂无商品"
+msgstr "ยังไม่มีสินค้า"
+
+#: lang.lua:633
+msgid "暂无支付记录"
+msgstr "ยังไม่มีบันทึกการซื้อ"
+
+#: lang.lua:634
+msgid "我的筹码 {1}"
+msgstr "ชิปของฉัน {1}"
+
+#: lang.lua:635
+msgid "正在购买，请稍候.."
+msgstr "กำลังซื้อ กรุณารอสักครู่..."
+
+#: lang.lua:638
+msgid "购买道具包成功"
+msgstr "ซื้อไอเทมสำเร็จค่ะ"
+
+#: lang.lua:639
+msgid "购买失败"
+msgstr "ซื้อไอเทมล้มเหลวค่ะ"
+
+#: lang.lua:640
+msgid "内含10种与玩家互动的魔法表情,可在房间内与其他玩家互动."
+msgstr "มีอีโมเมจิกพิเศษ 10 อย่าง ที่สามารถใช้เล่นกับเพื่อนได้ในห้อง."
+
+#: lang.lua:641
+msgid "互动表情包 *"
+msgstr "แพ็คเกจอีโม *"
+
+#: lang.lua:642
+msgid "是否购买{1}?"
+msgstr "ยืนยันจะซื้อ{1}?"
+
+#: lang.lua:643
+msgid "是否购买{1} +{2}筹码加赠优惠?"
+msgstr "ยืนยันจะซื้อ{1} +{2} ชิปของโปรโมชั่นนี้ไหม?"
+
+#: lang.lua:644
+msgid "花{1}购买"
+msgstr "จ่าย {1}บาทซื้อชิป"
+
+#: lang.lua:646
+msgid "个人银行"
+msgstr "ธนาคารของฉัน"
+
+#: lang.lua:647 lang.lua:1286
+msgid "我的礼物"
+msgstr "ของขวัญของฉัน"
+
+#: lang.lua:650
+msgid "连续登录奖励"
+msgstr "รางวัลล็อกอินต่อเนื่อง"
+
+#: lang.lua:651
+msgid "今日奖励{1}筹码"
+msgstr "รางวัลชิปวันนี้ {1} ชิป"
+
+#: lang.lua:652
+msgid "(FB登录多加100000筹码)"
+msgstr "(ล็อกอินบัญชี FB +100000 ชิป)"
+
+#: lang.lua:653
+msgid "连续登录可获得更多奖励，最高每天{1}游戏币奖励"
+msgstr "ล็อกอินต่อเนื่องจะได้รับรางวัลมากขึ้น มากสุดถึง {1}ชิปต่อวัน"
+
+#: lang.lua:654
+msgid "{1}天"
+msgstr "{1} วัน"
+
+#: lang.lua:655
+msgid "三次注册礼包领取完成后即可领取"
+msgstr "รับกล่องรางวัลมือใหม่ครบ 3 ครั้งถึงจะสามารถรับรางวัลนี้ได้ค่ะ "
+
+#: lang.lua:657
+msgid "历史最高资产:"
+msgstr "ยอดชิปสูงสุด: "
+
+#: lang.lua:658
+msgid "赢得最大奖池:"
+msgstr "ชนะได้ชิปกองกลางสูงสุด:"
+
+#: lang.lua:659
+msgid "历史胜率:"
+msgstr "อัตราชนะ:"
+
+#: lang.lua:660
+msgid "排名:"
+msgstr "แรงค์กิ้ง:"
+
+#: lang.lua:668
+msgid "游戏信息"
+msgstr "ข้อมูลเกมส์"
+
+#: lang.lua:676
+msgid "牌局数:"
+msgstr "จำนวนรอบไพ่:"
+
+#: lang.lua:677
+msgid "今日收益:"
+msgstr "ชิปที่ได้วันนี้:"
+
+#: lang.lua:678
+msgid "筹码比赛奖牌"
+msgstr "ไพ่รางวัล"
+
+#: lang.lua:679
+msgid "实物比赛奖杯"
+msgstr "ถ้วยรางวัล"
+
+#: lang.lua:680 lang.lua:1946
+msgid "暂未获奖"
+msgstr "ยังไม่มีรางวัลค่ะ"
+
+#: lang.lua:681
+msgid "银行功能暂未开放!"
+msgstr "ฟังก์ชั่นธนาคารยังไม่เปิดให้บริการค่ะ!"
+
+#: lang.lua:682
+msgid "请验证密码!"
+msgstr "กรุณายืนยันรหัสค่ะ!"
+
+#: lang.lua:683
+msgid "现在验证"
+msgstr "ยืนยันตอนน"
+
+#: lang.lua:684
+msgid "1.使用步骤:输入操作金额数目>选择[存钱]或[取钱]"
+msgstr "1.วิธีการใช้:กรอกจำนวนเงินที่ต้องการ> เลือก[ฝาก] หรือ [ถอน]"
+
+#: lang.lua:685
+#, lua-format
+msgid "2.取钱时需要收取2%%的管理费"
+msgstr "2.หากถอนเงินจะต้องเสียค่าบริการ 2%% ค่ะ"
+
+#: lang.lua:686
+msgid "2.现金币保险箱仅限付费用户使用"
+msgstr "2.เฉพาะผู้เล่นที่เคยเติมชิปเท่านั้นถึงจะมีสิทธิ์ใช้ธนาคารชิปเงินสดค่ะ"
+
+#: lang.lua:689
+msgid "进入道具商城可使用筹码购买各种游戏道具和礼物"
+msgstr "สามารถใช้ชิปในการซื้อไอเทมและของขวัญทุกชนิดได้ที่ห้าง"
+
+#: lang.lua:691
+msgid ">>礼物商城"
+msgstr ">>ห้างของขวัญ"
+
+#: lang.lua:692
+msgid ">>道具商城"
+msgstr ">>ห้างไอเทม"
+
+#: lang.lua:696
+msgid ""
+"暂无好友\n"
+"立即邀请好友可获得丰厚筹码赠送！"
+msgstr "คุณยังไม่มีเพื่อน เชิญเพื่อนตอนนี้รับชิปฟรีเพียบ!"
+
+#: lang.lua:698
+msgid "赠送{1}筹码"
+msgstr "ส่งชิป {1} ชิป"
+
+#: lang.lua:699
+msgid "您成功给好友赠送了{1}筹码。"
+msgstr "คุณให้ชิปเพื่อน {1} ชิปสำเร็จ"
+
+#: lang.lua:700
+msgid "您的筹码太少了，请去商城购买筹码后重试。"
+msgstr "ชิปของคุณน้อยเกินไป กรุณาไปซื้อชิปที่ห้างก่อนแล้วลองใหม่ค่ะ"
+
+#: lang.lua:701
+msgid "您今天已经给该好友赠送过筹码了，请明天再试。"
+msgstr "วันนี้คุณได้ส่งชิปให้เพื่อนคนนี้ไปแล้ว กรุณาลองใหม่พรุ่งนี้ค่ะ"
+
+#: lang.lua:702
+msgid ""
+"每邀请一位Facebook好友,可立即获赠{1}筹码。FaceBook好友接受邀请并成功登录游戏,您还可以额外获得{2}筹码奖励,"
+"多劳多送。\n"
+"\n"
+"同时,被邀请的好友登录游戏后也可获赠{3}筹码的注册礼包,赠送的筹码由系统免费发放。"
+msgstr ""
+"คุณจะได้รับรางวัล {1} ชิปฟรีต่อการเชิญเพื่อน FB 1 ท่าน หากเพื่อนตอบรับคำเชิญเข้าเล่นเกมส์ คุณจะได้รับรางวัลชิปฟรีเพิ่มอีก {2} ชิป "
+"ยิ่งขยันเชิญเพื่อน ยิ่งได้ชิปฟรีมากขึ้น ส่วนเพื่อนที่เข้าเกมส์จะได้รับรางวัลลงทะเบียนฟรี {3} ชิป ซึ่งระบบจะส่งชิปเข้าบัญชีอัตโนมัติ"
+
+#: lang.lua:704
+msgid "您已累计获得了{1}筹码的邀请奖励，多劳多得，天天都有哦！"
+msgstr "คุณสะสมรางวัลเชิญเพื่อนได้ถึง{1} แล้ว ขยันๆหน่อย จะได้รางวัลเยอะกว่าคนอื่น เราแจกรางวัลฟรีทุกวันนะ!"
+
+#: lang.lua:705
+msgid ""
+"Facebook\n"
+"邀请"
+msgstr "เพื่อน FB"
+
+#: lang.lua:706
+msgid "短信邀请"
+msgstr "ส่งข้อความ"
+
+#: lang.lua:707
+msgid "邮件邀请"
+msgstr "ส่งอีเมล์"
+
+#: lang.lua:708
+msgid "Line邀请"
+msgstr "Line"
+
+#: lang.lua:709
+msgid "全选"
+msgstr "เลือกทั้งหมด"
+
+#: lang.lua:710
+msgid "取消全选"
+msgstr "ยกเลิก"
+
+#: lang.lua:711 lang.lua:1759
+msgid "邀请"
+msgstr "เชิญ"
+
+#: lang.lua:712
+msgid "您绝对会喜欢"
+msgstr "คุณชอบแน่ๆ"
+
+#: lang.lua:713
+msgid ""
+"为您推荐一个既刺激又有趣的扑克游戏，我给你赠送了{1}的筹码礼包，注册即可领取，快来和我一起玩吧！http://"
+"dwz.cn/Gc7zQ"
+msgstr "ป๊อกเด้งมันส์ๆ เพื่อนเล่นเพียบ เข้าเล่นเกมส์รับไปเลย {1} ชิป มาเล่นด้วยกันนะ! https://goo.gl/hdX7vp"
+
+#: lang.lua:715
+msgid "您有一个回归礼包等待您领取"
+msgstr "เข้าเกมส์ใหม่รับรางวัลใหญ่ 1 ชุด"
+
+#: lang.lua:716
+msgid ""
+"好久没见到你了,搏定现在全新升级,更有现金币场模拟真实线下玩牌体验,现在回来即可领取回归礼包一份,快回来一起"
+"玩吧！"
+msgstr "[ไพ่ป๊อกเด้ง] อัพเดทใหม่เหมือนเล่นจริงนอกระบบ กลับมาตอนนี้รับรางวัล!"
+
+#: lang.lua:718
+msgid "您已选择了{1}位好友 发送邀请即可获得{2}筹码的奖励"
+msgstr "คุณได้เลือกเพื่อนแล้ว {1} ท่าน ส่งคำเชิญรับฟรีรางวัล {2} ชิป"
+
+#: lang.lua:719
+msgid "一次邀请最多选取50位好友"
+msgstr "กดเชิญเพื่อนได้มากสุดครั้งละ 50 ท่าน"
+
+#: lang.lua:720
+msgid "成功发送了邀请，获得{1}的奖励！"
+msgstr "ส่งคำเชิญสำเร็จ ได้รับรางวัล {1}"
+
+#: lang.lua:721
+msgid "您还没有设置邮箱账户，现在去设置吗？"
+msgstr "คุณยังไม่ได้ตั้งค่าบัญชีอีเมล์ ไปตั้งค่าตอนนี้?"
+
+#: lang.lua:722
+msgid "对不起，无法调用发送短信功能！"
+msgstr "ขอโทษค่ะ ไม่สามารถใช้ฟังก์ชั่นส่งข้อความได้ค่ะ!"
+
+#: lang.lua:723
+msgid "博定刺激好玩,好友在等你,进来玩吧"
+msgstr "ไพ่ป๊อกเด้งเร้าใจน่าเล่น เพื่อนรออยู่ รีบเข้ามาเล่นสิ!"
+
+#: lang.lua:725
+msgid "我的好友"
+msgstr "เพื่อนของฉัน"
+
+#: lang.lua:729
+msgid "邀请拿金币"
+msgstr "เชิญเพื่อนรับชิปฟรี"
+
+#: lang.lua:730
+msgid "召回送礼包"
+msgstr "สะกิดเพื่อนแจกชิป"
+
+#: lang.lua:733
+msgid "1.连续7天未登录的好友可被召回"
+msgstr "1.สะกิดเพื่อนที่ไม่ได้ล็อกอิน 7 วันขึ้นไปได้"
+
+#: lang.lua:734
+msgid "2.好友回归进入游戏可获得回归大礼包一份"
+msgstr "2.เพื่อนกลับมาสำเร็จรับฟรีรางวัลใหญ่"
+
+#: lang.lua:736
+msgid "已选{1}个好友"
+msgstr "เลือกเพื่อน{1}คนแล้ว"
+
+#: lang.lua:737
+msgid "3.3万筹码奖励每天最多可获得两次(今日：{1})"
+msgstr "3.30K ชิปทุกวันรับได้เพียง 2 ครั้ง (วันนี้：{1})"
+
+#: lang.lua:739
+msgid "您的好友已达到600上限，请删除部分后重新添加"
+msgstr "คุณมีเพื่อนถึง 600 คนตามจำนวนที่ระบบกำหนด กรุณาลบเพื่อนออกแล้วทำการเพิ่มเพื่อนใหม่ค่ะ"
+
+#: lang.lua:740
+msgid "您需要使用FB账号登陆才能发送邀请"
+msgstr "ท่านต้องการล็อกอินเกมผ่านบัญชีเฟสบุ๊คจึงสามารถชวนเพื่อนได้"
+
+#: lang.lua:741
+msgid "注：恢复界面可恢复之前删除的好友"
+msgstr "คำอธิบาย : ฟังก์ชั่น【เลิกคำสั่ง】สามารถดึงเพื่อนที่ลบออกไปกลับมาได้"
+
+#: lang.lua:742
+msgid "恢复好友"
+msgstr "เลิกคำสั่ง"
+
+#: lang.lua:744
+msgid "您没有可恢复的好友"
+msgstr "ท่านยังไม่มีเพื่อนที่ต้องเลิกคำสั่งค่ะ"
+
+#: lang.lua:745
+msgid "请输入FB好友名称"
+msgstr "กรุณากรอกชื่อเพื่อนFBค่ะ"
+
+#: lang.lua:746
+msgid "好友当前位置不可被追踪,请稍后再试"
+msgstr "ตอนนี้ยังติดตามเพื่อนไม่ด้"
+
+#: lang.lua:749
+msgid "追踪玩家"
+msgstr "ติดตาม"
+
+#: lang.lua:753
+msgid "好友排行"
+msgstr "แรงค์กิ้ง"
+
+#: lang.lua:754
+msgid "总排行榜"
+msgstr "แรงค์กิ้งเซิร์ฟ"
+
+#: lang.lua:757 lang.lua:762
+msgid "筹码排行"
+msgstr "แรงค์กิ้งชิป"
+
+#: lang.lua:758 lang.lua:763
+msgid "等级排行"
+msgstr "แรงค์กิ้ง Lv."
+
+#: lang.lua:759 lang.lua:765
+msgid "现金币排行"
+msgstr "แรงค์กิ้งชิปเงินสด"
+
+#: lang.lua:764
+msgid "盈利排行"
+msgstr "แรงค์กิ้งผลกำไร"
+
+#: lang.lua:769
+msgid "设置"
+msgstr "ตั้งค่า"
+
+#: lang.lua:770
+msgid "昵称"
+msgstr "ชื่อ"
+
+#: lang.lua:772
+msgid "声音和震动"
+msgstr "เสียงและสั่น"
+
+#: lang.lua:773
+msgid "声音"
+msgstr "เสียง"
+
+#: lang.lua:774
+msgid "震动"
+msgstr "สั่น"
+
+#: lang.lua:776
+msgid "进入房间自动坐下"
+msgstr "เข้าห้องนั่งลงอัตโนมัติ"
+
+#: lang.lua:777
+msgid "自动买入"
+msgstr "ซื้อเข้าอัตโนมัติ"
+
+#: lang.lua:778
+msgid "喜欢我们，打分鼓励"
+msgstr "ชอบเกมส์นี้ ไปให้ 5 ดาวกัน"
+
+#: lang.lua:779
+msgid "检测更新"
+msgstr "ตรวจสอบเวอร์ชั่นล่าสุด"
+
+#: lang.lua:780
+msgid "当前版本号：V{1}"
+msgstr "เวอร์ชั่นปัจจุบัน：V{1}"
+
+#: lang.lua:781 lang.lua:985
+msgid "关于"
+msgstr "เกี่ยวกับเกมส์"
+
+#: lang.lua:782
+msgid "官方粉丝页"
+msgstr "หน้าแฟนส์"
+
+#: lang.lua:783
+msgid "帮助"
+msgstr "ช่วยเหลือ"
+
+#: lang.lua:785
+msgid "问题反馈"
+msgstr "ฟีดแบค"
+
+#: lang.lua:786
+msgid "常见问题"
+msgstr "ปัญหาที่พบบ่อย"
+
+#: lang.lua:787
+msgid "基本规则"
+msgstr "วิธีเล่น"
+
+#: lang.lua:788 lang.lua:974
+msgid "说明"
+msgstr "กติกา"
+
+#: lang.lua:790
+msgid ""
+"您在游戏中碰到的问题或者对游戏有任何意见或者建议,我们都欢迎您给我们反馈。\n"
+"客服联系方式: \n"
+"邮件:Pokdengfeedback@boyaa.com \n"
+"电话:026700909或026700919转0(接通时间：09.00-18.00 周一到周日)\n"
+"粉丝页:https://www.facebook.com/pokdengtl/"
+msgstr ""
+"หากพบเจอปัญหาหรือมีคำแนะนำใดๆ แจ้งรายละเอียดพร้อมแคปภาพให้เราได้เสมอค่ะ \n"
+"ติดต่อฝ่ายบริการลูกค้า->>\n"
+"อีเมล์: Pokdengfeedback@boyaa.com\n"
+"เบอร์โทร: 026700909/026700919 กด 0(เวลาทำการ: จันทร์-อาทิตย์ เวลา 09.00-18.00 น.)\n"
+"แฟนเพจ:https://www.facebook.com/pokdengtl/"
+
+#: lang.lua:802
+msgid "您现在还没有反馈记录"
+msgstr "คุณยังไม่มีบันทึกรายการฟีดแบค"
+
+#: lang.lua:803
+msgid "反馈成功!"
+msgstr "ส่งฟีดแบคสำเร็จ"
+
+#: lang.lua:804
+msgid "正在上传图片，请稍候.."
+msgstr "กำลังอัพโหลดรูป กรุณารอสักครู่..."
+
+#: lang.lua:805
+msgid "请输入反馈内容"
+msgstr "กรุณากรอกเนื้อหาฟีดแบค"
+
+#: lang.lua:806
+msgid "请输入手机号码"
+msgstr "กรุณากรอกเบอร์โทรค่ะ"
+
+#: lang.lua:809
+msgid "วีธิอื่นติดต่อฝ่ายบริการลูกค้า:"
+msgstr ""
+
+#: lang.lua:810
+msgid ""
+"หากพบเจอปัญหาหรือมีคำแนะนำใดๆ แจ้งรายละเอียดพร้อมแคปภาพให้เราได้เสมอค่ะ \n"
+"ติดต่อฝ่ายบริการลูกค้า->>\n"
+"อีเมล์: Pokdengfeedback@boyaa.com\n"
+"เบอร์โทร: 026700909/026700919 กด 0(เวลาทำการ: จันทร์-อาทิตย์ เวลา 09.00-18.00 น.)\n"
+"แฟนเพจ:https://www.facebook.com/pokdengtl/"
+msgstr ""
+
+#: lang.lua:817
+msgid "รับชิปฟรีได้ที่ไหน?"
+msgstr ""
+
+#: lang.lua:818
+msgid ""
+"คุณสามารถรับชิปฟรีได้จาก รางวัลล็อกอิน รางวัลอัพเลเวล รางวัลภารกิจ รางวัลเชิญเพื่อน โบนัสแฟนส์  และรางวัลกิจกรรมต่างๆ เป็นต้น"
+msgstr ""
+
+#: lang.lua:826
+msgid "ซื้อชิปอย่างไร?"
+msgstr ""
+
+#: lang.lua:827
+msgid "กดปุ่ม \"ห้าง\" แล้วเลือกช่องทางการเติมเงินและยอดชิปที่ต้องการซื้อ"
+msgstr ""
+
+#: lang.lua:830
+msgid "อยากเป็นแฟนส์ ทำอย่างไร?"
+msgstr ""
+
+#: lang.lua:831
+msgid ""
+"กดปุ่ม \"ตั้งค่า\" เลือก \"หน้าแฟนส์\" หรือเข้าไปที่ https://www.facebook.com/pokdengtl แล้วกดไลค์เพจ "
+"ระบบแจกโบนัสแฟนส์ทุกวัน"
+msgstr ""
+
+#: lang.lua:834
+msgid "ล็อกเอาท์เกมส์อย่างไร?"
+msgstr "ออกเกมส์อย่างไร?"
+
+#: lang.lua:835
+msgid "กดปุ่ม \"ตั้งค่า\" แล้วเลือก \"ล็อกเอาท์\""
+msgstr "กดปุ่ม \"ตั้งค่า\" แล้วเลือก \"ออกเกมส์\""
+
+#: lang.lua:838
+msgid "เปลี่ยนชื่อ เพศ และรูปประจำตัวได้อย่างไร?"
+msgstr ""
+
+#: lang.lua:839
+msgid "สามารถเปลี่ยนได้เฉพาะบัญชีนักเที่ยวเท่านั้น โดยกด \"รูปประจำตัว\" และเลือกตั้งค่าตามระบบ"
+msgstr ""
+
+#: lang.lua:846
+msgid "เงื่อนไขการพิจารณาไพ่ที่อยู่ระดับเดียวกัน"
+msgstr "เงื่อนไขการเทียบรูปแบบไพ่"
+
+#: lang.lua:851
+msgid "翻倍规则"
+msgstr "การนับเด้ง"
+
+#: lang.lua:856
+msgid "รูปแบบไพ่ แต้ม และดอก"
+msgstr ""
+
+#: lang.lua:857
+msgid ""
+"●หากไพ่ 2 ใบรวมกันได้ 8 หรือ 9 จะถือว่าได้รูปแบบไพ่ใหญ่สุดคือไพ่ป๊อก หากไพ่ป๊อกที่ได้มีดอกเดียวกัน ผลแพ้ชนะจะ *2 เท่า "
+"หากได้แต้มไพ่เหมือนกันและรวมกันได้ไพ่ป๊อก การนับเด้งจะนับ *2 เท่าเช่นกัน\n"
+msgstr ""
+
+#: lang.lua:858
+msgid ""
+"●ไพ่ 3 ใบที่มีแต้มเดียวกันรวมกันได้ไพ่รูปแบบตอง ผลแพ้ชนะจะ *5 เท่า\n"
+"รูปแบบไพ่ตอง เรียงจากใหญ่ไปเล็ก ดังนี้ : A>K>Q>J>10>9>8>7>6>5>4>3>2\n"
+msgstr ""
+
+#: lang.lua:859
+msgid ""
+"●ไพ่ 3 ใบที่รวมกันในกลุ่ม J/Q/K คือไพ่สามเหลือง ผลแพ้ชนะจะ *3 เท่าหากได้รูปแบบไพ่สามเหลืองเหมือนกันจะทำการเทียบแต้มที่ใหญ่ที่สุด "
+"(เช่น KQQ>QQJ, KKQ>KQQ)\n"
+msgstr ""
+"●ไพ่ 3 ใบที่รวมกันในกลุ่ม JQK คือไพ่สามเหลือง ผลแพ้ชนะจะ *3 เท่าหากได้รูปแบบไพ่สามเหลืองเหมือนกันจะทำการเทียบแต้มที่ใหญ่ที่สุด "
+"(เช่น KQQ>QQJ, KKQ>KQQ)\n"
+
+#: lang.lua:860
+msgid "●ไพ่ 3 ใบที่มีแต้มเรียงกันและมีดอกเดียวกัน ถือว่าเป็นไพ่เรียงดอก ผลแพ้ชนะจะ *5 เท่า\n"
+msgstr ""
+
+#: lang.lua:861
+msgid ""
+"●ไพ่ 3 ใบที่มีแต้มเรียงกัน แต่ดอกไม่เหมือนกัน ถือว่าเป็นไพ่เรียง ผลแพ้ชนะจะ *3 เท่า\n"
+"กรณีพิเศษ มีดังนี้: A23 ไม่ถือว่าเป็นไพ่เรียง โดย KQA ถือว่าเป็นไพ่เรียงที่ใหญ่ที่สุด และ234 เป็นไพ่เรียงที่เล็กที่สุด\n"
+"รูปแบบไพ่เรียง เรียงจากใหญ่ไปเล็ก ดังนี้ : KQA>JQK>10JQ>910J>8910>789>.......>234\n"
+msgstr ""
+
+#: lang.lua:862
+msgid ""
+"●ไพ่ 2-3 ใบที่ไม่ได้รวมกันเป็นไพ่รูปแบบพิเศษข้างต้น ถือว่าเป็นไพ่ธรรมดา ผลแพ้ชนะไม่นับเด้ง ไพ่ชนิดนี้จะเทียบไพ่จากแต้ม "
+"หากไพ่รวมกันได้แต้มมากกว่า 10 ให้นับแต้มหลักหน่วยเท่านั้น\n"
+"รูปแบบไพ่ธรรมดา เรียงจากใหญ่ไปเล็ก ดังนี้  : 9>8>7>6>5>4>3>2>1>0"
+msgstr ""
+
+#: lang.lua:866
+msgid "服务费收取说明"
+msgstr "เกี่ยวกับค่าบริการ"
+
+#: lang.lua:867
+#, lua-format
+msgid "普通场中收取获胜玩家的3%%\n"
+msgstr "จะถูกเก็บค่าบริการ 3%% จากผู้ชนะในห้องธรรมดา\n"
+
+#: lang.lua:868
+#, lua-format
+msgid "上庄场筹码收取获胜玩家的5%%\n"
+msgstr "จะถูกเก็บค่าบริการ 5%% จากผู้ชนะในห้องเจ้า\n"
+
+#: lang.lua:869
+msgid "上庄现金币场最低收取获胜的玩家1现金币"
+msgstr "จะถูกเก็บค่าบริการ 5%% จากผู้ชนะในห้องชิปเงินสด ซึ่งจำนวนค่าบริการต่ำสุดคือ 1 ชิปเงินสด"
+
+#: lang.lua:873
+msgid "เดิมพันและเล่นอย่างไร"
+msgstr ""
+
+#: lang.lua:874
+msgid ""
+"●หลักการเข้าห้องเกมส์: แต่ละห้องจะมีการเดิมพันขั้นต่ำและยอดนำเข้า หากมีชิปพอสำหรับการเดิมพันขั้นต่ำ จะสามารถเข้าห้องที่เลือกได้\n"
+"หากยอดชิปมีจำนวนมากเป็นพิเศษ ห้องเดิมพันขั้นต่ำจะไม่สามารถเข้าได้\n"
+"จำนวนเดิมพันขั้นต่ำสามารถตรวจสอบดูได้ตามห้องระดับต่างๆ\n"
+msgstr ""
+"●หลักการเข้าห้องเกมส์: แต่ละห้องจะมีการเดิมพันขั้นต่ำและยอดนำเข้า หากมีชิปพอสำหรับการเดิมพันขั้นต่ำ จะสามารถเข้าห้องที่เลือกได้ "
+"หากยอดชิปมีจำนวนมากเป็นพิเศษ ห้องเดิมพันขั้นต่ำจะไม่สามารถเข้าได้ จำนวนเดิมพันขั้นต่ำสามารถตรวจสอบดูได้ตามห้องระดับต่างๆ\n"
+
+#: lang.lua:875
+msgid "●หลังเข้าห้องเกมส์ จะต้องกดเลือกจำนวนชิปที่จะนำเข้าโต๊ะ หรือสามารถเลือกจำนวนชิปตามที่ระบบจัดให้ได\n"
+msgstr "●หลังเข้าห้องเกมส์ จะต้องกดเลือกจำนวนชิปที่จะนำเข้าโต๊ะ หรือสามารถเลือกจำนวนชิปตามที่ระบบจัดให้ได้\n"
+
+#: lang.lua:876
+msgid "●ขณะนั่งลงรอเล่น หากเกมส์รอบนั้นกำลังเล่นอยู่ จำเป็นจะต้องรอรอบต่อไป ถึงจะสามารถเล่นได\n"
+msgstr "●ขณะนั่งลงรอเล่น หากเกมส์รอบนั้นกำลังเล่นอยู่ จำเป็นจะต้องรอรอบต่อไป ถึงจะสามารถเล่นได้\n"
+
+#: lang.lua:877
+msgid ""
+"●เวลาเริ่มเกมส์ แต่ละท่านจะมีเวลา 6 วินาทีในการเลือกจำนวนเดิมพัน โดยระบบมีการจัดเรียงปุ่มเดิมพันแบบเร็วให้ท่านทั้งหมด 3 "
+"ปุ่มด้วยกัน\n"
+msgstr ""
+
+#: lang.lua:878
+msgid ""
+"●หลังผู้เล่นวางเงินเดิมพันเรียบร้อยแล้ว ผู้เล่นจะทำการแจกไพ่ 2 ใบตามเข็มนาฬิกา หากผู้เล่นท่านใดได้ไพ่ป๊อก "
+"ระบบจะทำการเปิดไพ่และไม่สามารถรับไพ่ได้อีก หลังแจกไพ่เสร็จ ผู้เล่นที่ไม่ได้ไพ่ป๊อก มีสิทธิ์ที่จะรับไพ่ได้อีก 1 ใบ (จะรับหรือไม่รับก็ได้) "
+"โดยเจ้ามือจะทำการแจกไพ่ตามเข็มนาฬิกาให้กับผู้ที่รับไพ่เพิ่มอีกรอบ หลังจากนั้นจะถือว่าได้แจกไพ่ครบแล้ว\n"
+msgstr ""
+
+#: lang.lua:881
+msgid "เทียบไพ่และวัดผลแพ้ชนะอย่างไร?"
+msgstr ""
+
+#: lang.lua:882
+msgid "●หลังแจกไพ่เสร็จ ผู้เล่นทั้งหมดจะทำการเทียบไพ่กับเจ้ามือ หากไพ่ของตนใหญ่กว่าเจ้ามือจะถือว่าชนะ หากไพ่เล็กกว่าจะถือว่าแพ\n"
+msgstr "●หลังแจกไพ่เสร็จ ผู้เล่นทั้งหมดจะทำการเทียบไพ่กับเจ้ามือ หากไพ่ของตนใหญ่กว่าเจ้ามือจะถือว่าชนะ หากไพ่เล็กกว่าจะถือว่าแพ้\n"
+
+#: lang.lua:883
+msgid "●แพ้ชนะเท่าใดขึ้นอยู่กับจำนวนชิปที่เดิมพันและไพ่ที่ได\n"
+msgstr "●แพ้ชนะเท่าใดขึ้นอยู่กับจำนวนชิปที่เดิมพันและไพ่ที่ได้\n"
+
+#: lang.lua:884
+msgid "●เวลาเดิมพัน สามารถเลือกจำนวนชิปที่จะเดิมพันได้ หรือจะกดปุ่มเดิมพันที่ระบบจัดเตรียมไว้ให้ก็ได้เช่นกัน"
+msgstr "●เวลาเดิมพัน สามารถเลือกจำนวนชิปที่จะเดิมพัน หรือจะกดปุ่มเดิมพันที่ระบบจัดเตรียมไว้ให้ก็ได้เช่นกัน"
+
+#: lang.lua:887
+msgid "刷分作弊行为"
+msgstr "กระทำการโกงชิปและการทุจริต"
+
+#: lang.lua:888
+msgid ""
+"进行任何破坏博雅游戏公平性或者占其他人的便宜，或其他影响游戏正常秩序的行为，如主动使用外挂或被动刷分、合"
+"伙作弊、使用游戏外挂或者其他的作弊软件、利用BUG（又叫“漏洞”或者“缺陷”）来获得不正当的非法利益，或者利用互"
+"联网或其他方式，广告软件将游戏外挂、作弊软件、BUG公之于众等行为 \n"
+msgstr ""
+"กระทำการใดๆ อันเป็นการทำลายความยุติธรรม หรือการทำการอันเป็นการเอาเปรียบผู้เล่นอื่น "
+"หรือส่งผลกระทบที่ไม่เป็นธรรมต่อสังคมในเกมส์โบยา เช่น การใช้โปรแกรมช่วยเล่นหรือโกงชิป ทุจริต ใช้ BUG "
+"(หรือเรียกว่า“ช่องโหว่”หรือ“ข้อบกพร่อง”) ของเกมส์เพื่อแสวงหาผลประโยชน์ที่ไม่ถูกต้อง หรือใช้อินเทอร์เน็ตหรือวิธีอื่น ใช้หรือโฆษณา\n"
+"โปรแกรมช่วยเล่น ซอฟต์แวร์ทุจริต BUG ฯลฯ  \n"
+
+#: lang.lua:889 lang.lua:892 lang.lua:901 lang.lua:909 lang.lua:917 lang.lua:926 lang.lua:929 lang.lua:935
+#: lang.lua:946 lang.lua:953
+msgid "\n"
+msgstr ""
+
+#: lang.lua:890
+msgid "什么是刷分？\n"
+msgstr "โกงชิปหมายถึงอะไร？\n"
+
+#: lang.lua:891
+msgid ""
+"玩家使用作弊软件或手动开多个账户利用系统BUG获得游戏币或免费发放获得游戏币（如每日登陆、移动赠送好友筹码"
+"等），且该用户的账号无正常游戏行为（打牌记录等），即属于刷分\n"
+msgstr ""
+"ผู้เล่น A ใช้โปรแกรมช่วยเล่น หรือสมัครบัญชี N ด้วยตนเอง ใช้ BUG ของระบบเพื่อได้รับชิป หรือได้รับชิปที่แจกฟรี (เช่น "
+"รางวัลล็อกอินประจำวัน ส่งชิปให้เพื่อนบนเวอร์ชั่นมือถือ) และบัญชีนี้ไม่ได้ถูกใช้เพื่อเล่นเกมส์ตามปกติ (หรือการบันทึกการเล่นไพ่เป็นต้น) "
+"การกระทำดังกล่าวถือว่าเป็นการโกงชิป\n"
+
+#: lang.lua:893 lang.lua:902 lang.lua:910 lang.lua:918 lang.lua:936 lang.lua:947 lang.lua:954
+msgid "处罚标准及方式 :\n"
+msgstr "บทลงโทษ:\n"
+
+#: lang.lua:894 lang.lua:937
+msgid "1. 暂时冻结账号（根据情节轻重冻结1~N天不等）\n"
+msgstr "1.ระงับการใช้งานบัญชีชั่วคราว (ตามความรุนแรงของการฝ่าฝืน ระหว่าง 1~N วัน)\n"
+
+#: lang.lua:895
+msgid ""
+"2. 发游戏公告对用户进行违规行为告知并暂时扣除非法获得游戏币。如用户有异议可进行申诉，可将疑问发至邮箱："
+"Pokdengfeedback@boyaa.com 。申诉检查成功后未曾有任何问题玩家可补还暂扣游戏币，但是将在通过审核三天之后补"
+"币。"
+msgstr ""
+"2.ประกาศการกระทำฝ่าฝืนเพื่อแจ้งให้ผู้เล่นรับรู้และริบชิปที่ได้รับโดยวิธีการที่ผิดกฎเกมส์ หากผู้เล่นมีข้อสงสัยใดๆ "
+"สามารถแจ้งข้อสงสัยได้ที่อีเมล์ Pokdengfeedback@boyaa.com "
+"และเมื่อตรวจสอบแล้วไม่พบความผิดผู้เล่นจะได้รับชิปคืนหลังจากตรวจสอบเรียบร้อย 3 วันต่อไป"
+
+#: lang.lua:898
+msgid "骚扰行为"
+msgstr "การก่อความวุ่นวาย"
+
+#: lang.lua:899
+msgid "(1)在博雅游戏当中进行恶意刷屏、恶意耗时等恶意破坏游戏公共秩序的行为； \n"
+msgstr "（1）เช่นการพิมพ์ข้อความซ้ำๆ เร็วๆ อย่างต่อเนื่องเป็นต้น ซึ่งเป็นการก่อกวน หรือทำลายสังคมในเกมส์； \n"
+
+#: lang.lua:900
+msgid ""
+"(2)发表、转发、传播含有谩骂、诅咒、诋毁、攻击、诽谤、骚扰博雅和/或第三方内容的，或者含有封建迷信、淫秽、"
+"色情、下流、恐怖、暴力、凶杀、赌博、反动、扇动民族仇恨、危害祖国统一、颠覆国家政权等让人反感、厌恶的内容"
+"的非法言论，或者设置含有上述内容的网名、游戏角色名；？\n"
+msgstr ""
+"（2）โพสต์ แชร์ หรือสื่อสารข้อความที่ผิดกฎหมาย ผิดศีลธรรม หรือน่ารังเกียจ รวมทั้งใช้คำไม่สุภาพ หมิ่นประมาท สาปแช่ง ด่าประจาน "
+"ให้ร้าย ก่อความวุ่นวายกับโบย่าหรือบุคคลอื่น หรือข้อความหยาบคาย ส่อเสียด ล่วงละเมิด หรือคุกคามทางเพศ ความปลอดภัย ชีวิต "
+"หรือทรัพย์สินของผู้เล่นอื่น หรือข้อความที่มีลักษณะชักชวน ส่งเสริม หรือยุยงให้เล่นการพนัน หรือเกิดความแตกแยกในสังคม "
+"หรือล่วงละเมิดศาสนา หรือสถาบันอันเป็นที่เคารพของคนไทย หรือข้อความที่มีลักษณะเป็นการยุยงให้เกิดการล้มล้างอำนาจการปกครองเป็นต้น "
+"หรือตั้งชื่อเว็บไซต์ ชื่อตัวละครในเกมส์ที่ส่อถึงความหมายดังกล่าว；？\n"
+
+#: lang.lua:903 lang.lua:911
+msgid "1.核实违规行为\n"
+msgstr ""
+"1.ตรวจสอบกระทำที่เป็นการฝ่าฝืน\n"
+"\n"
+
+#: lang.lua:904 lang.lua:912
+msgid "2. 如证据属实，将根据情节由轻到重对用户进行处罚（禁言、禁止登陆、封停账号）"
+msgstr ""
+"2.หากตรวจพบหลักฐานว่ามีการฝ่าฝืนจริง ครั้งแรกจะทำการตักเตือน หากมีครั้งต่อไป จะลงโทษตามความรุนแรงของการฝ่าฝืน "
+"(เช่นห้ามการสนทนาในเกมส์ ห้ามล็อกอินบัญชี ห้ามใช้บัญชี ระหว่าง 1~N วัน)"
+
+#: lang.lua:907
+msgid "广告行为"
+msgstr "การโฆษณา"
+
+#: lang.lua:908
+msgid ""
+"进行任何诸如发布广告、销售商品的商业行为，或者通过游戏内广播进行任何非法的侵害博雅利益的行为，如贩卖游戏"
+"币、游戏道具、外挂或倒币、刷币等； \n"
+msgstr ""
+"ประกาศโฆษณา เสนอซื้อขาย หรือใช้ช่องทางการโพสต์ หรือการประกาศในเกมส์ในลักษณะที่เป็นการละเมิดผลประโยชน์ใดๆ "
+"ของโบย่าโดยมิชอบ เช่นขายเงินเกมส์ ไอเทมเกมส์ โปรแกรมช่วยเล่น หรือเทชิป โกงชิปเป็นต้น； \n"
+
+#: lang.lua:915
+msgid "盗号行为"
+msgstr "การขโมยบัญชี"
+
+#: lang.lua:916
+msgid "盗取其它玩家账号或道具者\n"
+msgstr "การขโมยบัญชีหรือไอเทมของผู้เล่นคนอื่น\n"
+
+#: lang.lua:919
+msgid "1. 暂时冻结账号（根据情节轻重冻结1~N天不等)\n"
+msgstr "1.ระงับการใช้งานบัญชีชั่วคราว (ตามความรุนแรง ระหว่าง 1~N วัน) หาก\n"
+
+#: lang.lua:920
+msgid "2. 发游戏公告对用户进行违规行为告知并暂时扣除非法获得游戏币\n"
+msgstr "2. ประกาศการกระทำฝ่าฝืนเพื่อแจ้งให้ผู้เล่นรับรู้และริบชิปที่ได้รับโดยวิธีการที่ผิดกฎเกมส์\n"
+
+#: lang.lua:921
+msgid "3. 如用户有异议可通过邮箱 Pokdengfeedback@boyaa.com 进行申诉，情况属实后申诉成功可补还暂扣游戏币。"
+msgstr ""
+" 3.หากผู้เล่นมีข้อสงสัยใดๆ สามารถแจ้งข้อสงสัยได้ที่อีเมล์ Pokdengfeedback@boyaa.com  "
+"และเมื่อตรวจสอบแล้วไม่พบความผิดผู้เล่นจะได้รับชิปคืน"
+
+#: lang.lua:924
+msgid "倒币行为"
+msgstr "การเทชิป"
+
+#: lang.lua:925
+msgid "利用牌桌输牌等形式，进行游戏币的转移、售卖。\n"
+msgstr ""
+"ใช้วิธีเล่นไพ่ให้แพ้เพื่อกระทำการโอนชิป การขายชิป。\n"
+"\n"
+
+#: lang.lua:927
+msgid "什么是倒币？\n"
+msgstr "เทชิปคืออะไร？\n"
+
+#: lang.lua:928
+msgid "玩家通过作弊、刷分、盗币等行为获得非法游戏币并通过非正常牌局再次导出到其他账号的即是倒币行为。\n"
+msgstr ""
+"ผู้เล่นใช้วิธีทุจริต เช่นการโกงชิป ขโมยชิปเป็นต้น เพื่อให้ได้รับชิปโดยผิดกฎเกมส์ และโอน หรือขายชิปเข้าบัญชีอื่นต่อไป "
+"โดยใช้วิธีการเล่นไพ่ที่ไม่เป็นการเล่นเกมตามปกติ\n"
+
+#: lang.lua:930
+msgid "什么是作弊行为？\n"
+msgstr "การทุจริตในการเล่นคืออะไร？\n"
+
+#: lang.lua:931
+msgid " (1)多次无故弃牌的异常牌局\n"
+msgstr "（1）หมอบหลายครั้งโดยไม่มีเหตุผลใดๆในรอบเล่นไพ่ที่ผิดปกติ\n"
+
+#: lang.lua:932
+msgid " (2)多个账号游戏币集中到单个账号中\n"
+msgstr "（2）รวมชิปจากบัญชีหลายตัวเพื่อเทเข้าบัญชีตัวเดียว\n"
+
+#: lang.lua:933
+msgid " (3)免费获得游戏币导出\n"
+msgstr "（3）รับชิปฟรีแล้วเทออก\n"
+
+#: lang.lua:934
+msgid "补充:所有正常渠道获得游戏币均只能在通过游戏正常功能个人使用,不能通过任何形式转交给第三方! \n"
+msgstr ""
+"หมายเหตุ:ชิปทั้งหมดที่ได้รับจากช่องทางทางการ สามารถใช้ในการเล่นเกมส์ส่วนบุคคลเท่านั้น ห้ามโอนให้บุคคลที่สามโดยวิธีใดๆทั้งสิ้น! \n"
+"\n"
+
+#: lang.lua:938
+msgid ""
+"2. 发游戏公告对用户进行违规行为告知并暂时扣除非法获得游戏币。如用户有异议可通过邮箱 "
+"Pokdengfeedback@boyaa.com  进行申诉，申诉成功可补还暂扣游戏币。\n"
+msgstr ""
+"2.ประกาศการกระทำฝ่าฝืนเพื่อแจ้งให้ผู้เล่นรับรู้และริบชิปที่ได้รับโดยวิธีการที่ผิดกฎเกมส์ หากผู้เล่นมีข้อสงสัยใดๆ "
+"สามารถแจ้งข้อสงสัยได้ที่อีเมล์ Pokdengfeedback@boyaa.com  และเมื่อตรวจสอบแล้วไม่พบความผิดผู้เล่นจะได้รับชิปคืน。\n"
+"\n"
+
+#: lang.lua:939
+msgid ""
+"注释：如果有玩家反馈被其他人盗币，如果情况属实，将暂扣对方游戏币三天，如果对方没有反馈反对意见，将补偿给"
+"反馈者应得的游戏币。"
+msgstr ""
+"หมายเหตุ:หากมีผู้เล่นฟีดแบคมาว่าถูกขโมยชิปโดยผู้อื่น หลังการตรวจสอบ หากเป็นจริงตามที่ว่า จะทำการหักชิปคู่กรณีไว้ก่อน 3 วัน "
+"หากไอดีคู่กรณีไม่มีฟีดแบคโต้แย้งกลับมา ให้ทำการชดเชยชิปให้กับผู้ที่ฟีดแบค"
+
+#: lang.lua:942
+msgid "侵犯知识产权"
+msgstr "ละเมิดสิทธิในทรัพย์สินทางปัญญา"
+
+#: lang.lua:943
+msgid "（1）删除或修改博雅游戏上的版权信息，或者伪造ICP/IP地址或者数据包的名称；\n"
+msgstr "（1）ลบหรือแก้ไขข้อมูลอันมีลิขสิทธิ์ของเกมส์โบย่า หรือแอบอ้างที่อยู่ ICP/IP ชื่อของแพ๊คข้อมูล；\n"
+
+#: lang.lua:944
+msgid "（2）进行编译、反编译、反向工程或者以其他方式破解博雅游戏的行为；\n"
+msgstr ""
+"（2）กระทำคอมไพล์ ดีคอมไพล์ (decompile) วิศวกรรมย้อนกลับ (Re-engineering) หรือการใช้วิธีอื่นๆ เพื่อกระทำการใดๆ อันมิชอบ "
+"หรือแก้ไข เปลี่ยนแปลงใดๆ หรือ crack เกมส์โบย่า；\n"
+"\n"
+
+#: lang.lua:945
+msgid ""
+"（3）利用博雅游戏故意传播恶意程序或电脑病毒，或者利用博雅游戏发表、转发、传播侵犯第三方知识产权、肖像权、"
+"姓名权、名誉权、隐私或其他合法权益的文字、图片、照片、程序、视频、图象和/或动画等资料，发布假冒博雅游戏官"
+"方网站网址或链接\n"
+msgstr ""
+"（3） ใช้ หรือแอบอ้างชื่อเกมส์โบย่าเพื่อส่ง หรือแพร่โปรแกรมมุ่งร้าย หรือไวรัส ใช้ หรือแอบอ้างชื่อเกมส์โบย่าเพื่อประกาศ แชร์ "
+"สื่อสารข้อมูลอันเป็นการละเมิดทรัพย์สินทางปัญญา สิทธิ์ส่วนบุคคล ความเป็นส่วนตัวหรือหนังสือ รูปภาพ ภาพถ่าย โปรแกรม วีดีโอ และ/"
+"หรือแอนิเมชั่นที่มีสิทธิประโยชน์หรือความคุ้มครองตามกฏหมายใช้ หรือ แอบอ้างชื่อเกมส์โบย่าเพื่อโฆษณา หรือประกาศเว็บไซต์หรือลิงก์ปลอม\n"
+
+#: lang.lua:948 lang.lua:955
+msgid "系统将直接回收该账号使用权，并根据情节严重来决定是否提起法律诉讼"
+msgstr "ระบบจะระงับการใช้งานของบัญชี และจะพิจารณาดำเนินการตามกฎหมาย"
+
+#: lang.lua:951
+msgid "其他违规行为"
+msgstr "การกระทำฝ่าฝืนอื่นๆ"
+
+#: lang.lua:952
+msgid ""
+"利用劫持功能变数名称服务器等技术非法侵入、破坏博雅游戏之服务器软件系统，或者修改、增加、删除、窃取、截"
+"留、替换博雅游戏之客户端和/或服务器软件系统中的数据，或者非法挤占博雅游戏之服务器空间，或者实施其他的使之"
+"超负荷运行等行为\n"
+msgstr ""
+"ใช้เทคนิคเข้าถึงเพื่อเปลี่ยนชื่อของเซิร์ฟเวอร์ บุกรุก ทำลายระบบซอฟต์แวร์เซิร์ฟเวอร์ของเกมส์โบย่า หรือแก้ไข เพิ่ม ลบ ขโมย สกัดกั้น "
+"เปลี่ยนข้อมูลของลูกค้า (Client) และ/หรือข้อมูลของระบบซอฟต์แวร์ เซิร์ฟเวอร์ของเกมส์โบย่า หรือบีบใช้ที่ว่างของเซิร์ฟเวอร์เกมส์โบย่า "
+"หรือการกระทำอื่นๆ ที่ทำให้เซิร์ฟเวอร์ทำงานโอเวอร์โหลด หรือการกระทำอื่นใดที่ขัดต่อกฎหมาย\n"
+
+#: lang.lua:961
+msgid "วิธีรับค่า Exp."
+msgstr ""
+
+#: lang.lua:962
+msgid "๑)เข้าห้องแล้วนั่งลงเล่นไพ่เป็นช่องทางสำคัญในการรับค่า Exp.\n"
+msgstr ""
+
+#: lang.lua:963
+msgid "๑)ค่า Exp. ที่ได้รับจะอิงตามผลแพ้ชนะของแต่ละรอบ หากเล่นเยอะก็จะได้ค่า Exp.เยอะ ระบบไม่มีลิมิตจำกัดจำนวนค่า Exp.\n"
+msgstr ""
+
+#: lang.lua:964
+#, lua-format
+msgid "๑)หากเป็นเจ้ามือ ค่า Exp.ที่ได้รับจะมากขึ้นถึง 50-200%%\n"
+msgstr ""
+
+#: lang.lua:965
+msgid "๑)วิธีคิดค่า Exp.\n"
+msgstr ""
+
+#: lang.lua:966
+msgid "๑)ค่า Exp.ที่เจ้ามือจะได้รับ = จำนวนรอบที่เล่น *3\n"
+msgstr ""
+
+#: lang.lua:967
+msgid "๑)ค่า Exp.ที่ผู้ชนะจะได้รับ = จำนวนรอบที่เล่น *2\n"
+msgstr ""
+
+#: lang.lua:968
+msgid "๑)ค่า Exp.ที่ผู้แพ้จะได้รับ = จำนวนรอบที่เล่น *1"
+msgstr ""
+
+#: lang.lua:975
+msgid "๑)什么是‘现金币’：‘现金币’可在商城兑换奖励，参加比赛获得名次后会奖励现金币.\n"
+msgstr "๑)ชิปปเงินสด\"คืออะไร: \"ชิปเงินสด\" สามารถแลกรางวัลในห้างได้ หากได้อันดับในห้องแข่ง จะได้ชิปเงินสดเป็นรางวัล.\n"
+
+#: lang.lua:976
+msgid "๑)什么是‘冠军积分’：‘冠军积分’是搏定牌高手的证明，只有获得比赛名次后才会奖励冠军积分.\n"
+msgstr ""
+"๑)คะแนนผู้ชนะ\"คืออะไร: \"คะแนนผู้ชนะ\" เป็นหลักฐานแสดงว่าคุณคือเซียนไพ่ป็อกเด้ง ได้อันดับในห้องแข่งเท่านั้น ถึงจะได้รางวัล.\n"
+
+#: lang.lua:977
+msgid ""
+"๑)什么是筹码：筹码是‘搏定牌’游戏的结算货币，玩家可以储值获得，也可以在游戏内领取小额的免费筹码奖励\n"
+msgstr ""
+"๑)ชิป\" คืออะไร: \"ชิป\" คือเงินเกมส์ที่ใช้ในเกมส์ไพ่ป๊อกเด้ง ผู้เล่นสามารถรับได้จากการเติมเงิน "
+"หรือรับฟรีจากการกดรับรางวัลต่างๆในเกมส์\n"
+
+#: lang.lua:981
+msgid "发现新版本"
+msgstr "ตรวจเจอเวอร์ชั่นใหม่"
+
+#: lang.lua:982
+msgid "以后再说"
+msgstr "ไว้คราวหน้า"
+
+#: lang.lua:983
+msgid "立即升级"
+msgstr "อัพเดทตอนนี้"
+
+#: lang.lua:984
+msgid "您已经安装了最新版本"
+msgstr "เวอร์ชั่นของคุณเป็นเวอร์ชั่นล่าสุดค่ะ"
+
+#: lang.lua:986
+msgid "当前玩家ID: {1}"
+msgstr "ID ผู้เล่น: {1}"
+
+#: lang.lua:987
+msgid "版本号：V{1}"
+msgstr "เวอร์ชั่น：V{1}"
+
+#: lang.lua:988
+msgid "官方粉丝页："
+msgstr "แฟนเพจ："
+
+#: lang.lua:991
+msgid "服务条款与隐私策略"
+msgstr "เงื่อนไขการให้บริการและนโยบายความเป็นส่วนตัว"
+
+#: lang.lua:994 lang.lua:1479
+msgid "领取"
+msgstr "กดรับ"
+
+#: lang.lua:995
+msgid "已完成"
+msgstr "เรียบร้อยแล้ว"
+
+#: lang.lua:996
+msgid "去完成"
+msgstr "ไปทำ"
+
+#: lang.lua:997
+msgid "恭喜你完成了任务：{1}"
+msgstr "ยินดีด้วยค่ะ คุณสำเร็จภารกิจ：{1}"
+
+#: lang.lua:998
+msgid "成功获得{1}筹码、{2}经验值奖励"
+msgstr "รับรางวัล {1}ชิป 、{2}ค่าExp. สำเร็จค่ะ"
+
+#: lang.lua:1000
+msgid "倒计时宝箱"
+msgstr "หีบสมบัติ"
+
+#: lang.lua:1001
+msgid "坐下才可以继续计时。"
+msgstr "นั่งลงเวลาถึงเดินค่ะ"
+
+#: lang.lua:1002
+msgid "您今天的宝箱已经全部领取，明天还有哦。"
+msgstr "วันนี้คุณรับรางวัลหีบสมบัติไปหมดแล้ว กรุณามาใหม่พรุ่งนี้ค่ะ"
+
+#: lang.lua:1003
+msgid "再玩{1}分{2}秒，您将获得{3}筹码。"
+msgstr "เล่นอีก {1} นาที {2} วินาที คุณจะได้รับ {3} ชิป"
+
+#: lang.lua:1004
+msgid "恭喜您获得宝箱奖励{1}筹码。"
+msgstr "ยินดีด้วยค่ะ คุณได้รับรางวัลหีบสมบัติ {1} ชิป"
+
+#: lang.lua:1005
+msgid "解锁下个宝箱即可领取{1}筹码"
+msgstr "เปิดหีบสมบัติตัวหน้ารับ {1} ชิปทันที"
+
+#: lang.lua:1006
+msgid "没有安装SD卡，无法使用头像上传功能"
+msgstr "ไม่ได้ติดตั้ง SD การ์ด ไม่สามารถใช้ฟังก์ชั่นอัพโหลดรูปประจำตัวได้ค่ะ"
+
+#: lang.lua:1007
+msgid "获取图像失败"
+msgstr "อัพโหลดรูปล้มเหลว"
+
+#: lang.lua:1008
+msgid "上传头像失败，请稍后重试"
+msgstr "อัพโหลดรูปล้มเหลว กรุณาลองใหม่ค่ะ"
+
+#: lang.lua:1009
+msgid "正在上传头像，请稍候..."
+msgstr "กำลังอัพโหลดรูป กรุณารอสักครู่ค่ะ..."
+
+#: lang.lua:1010
+msgid "上传头像成功"
+msgstr "อัพโหลดรูปสำเร็จ"
+
+#: lang.lua:1014
+msgid "เชิญแจกเมล็ดพันธุ์"
+msgstr ""
+
+#: lang.lua:1015
+msgid "เล่นไพ่ฟรีชิป"
+msgstr ""
+
+#: lang.lua:1016
+msgid "ฟาร์มชิปเก็บเมล็ด"
+msgstr ""
+
+#: lang.lua:1018
+msgid "เปิดตัวเร็วๆนี้"
+msgstr ""
+
+#: lang.lua:1019
+msgid "ตีไข่ทอง"
+msgstr ""
+
+#: lang.lua:1020
+msgid "买一赠一"
+msgstr "ชิปฟรีสุดคุ้ม"
+
+#: lang.lua:1021
+msgid "เล่นไพ่ฟรีชิปเงินสด"
+msgstr ""
+
+#: lang.lua:1024
+msgid "暂无活动"
+msgstr "ยังไม่มีกิจกรรม"
+
+#: lang.lua:1026
+msgid "加载中..."
+msgstr "กำลังโหลด..."
+
+#: lang.lua:1029
+msgid "分享成功"
+msgstr "แชร์สำเร็จ"
+
+#: lang.lua:1030
+msgid "分享失败"
+msgstr "แชร์ล้มเหลว"
+
+#: lang.lua:1032 lang.lua:1033 lang.lua:1039 lang.lua:1040 lang.lua:1046 lang.lua:1047 lang.lua:1053
+#: lang.lua:1054 lang.lua:1060 lang.lua:1061 lang.lua:1067 lang.lua:1068 lang.lua:1074 lang.lua:1075
+#: lang.lua:1081 lang.lua:1082 lang.lua:1088 lang.lua:1089 lang.lua:1096 lang.lua:1097 lang.lua:1103
+#: lang.lua:1104 lang.lua:1110 lang.lua:1111 lang.lua:1117 lang.lua:1118 lang.lua:1124 lang.lua:1125
+#: lang.lua:1131 lang.lua:1132 lang.lua:1139 lang.lua:1140 lang.lua:1146 lang.lua:1147 lang.lua:1821
+#: lang.lua:1833
+msgid " "
+msgstr ""
+
+#: lang.lua:1155
+msgid "好友消息"
+msgstr "ข่าวจากเพื่อน"
+
+#: lang.lua:1156
+msgid "系统消息"
+msgstr "ข่าวจากระบบ"
+
+#: lang.lua:1158
+msgid "您现在没有消息记录"
+msgstr "ตอนนี้คุณยังไม่มีบันทึกข่าว"
+
+#: lang.lua:1159
+msgid "免费回赠"
+msgstr "ส่งกลับฟรี"
+
+#: lang.lua:1161
+msgid "奖励兑换"
+msgstr "แลกโบนัสแฟนส์"
+
+#: lang.lua:1162
+msgid "请输入礼包兑换码"
+msgstr "กรุณากรอกหมายเลขหรัสโบนัสค่ะ"
+
+#: lang.lua:1163
+msgid ""
+"关注粉丝页可免费领取奖励兑换码,我们还会不定期在官方粉丝页推出各种精彩活动,谢谢关注。\n"
+"\n"
+"粉丝页地址 https://www.facebook.com/pokdengtl"
+msgstr ""
+"เข้าหน้าแฟนส์และกลายเป็นแฟนส์จะได้รับโบนัสทุกๆวันนะคะ \n"
+"\n"
+"ลิงก์หน้าแฟนส์ \n"
+"\n"
+"https://www.facebook.com/pokdengtl"
+
+#: lang.lua:1164
+msgid "兑  奖"
+msgstr "แลกรางวัล"
+
+#: lang.lua:1165
+msgid ""
+"恭喜您，兑奖成功！\n"
+"您获得了{1}"
+msgstr ""
+"ยินดีด้วยค่ะ แลกรางวัลสำเร็จ\n"
+"คุณได้รับ {1}"
+
+#: lang.lua:1166
+msgid "兑奖失败，请确认您的兑换码是否输入正确！"
+msgstr "แลกรางวัลล้มเหลว กรุณากรอกรหัสให้ถูกต้องค่ะ!"
+
+#: lang.lua:1167
+msgid "兑奖失败，您的兑换码已经失效。"
+msgstr "แลกรางวัลล้มเหลว รหัสของคุณหมดอายุแล้ว"
+
+#: lang.lua:1168
+msgid ""
+"兑奖失败，每个兑换码只能兑换一次。\n"
+"您已经兑换到了{1}"
+msgstr ""
+"แลกรางวัลล้มเหลว รหัสเดียวกันสามารถแลกได้เพียง 1 ครั้งเท่านั้น\n"
+"คุณได้ทำการแลกรางวัลไปแล้ว ได้รับ {1}"
+
+#: lang.lua:1169
+msgid "领取失败，本次奖励已经全部领光了，关注我们下次早点来哦"
+msgstr "รับรางวัลล้มเหลว รางวัลได้แจกหมดแล้ว คราวหลังมาเร็วๆหน่อยนะคะ"
+
+#: lang.lua:1170
+msgid "关注粉丝页"
+msgstr "ถูกใจแฟนส์"
+
+#: lang.lua:1173
+msgid "分享+1"
+msgstr "แชร์หมุนฟรี +1"
+
+#: lang.lua:1174
+msgid "获得一次抽奖机会"
+msgstr "ยินดีด้วยค่ะ คุณได้รับสิทธิ์หมุนวงล้อฟรี 1 ครั้ง"
+
+#: lang.lua:1175
+msgid "点此分享即可额外获得1次转盘机会，每日前2次生效"
+msgstr "แชร์สำเร็จ หมุนฟรีอีก 1 ครั้ง  จำกัดรางวัลแชร์ 2 ครั้งแรกของวันเท่านั้น"
+
+#: lang.lua:1176
+msgid "每日前2次生效"
+msgstr "จำกัดรางวัลแชร์ 2 ครั้งแรกของวันเท่านั้น"
+
+#: lang.lua:1177
+msgid "开心大转盘，好东西要和朋友一起分享哦"
+msgstr "หมุนแล้วแฮปปี้ทุกวัน ของดีต้องแชร์บอกเพื่อน!"
+
+#: lang.lua:1178
+msgid "_"
+msgstr ""
+
+#: lang.lua:1180
+msgid "剩余抽奖数"
+msgstr "เหลือโอกาส "
+
+#: lang.lua:1181
+msgid "次"
+msgstr "ครั้ง"
+
+#: lang.lua:1182
+msgid "每天登录即可免费获得3次抽奖机会"
+msgstr "ล็อกอินทุกวันรับฟรีสิทธิ์หมุนวงล้อ 3 ครั้ง"
+
+#: lang.lua:1183
+msgid "每次"
+msgstr "ได้รางวัล"
+
+#: lang.lua:1184
+msgid "中奖"
+msgstr "ทุกครั้ง"
+
+#: lang.lua:1185
+msgid "绝不落空，最高可赢取一千万筹码。"
+msgstr "ได้รางวัลชัวร์ มากสุดถึง 10 ล้านชิป!"
+
+#: lang.lua:1186
+msgid "立即开始吧，点击开始抽奖按钮！"
+msgstr "กดเริ่มกันเลยดีกว่า!"
+
+#: lang.lua:1187
+msgid ""
+"开始\n"
+"抽奖"
+msgstr "เริ่ม"
+
+#: lang.lua:1189
+msgid "中大奖了!"
+msgstr "ได้รางวัลใหญ่!"
+
+#: lang.lua:1190
+msgid "恭喜您,抽中{1}的奖励。"
+msgstr "ยินดีด้วยค่ะ คุณหมุนได้ {1} "
+
+#: lang.lua:1193
+msgid "每日转盘说明: "
+msgstr "คำอธิบาย:"
+
+#: lang.lua:1194
+msgid "1、每日最多可抽取3次"
+msgstr "1.ทุกวันหมุนได้มากสุด 3 ครั้ง"
+
+#: lang.lua:1195
+msgid "2、首次转盘可直接抽取"
+msgstr "2.ครั้งแรกหมุนได้ทันที"
+
+#: lang.lua:1196
+msgid "3、后续转盘每3分钟抽取1次"
+msgstr "3.ครั้งต่อไปทุก 3 นาทีหมุนได้ 1 ครั้ง"
+
+#: lang.lua:1198
+msgid "当前状态:"
+msgstr "เวลาเหลือ:"
+
+#: lang.lua:1200
+msgid "可以抽奖"
+msgstr "หมุนได้"
+
+#: lang.lua:1201
+msgid "3次已抽完，请明日再来"
+msgstr "หมุนครบ 3 ครั้งแล้ว พรุ่งนี้มาใหม่นะคะ"
+
+#: lang.lua:1204
+msgid "银行"
+msgstr "ธนาคาร"
+
+#: lang.lua:1206
+msgid "喇叭"
+msgstr "ลำโพง"
+
+#: lang.lua:1207
+msgid "银行内资产"
+msgstr "ยอดชิปในธนาคาร"
+
+#: lang.lua:1208
+msgid "存钱"
+msgstr "ฝากชิป"
+
+#: lang.lua:1209
+msgid "取钱"
+msgstr "ถอนชิป"
+
+#: lang.lua:1210
+msgid "取消密码成功"
+msgstr "ยกเลิกรหัสผ่านสำเร็จ"
+
+#: lang.lua:1211
+msgid "取消密码失败"
+msgstr "ยกเลิกรหัสผ่านล้มเหลว"
+
+#: lang.lua:1212
+msgid "请输入金额"
+msgstr "กรุณากรอกจำนวนชิป"
+
+#: lang.lua:1213
+msgid "你不是VIP用户不能使用保险箱功能"
+msgstr "คุณไม่ใช่ผู้เล่น VIP ไม่สามารถใช้ธนาคารได้"
+
+#: lang.lua:1214
+msgid "存钱成功"
+msgstr "ฝากชิปสำเร็จ"
+
+#: lang.lua:1215
+msgid "存钱失败"
+msgstr "ฝากชิปล้มเหลว"
+
+#: lang.lua:1216
+msgid "取钱成功"
+msgstr "ถอนเงินสำเร็จ"
+
+#: lang.lua:1217
+msgid "取钱失败"
+msgstr "ถอนเงินล้มเหลว"
+
+#: lang.lua:1218
+msgid "请输入密码"
+msgstr "กรุณากรอกรหัสผ่าน"
+
+#: lang.lua:1219
+msgid "请再次输入密码"
+msgstr "กรุณากรอกรหัสผ่านอีกครั้ง"
+
+#: lang.lua:1220
+msgid "你输入的密码有误，请从新输入"
+msgstr "คุณกรอกรหัสผ่านผิดค่ะ กรุณากรอกใหม่"
+
+#: lang.lua:1221 lang.lua:1228
+msgid "设置密码"
+msgstr "ตั้งค่ารหัสผ่าน"
+
+#: lang.lua:1222
+msgid "设置密码成功"
+msgstr "ตั้งค่ารหัสผ่านสำเร็จ"
+
+#: lang.lua:1223
+msgid "设置密码失败"
+msgstr "ตั้งค่ารหัสผ่านล้มเหลว"
+
+#: lang.lua:1224
+msgid "你的等级没有达到五级，不能使用保险箱"
+msgstr "บัญชีของคุณยังไม่ถึง Lv.5  ไม่สามารถใช้ธนาคารได้ค่ะ"
+
+#: lang.lua:1225
+msgid "取消或者设置密码"
+msgstr "ยกเลิกหรือตั้งค่ารหัสผ่าน"
+
+#: lang.lua:1226
+msgid "忘记密码请向管理员反馈"
+msgstr "ลืมรหัสผ่าน กรุณาฟีดแบคติดต่อทีมงานค่ะ"
+
+#: lang.lua:1227
+msgid "忘记密码"
+msgstr "ลืมรหัสผ่าน"
+
+#: lang.lua:1229
+msgid "取消密码"
+msgstr "ยกเลิกรหัสผ่าน"
+
+#: lang.lua:1230
+msgid "ฝากถอนได้มากสุดครั้งละ 2B  ชิป"
+msgstr ""
+
+#: lang.lua:1231
+msgid "ดำเนินการล้มเหลว กรุณาติดต่อศูนย์บริการลูกค้าค่ะ"
+msgstr ""
+
+#: lang.lua:1232
+msgid "请不要在房间内使用保险箱"
+msgstr "กรุณาอย่าใช้บริการธนาคารในห้องค่ะ"
+
+#: lang.lua:1233
+msgid "您今天的存钱次数已到上限({1}/{2})"
+msgstr "วันนี้จำนวนรอบฝากชิปของคุณถึงขีดจำกัดแล้ว（{1}/{2}）"
+
+#: lang.lua:1238
+msgid "现金币保险箱仅限付费用户使用"
+msgstr "เฉพาะผู้เล่นที่เคยเติมชิปเท่านั้นถึงจะมีสิทธิ์ใช้ธนาคารชิปเงินสดค่ะ"
+
+#: lang.lua:1240
+msgid "老虎机购买失败,你的筹码不足"
+msgstr "ชิปของคุณมีไม่พอเล่นสล็อตค่ะ"
+
+#: lang.lua:1241
+msgid "您坐下后账户剩余筹码小于{1},无法下注！"
+msgstr "หลังนั่งลงชิปของคุณน้อยกว่า{1}  ไม่สามารถเดิมพันได้ค่ะ"
+
+#: lang.lua:1242
+msgid "您坐下后账户剩余筹码太少，无法下注！"
+msgstr "หลังนั่งลง จำนวนชิปเหลือน้อยเกินไปจึงทำให้เดิมพันไม่ได้ค่ะ"
+
+#: lang.lua:1243
+msgid "老虎机购买失败，系统出现错误"
+msgstr "ระบบเกิดเหตุขัดข้อง ไม่สามารถซื้อสล็อตได้ค่ะ"
+
+#: lang.lua:1244
+msgid "你赢得了{1}筹码"
+msgstr "คุณชนะได้รับ {1} ชิป"
+
+#: lang.lua:1245
+msgid "玩家 {1} 玩老虎机抽中大奖，获得筹码{2}"
+msgstr "{1} เล่นสล็อตถูกรางวัลใหญ่ ได้รับ {2}"
+
+#: lang.lua:1246
+msgid "头奖：{1}"
+msgstr "รางวัลสูงสุด：{1}"
+
+#: lang.lua:1247
+msgid "你赢了：{1}"
+msgstr "คุณชนะ：{1}"
+
+#: lang.lua:1248
+msgid "自动"
+msgstr "อัตโนมัติ"
+
+#: lang.lua:1249
+msgid "未中奖,再来一次吧"
+msgstr "ยังไม่ถูกรางวัล ลองอีกครั้งไหม"
+
+#: lang.lua:1251
+msgid "打开"
+msgstr "เปิด"
+
+#: lang.lua:1253
+msgid "获得{1}"
+msgstr "ได้รับ {1}"
+
+#: lang.lua:1254
+msgid "设为我的礼物"
+msgstr "ตั้งค่าเป็นของขวัญของฉัน"
+
+#: lang.lua:1255
+msgid "买给牌桌x{1}"
+msgstr "ซื้อให้เพื่อน x{1}"
+
+#: lang.lua:1256
+msgid "你当前选择的礼物"
+msgstr "ของขวัญที่คุณเลือก"
+
+#: lang.lua:1257
+msgid "赠送"
+msgstr "ส่ง"
+
+#: lang.lua:1258
+msgid "天"
+msgstr "วัน"
+
+#: lang.lua:1259
+msgid "颗"
+msgstr "เมล็ด"
+
+#: lang.lua:1260
+msgid "请选择礼物"
+msgstr "กรุณาเลือกของขวัญ"
+
+#: lang.lua:1261
+msgid "购买礼物成功"
+msgstr "ซื้อของขวัญสำเร็จ"
+
+#: lang.lua:1262
+msgid "购买礼物失败"
+msgstr "ซื้อของขวัญล้มเหลว"
+
+#: lang.lua:1263
+msgid "筹码不足,购买失败"
+msgstr "ชิปมีไม่พอ ซื้อของขวัญล้มเหลว"
+
+#: lang.lua:1264
+msgid "设置礼物成功"
+msgstr "ตั้งค่าของขวัญสำเร็จ"
+
+#: lang.lua:1265
+msgid "设置礼物失败"
+msgstr "ตั้งค่าของขวัญล้มเหลว"
+
+#: lang.lua:1266
+msgid "赠送礼物成功"
+msgstr "ส่งของขวัญสำเร็จ"
+
+#: lang.lua:1267
+msgid "赠送礼物失败"
+msgstr "ส่งของขวัญล้มเหลว"
+
+#: lang.lua:1268
+msgid "赠送牌桌礼物成功"
+msgstr "ส่งของขวัญให้เพื่อนบนโต๊ะสำเร็จ"
+
+#: lang.lua:1269
+msgid "赠送牌桌礼物失败"
+msgstr "ส่งของขวัญให้เพื่อนบนโต๊ะล้มเหลว"
+
+#: lang.lua:1270
+msgid "暂时没有礼物"
+msgstr "ยังไม่มีของขวัญ"
+
+#: lang.lua:1271
+msgid "点击选中既可在牌桌上展示才礼物"
+msgstr "กดเลือกของขวัญที่ต้องการเพื่อประดับรูปประจำตัว"
+
+#: lang.lua:1273
+msgid "热销"
+msgstr "ขายดี"
+
+#: lang.lua:1274
+msgid "新品"
+msgstr "สินค้าใหม่"
+
+#: lang.lua:1275
+msgid "节日"
+msgstr "เทศกาล"
+
+#: lang.lua:1279
+msgid "自己购买"
+msgstr "ซื้อเอง"
+
+#: lang.lua:1280
+msgid "牌友赠送"
+msgstr "เพื่อนให้"
+
+#: lang.lua:1281
+msgid "特别赠送"
+msgstr "ของขวัญจากระบบ"
+
+#: lang.lua:1285
+msgid "商城礼物"
+msgstr "ของขวัญในห้าง"
+
+#: lang.lua:1290
+msgid "<<点击这里使用小喇叭"
+msgstr "<<กดส่งลำโพงทั่วเซิร์ฟ"
+
+#: lang.lua:1291
+msgid " 说:"
+msgstr "  พูดว่า:"
+
+#: lang.lua:1293
+msgid "广播"
+msgstr "ลำโพง"
+
+#: lang.lua:1294
+msgid "广播记录"
+msgstr "บันทึกลำโพง"
+
+#: lang.lua:1296
+msgid "请输入,限223字节以内"
+msgstr "กรุณากรอก จำกัดภายใน 223 ตัวอักษร"
+
+#: lang.lua:1298
+msgid "1.每发送一条全服广播需消耗小喇叭*1"
+msgstr "1.จะต้องใช้ลำโพง *1 ในการส่งลำโพงเซิร์ฟ "
+
+#: lang.lua:1299
+msgid "2.每人每3分钟内只可发放一条全服广播"
+msgstr "2.ทุกๆ 3 นาทีจะส่งลำโพงเซิร์ฟได้เพียง 1 ครั้ง/ท่านเท่านั้น"
+
+#: lang.lua:1300
+msgid "3.在线的人均可看到广播发言，大胆告白吧"
+msgstr "3.ผู้เล่นที่อยู่ในเกมส์ จะเห็นข้อความโดยทั่วกัน อยากพูดอะไรก็เขียนเลย~"
+
+#: lang.lua:1303
+msgid "小喇叭在兑换商城兑换"
+msgstr "ลำโพงสามารถแลกซื้อได้ในห้างค่ะ"
+
+#: lang.lua:1304
+msgid "仅显示最近50条喇叭记录"
+msgstr "จะแสดงเฉพาะ 50 ข้อความล่าสุดเท่านั้น"
+
+#: lang.lua:1305
+msgid "小喇叭内容不能为空！"
+msgstr "กรุณากรอกข้อความในลำโพงค่ะ!"
+
+#: lang.lua:1306
+msgid "您发送的内容过长,请重新编辑！"
+msgstr "ข้อความยาวเกินไปค่ะ กรุณากรอกใหม่อีกครั้งค่ะ!"
+
+#: lang.lua:1307
+msgid "您的筹码不足,有钱更能博得意中人的欢心哦!"
+msgstr "ชิปของคุณมีไม่พอค่ะ ชิปยิ่งเยอะ ยิ่งได้หัวใจจากคนที่รักนะ"
+
+#: lang.lua:1308
+msgid "加载中，请稍后！"
+msgstr "กำลังโหลดอยู่ กรุณารอสักครู่ค่ะ"
+
+#: lang.lua:1309
+msgid "您刚刚发过言啦,休息一会再来吧！"
+msgstr "คุณส่งข้อความแล้วเมื่อสักครู่ กรุณาพักก่อนแล้วค่อยส่งใหม่ค่ะ!"
+
+#: lang.lua:1310
+msgid "网络异常发送失败，请重试"
+msgstr "เน็ตผิดปกติ ส่งข้อความล้มเหลว กรุณาลองใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1313
+msgid "农场"
+msgstr "ฟาร์มชิป"
+
+#: lang.lua:1315
+msgid "我的聚宝盆"
+msgstr "ฟาร์มชิปของฉัน"
+
+#: lang.lua:1316
+msgid "好友聚宝盆"
+msgstr "ฟาร์มชิปของเพื่อน"
+
+#: lang.lua:1317
+msgid "收获记录"
+msgstr "บันทึกการขโมย"
+
+#: lang.lua:1318
+msgid "农场说明"
+msgstr "คำอธิบาย"
+
+#: lang.lua:1321
+msgid "请先登陆FB帐户，种植元宝种子可获得海量筹码"
+msgstr "กรุณาล็อกอินบัญชี FB ปลูกเมล็ดพันธ์จะได้รับชิปฟรีมหาศาล"
+
+#: lang.lua:1322
+msgid "等级满3级才能玩筹码农场哦"
+msgstr "บัญชี FB ครบ Lv.3 ถึงจะปลดล็อคฟาร์มชิปได้ค่ะ"
+
+#: lang.lua:1323
+msgid "收获好友的成熟元宝是获得元宝种子的主要方式"
+msgstr "ขโมยผลิตผลของเพื่อน เป็นวิธีหลักในการสะสมเมล็ดพันธุ์"
+
+#: lang.lua:1324
+msgid "分享得种子"
+msgstr "แชร์รับฟรีเมล็ดพันธุ์"
+
+#: lang.lua:1325
+msgid "点击查看聚宝盆说明"
+msgstr "คำอธิบาย"
+
+#: lang.lua:1327
+msgid "聚宝盆说明:"
+msgstr "คำอธิบาย: "
+
+#: lang.lua:1328
+msgid "1、每日首次登录即可获得银元宝种子1颗"
+msgstr "1.ล็อกอินบัญชี FB ครั้งแรกของวัน รับฟรีเมล็ดพันธุ์ตำลึงเงิน 1 เมล็ด"
+
+#: lang.lua:1329
+msgid "2、每日首次分享即可获得银元宝种子1颗"
+msgstr "2.แชร์ฟาร์มชิปหรือของหายากในฟาร์มครั้งแรกของวันสำเร็จ รับฟรีเมล็ดพันธุ์ตำลึงเงิน 1 เมล็ด"
+
+#: lang.lua:1330
+msgid "3、收获好友成熟元宝时，有较高几率获得元宝种子"
+msgstr "3.ขโมยผลิตผลของเพื่อน มีโอกาสสูงที่จะได้รับเมล็ดพันธุ์"
+
+#: lang.lua:1331
+msgid "4、元宝种子种植于聚宝盆中，成熟后可获得大量筹码"
+msgstr "4.เมล็ดพันธุ์ใช้ปลูกในฟาร์มชิป หลังสุกจะได้ชิปฟรีอื้อซ่า"
+
+#: lang.lua:1332
+msgid "5、加速药剂可加快种子成熟时间"
+msgstr "5.ปุ๋ยเพิ่มความเร็วสามารถย่นเวลาสุกของเมล็ดพันธุ์ได้"
+
+#: lang.lua:1333
+msgid "6、收获自己的成熟元宝时，有几率获得加速药剂"
+msgstr "6.หลังเก็บเกี่ยวผลิตผลของตัวเอง มีโอกาสสูงที่จะได้รับปุ๋ยเพิ่มความเร็ว"
+
+#: lang.lua:1334
+msgid "7、游客不可参与种植，请先登录FB帐户"
+msgstr "7.บัญชีนักเที่ยวไม่สามารถปลูกเมล็ดพันธุ์ได้ กรุณาล็อกอินบัญชี FB"
+
+#: lang.lua:1336
+msgid "成熟奖励: ${1}"
+msgstr "ผลิตผลที่จะได้: {1} ชิป"
+
+#: lang.lua:1337
+msgid "成长时间: {1} Min"
+msgstr "เวลาเก็บ: {1} นาที"
+
+#: lang.lua:1338
+msgid "剩余数量: {1}"
+msgstr "เหลือ:{1}"
+
+#: lang.lua:1339
+msgid "缩减种子20Min成熟时间"
+msgstr "ย่นระยะเวลาสุก: 20 นาที"
+
+#: lang.lua:1340
+msgid "我的元宝种子"
+msgstr "เมล็ดพันธุ์ของฉัน"
+
+#: lang.lua:1341
+msgid "请选择种植对象"
+msgstr "กรุณากดเลือกเมล็ดพันธุ์"
+
+#: lang.lua:1342
+msgid "种植小能手"
+msgstr "นักปลูกมือโปร"
+
+#: lang.lua:1343
+msgid "请先登录"
+msgstr "กรุณาล็อกอินก่อน"
+
+#: lang.lua:1344
+msgid ""
+"恭喜您额外收获了稀有道具【银元宝种子】，种植于【聚宝盆】可收获丰富筹码，快把这个好消息告诉你的朋友吧！"
+msgstr ""
+"ยินดีด้วยค่ะ คุณขุดเจอ [เมล็ดตำลึงเงิน] ของหายากนี้สามารถปลูกได้ที่ฟาร์ม คุณจะได้รับรางวัลชิปฟรีไม่อั้น "
+"รีบไปบอกข่าวกับเพื่อนๆของคุณกันเถอะ!"
+
+#: lang.lua:1346
+msgid ""
+"恭喜您额外收获了稀有道具【金元宝种子】，种植于【聚宝盆】可收获海量筹码，快把这个好消息告诉你的朋友吧！"
+msgstr ""
+"ยินดีด้วยค่ะ คุณขุดเจอ [เมล็ดตำลึงทอง] ของหายากนี้สามารถปลูกได้ที่ฟาร์ม คุณจะได้รับรางวัลชิปฟรีไม่อั้น "
+"รีบไปบอกข่าวกับเพื่อนๆของคุณกันเถอะ!"
+
+#: lang.lua:1348
+msgid ""
+"恭喜您额外收获了稀有道具【加速化肥】，使用即可缩减【元宝种子】收获时间，快把这个好消息告诉你的朋友吧！"
+msgstr ""
+"ยินดีด้วยค่ะ คุณขุดเจอ [ปุ๋ยเพิ่มความเร็ว] ของหายากนี้สามารถย่นระยะเวลาสุกของเมล็ดพันธุ์ที่ปลูกได้ รีบไปบอกข่าวกับเพื่อนๆของคุณกันเถอะ!"
+
+#: lang.lua:1350
+msgid "每日首次分享可获得银元宝种子1颗"
+msgstr "แชร์อะไรก็ได้ในฟาร์มครั้งแรกของวัน รับเมล็ดตำลึงเงินฟรี 1 เมล็ด"
+
+#: lang.lua:1352
+msgid "Sorry，游客不可参与种植，请先登录FB帐户！"
+msgstr "ขอโทษค่ะ บัญชีนักเที่ยวไม่สามารถปลูก{1}เมล็ดพันธุ์ได้ กรุณาล็อกอินบัญชี FB!"
+
+#: lang.lua:1354
+msgid "立即登录"
+msgstr "ล็อกอินทันที"
+
+#: lang.lua:1356
+msgid "登录FB，享受更多优惠，体验更完善"
+msgstr "ล็อกอินบัญชี FB รับสิทธิพิเศษมากมาย มันส์กันได้แบบฟินๆ"
+
+#: lang.lua:1358
+msgid "种植"
+msgstr "ปลูก"
+
+#: lang.lua:1360
+msgid "加速"
+msgstr "เพิ่มความเร็ว"
+
+#: lang.lua:1362
+msgid "收获"
+msgstr "เก็บ"
+
+#: lang.lua:1364
+msgid "解锁"
+msgstr "ปลดล็อค"
+
+#: lang.lua:1366
+msgid "LV.{1}解锁"
+msgstr "LV.{1} เปิด"
+
+#: lang.lua:1368
+msgid "解锁费用"
+msgstr "ค่าปลดล็อค"
+
+#: lang.lua:1370
+msgid "待解锁"
+msgstr "รอปลดล็อค"
+
+#: lang.lua:1372
+msgid "未解锁"
+msgstr "ยังไม่ปลดล็อค"
+
+#: lang.lua:1374
+msgid "成功解锁"
+msgstr "ปลดล็อคสำเร็จ"
+
+#: lang.lua:1376
+msgid "种植成功"
+msgstr "ปลูกสำเร็จ"
+
+#: lang.lua:1378
+msgid "加速成功"
+msgstr "เพิ่มความเร็วสำเร็จ"
+
+#: lang.lua:1380
+msgid "收获了 {1} 筹码"
+msgstr "เก็บได้ {1} ชิป"
+
+#: lang.lua:1382
+msgid "偷到了好友 {1} 筹码"
+msgstr "ขโมยเพื่อนได้ {1} ชิป"
+
+#: lang.lua:1384
+msgid "您已经收过了，快提醒好友收获吧"
+msgstr "คุณเก็บผลิตผลไปแล้ว รีบบอกเพื่อนให้มาเก็บผลิตผลของเขากันเถอะ"
+
+#: lang.lua:1386
+msgid "偷他的"
+msgstr "ขโมย"
+
+#: lang.lua:1388
+msgid "成长中"
+msgstr "กำลังโต"
+
+#: lang.lua:1390
+msgid "未种植"
+msgstr "ยังไม่ได้ปลูก"
+
+#: lang.lua:1392
+msgid "请先解锁前面的筹码农场"
+msgstr "กรุณาปลดล็อคด้านหน้าก่อน"
+
+#: lang.lua:1394
+msgid "种子不足"
+msgstr "เมล็ดพันธุ์ไม่พอค่ะ"
+
+#: lang.lua:1396
+msgid "加速药水不足"
+msgstr "ปุ๋ยเพิ่มความเร็วไม่พอค่ะ"
+
+#: lang.lua:1398
+msgid "获得1颗银种子"
+msgstr "ได้รับเมล็ดตำลึงเงิน 1 เมล็ด"
+
+#: lang.lua:1400
+msgid "不能再偷了，再偷就没了"
+msgstr "ขโมยไปเยอะแล้ว ขโมยอีกไม่ได้แล้วค่ะ"
+
+#: lang.lua:1403
+msgid "日期"
+msgstr "วันที่"
+
+#: lang.lua:1404
+msgid "时间"
+msgstr "เวลา"
+
+#: lang.lua:1405
+msgid "种子"
+msgstr "เมล็ดพันธุ์"
+
+#: lang.lua:1406
+msgid "收获人"
+msgstr "คนขโมย"
+
+#: lang.lua:1407
+msgid "数量"
+msgstr "ได้"
+
+#: lang.lua:1408
+msgid "聚宝盆"
+msgstr "ฟาร์มของเขา"
+
+#: lang.lua:1409
+msgid "金元宝种子"
+msgstr "เมล็ดตำลึงทอง"
+
+#: lang.lua:1410 lang.lua:1895
+msgid "银元宝种子"
+msgstr "เมล็ดตำลึงเงิน"
+
+#: lang.lua:1411
+msgid "加速药水"
+msgstr "ปุ๋ยเพิ่มความเร็ว"
+
+#: lang.lua:1413
+msgid "偷取失败，请刷新后重试"
+msgstr "ขโมยล้มเหลวค่ะ กรุณารีเฟรชก่อนค่อยลองใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1416
+msgid "> 筹码农场的作用"
+msgstr ">ฟาร์มชิปมีประโยชน์อย่างไร?"
+
+#: lang.lua:1417
+msgid "可以种植元宝种子，成熟后可收获大量筹码"
+msgstr "ใช้ปลูกเมล็ดพันธุ์ในฟาร์มชิป หลังสุกจะได้รับชิปฟรีเพียบ"
+
+#: lang.lua:1418
+msgid "> 农场道具说明"
+msgstr ">คำอธิบายไอเทมฟาร์มชิป"
+
+#: lang.lua:1419
+msgid "> 其他规则"
+msgstr "กติกาอื่นๆ"
+
+#: lang.lua:1420
+msgid "1、FB用户满3级即可解锁筹码农场"
+msgstr "1、บัญชี FB ครบ Lv.3 ถึงจะปลดล็อคฟาร์มชิปได้ค่ะ"
+
+#: lang.lua:1421
+msgid "2、解锁后每日首次登录即可获得1颗银种子"
+msgstr "2、หลังปลดล็อคเข้าเกมส์ครั้งแรกของวันรับฟรีเมล็ดเงิน 1 เมล็ด"
+
+#: lang.lua:1422
+msgid "3、偷去好友的成熟种子是获得元宝种子的主要方式，好友越多方可赚取更多筹码"
+msgstr "3、ขโมยผลิตผลของเพื่อนเป็นวิธีหลักในการสะสมเมล็ดพันธุ์"
+
+#: lang.lua:1423
+msgid "4、离线时种植金种子，下次登录可直接获得可观的筹码"
+msgstr "4、ออฟไลน์หลังปลูกเมล็ดทอง สามารถรับชิปทันทีหลังล็อกอินครั้งหน้าค่ะ"
+
+#: lang.lua:1424
+msgid "5、合理安排种植和收获时间，可最大额度获得筹码奖励"
+msgstr "5、จัดการเวลาปลูกและเก็บเกี่ยวให้ดี จะสามารถรับรางวัลชิปฟรีมหาศาลได้"
+
+#: lang.lua:1425
+msgid "道具名称"
+msgstr "ชื่อไอเทม"
+
+#: lang.lua:1426
+msgid "道具说明"
+msgstr "คำอธิบาย"
+
+#: lang.lua:1427
+msgid "获得方法"
+msgstr "วิธีรับ"
+
+#: lang.lua:1428
+msgid "种植于筹码农场，成熟后最高可获得50000筹码"
+msgstr "จะใช้ไปปลูกในฟาร์มชิป หลังสุกรับชิปสูงสุด  50,000 ชิป "
+
+#: lang.lua:1429
+msgid "种植于筹码农场，成熟后最高可获得20000筹码"
+msgstr "จะใช้ไปปลูกในฟาร์มชิป หลังสุกรับชิปสูงสุด 20,000 ชิป "
+
+#: lang.lua:1430
+msgid "可缩减当前种子20分钟的成熟时间"
+msgstr "ย่นระยะเวลาสุก 20 นาที"
+
+#: lang.lua:1431
+msgid "偷取好友的种子有较高的几率获得"
+msgstr "ขโมยผลิตผลของเพื่อน มีโอกาสสูงที่จะได้รับค่ะ"
+
+#: lang.lua:1432
+msgid "偷取好友的种子有一定的几率获得"
+msgstr "ขโมยผลิตผลของเพื่อน มีโอกาสสูงที่จะได้รับค่ะ"
+
+#: lang.lua:1433
+msgid "收获种子有一定几率获得"
+msgstr "เวลาเก็บเกี่ยวผลิตผลมีโอกาสสูงที่จะได้ค่ะ"
+
+#: lang.lua:1436
+msgid "农场公告"
+msgstr "ประกาศฟาร์มชิป"
+
+#: lang.lua:1437
+msgid "好友留言"
+msgstr "ข้อความเพื่อน"
+
+#: lang.lua:1440
+msgid "{1}收获了银种子，获得了{2}筹码"
+msgstr "{1}เก็บเมล็ดเงินได้รับ{2}ชิป"
+
+#: lang.lua:1441
+msgid "{1}收获了金种子，获得了{2}筹码"
+msgstr "{1}เก็บเมล็ดทองได้รับ{2}ชิป"
+
+#: lang.lua:1442
+msgid "{1}偷取了好友{2}的银种子，获得了{3}筹码"
+msgstr "{1}ขโมยเมล็ดเงินของ{2} ได้รับ{3}ชิป"
+
+#: lang.lua:1443
+msgid "{1}偷取了好友{2}的金种子，获得了{3}筹码"
+msgstr "{1}ขโมยเมล็ดทองของ{2} ได้รับ{3}ชิป"
+
+#: lang.lua:1444
+msgid "{1}好友{2}偷取了我的银种子，失去了{3}筹码"
+msgstr "{1}ขโมยเมล็ดเงินของ{2} เสียผลผลิตไป{3}ชิป"
+
+#: lang.lua:1445
+msgid "{1}好友{2}偷取了我的金种子，失去了{3}筹码"
+msgstr "{1}ขโมยเมล็ดทองของ{2} เสียผลผลิตไป{3}ชิป"
+
+#: lang.lua:1447
+msgid "解锁需要消耗{1}筹码，确定解锁码?"
+msgstr "ปลดล็อคต้องการเสีย{1}ชิป คุณแน่ใจจะปลดล็อคไหม?"
+
+#: lang.lua:1449
+msgid "提醒好友成功"
+msgstr "สะกิดเพื่อนเข้าฟาร์มชิปสำเร็จค่ะ"
+
+#: lang.lua:1450
+msgid "该农场暂未解锁或者已经种植了种子"
+msgstr "ฟาร์มชิปนี้ยังไม่ปลดล็อคหรือปลูกเมล็ดพันธุ์ไปแล้ว"
+
+#: lang.lua:1451
+msgid "今天该地已经提醒过了"
+msgstr "วันนี้แปลงนี้เคยสะกิดเพื่อนแล้วค่ะ"
+
+#: lang.lua:1453
+msgid "您获得一个可银种子，参与种植即可收获海量筹码，快去试试吧！"
+msgstr "คุณได้รับเมล็ดเงิน 1 เมล็ด ร่วมปลูกเมล็ดพันธุ์จะได้รับชิปเพียบ รีบไปลองสิ!"
+
+#: lang.lua:1454
+msgid "ชิปของฉัน:"
+msgstr ""
+
+#: lang.lua:1455
+msgid "ระยะเวลากิจกรรม:"
+msgstr ""
+
+#: lang.lua:1456
+msgid "บันทึกรางวัล"
+msgstr ""
+
+#: lang.lua:1457
+msgid "ขออภัยค่ะ ชิปของคุณมีไม่พอ ไม่สามารถร่วมกิจกรรมได้ กรุณาไปสะสมชิปก่อนแล้วค่อยมาเล่นใหม่ค่ะ"
+msgstr ""
+
+#: lang.lua:1458
+msgid "รายการรางวัล"
+msgstr ""
+
+#: lang.lua:1460
+msgid "เวลา"
+msgstr ""
+
+#: lang.lua:1461
+msgid "รางวัล"
+msgstr ""
+
+#: lang.lua:1464
+msgid "暂无牌局数据"
+msgstr "ไม่มีบันทึกข้อมูลไพ่"
+
+#: lang.lua:1467
+msgid "您获得{1}筹码的破产救济金，同时还获得当日充值优惠一次，立即充值，重振雄风！"
+msgstr "คุณได้รับชิปช่วยเหลือ {1} ชิป แถมยังได้รับสิทธิ์พิเศษเติมเงิน 1 ครั้ง รีบไปเติมเงินสิ จะได้มาแข่งต่อ!"
+
+#: lang.lua:1468
+msgid "您获得最后一次{1}筹码的破产救济金，同时还获得当日充值优惠一次，立即满血复活，再战江湖！"
+msgstr "คุณได้รับชิปช่วยเหลือ {1} เป็นครั้งสุดท้าย และได้รับสิทธิ์พิเศษเติมเงิน 1 ครั้ง รีบใช้สิทธิ์ จะได้มาจัดการคู่แข่งต่อ!"
+
+#: lang.lua:1469
+msgid "您已经领完所有破产救济金了，您可以去商城购买筹码，每天登录还有免费筹码赠送哦！"
+msgstr "คุณรับชิปช่วยเหลือหมดแล้ว สามารถไปซื้อชิปได้ที่ห้าง ล็อกอินทุกวันรับชิปฟรีทุกวันนะคะ!"
+
+#: lang.lua:1470
+msgid "你破产了！"
+msgstr "คุณล้มละลายแล้ว!"
+
+#: lang.lua:1471
+msgid "破产救济"
+msgstr "ชิปช่วยเหลือ"
+
+#: lang.lua:1473
+msgid "{1}游戏币"
+msgstr "{1} ชิป"
+
+#: lang.lua:1474
+msgid "({1}天内仅限{2}次)"
+msgstr "(จำกัด {1} วันรับได้ {2} ครั้งเท่านั้น)"
+
+#: lang.lua:1475
+msgid "FB邀请"
+msgstr "เชิญเพื่อน"
+
+#: lang.lua:1476
+msgid "(邀请1个新朋友并成功进游戏)"
+msgstr "(เชิญเพื่อนเข้าเกมส์ให้ได้ 1 คน)"
+
+#: lang.lua:1477
+msgid "FB招回"
+msgstr "สะกิดเพื่อน"
+
+#: lang.lua:1478
+msgid "(成功召回1个老用户回归游戏)"
+msgstr "(เรียกเพื่อนกลับมาให้ได้ 1 คน)"
+
+#: lang.lua:1481
+msgid ""
+"{1}\n"
+"{2}"
+msgstr ""
+
+#: lang.lua:1482
+msgid "获得{1}游戏币"
+msgstr "ได้รับ {1} ชิป"
+
+#: lang.lua:1483
+msgid "仅限E2P"
+msgstr "เฉพาะ E2P"
+
+#: lang.lua:1484
+msgid "仅限BluePay"
+msgstr "จำกัดเฉพาะ BluePay เท่านั้น"
+
+#: lang.lua:1486
+msgid "输光啦!!"
+msgstr "ชิปหมดแล้ว!!"
+
+#: lang.lua:1487
+msgid "取点钱出来快速翻本!"
+msgstr "ถอนชิป! แล้วมาชนะคืนทุนกัน!"
+
+#: lang.lua:1488
+msgid "保险箱"
+msgstr "เปิดธนาคาร"
+
+#: lang.lua:1491
+msgid "领取奖励成功，获得{1}游戏币"
+msgstr "รับรางวัลสำเร็จ ได้{1}ชิป"
+
+#: lang.lua:1492
+msgid "已领取过奖励"
+msgstr "ได้รับรางวัลไปแล้ว"
+
+#: lang.lua:1496
+msgid "当前底注的房间 ({1}底注) 仅适合筹码范围{2}~{3}的玩家。"
+msgstr "ห้องเดิมพัน ({1}) ที่ท่านเลือก สำหรับผู้เล่นที่มีชิป {2}~{3}"
+
+#: lang.lua:1497
+msgid "当前底注的房间 ({1}底注) 仅适合筹码大于{2}的玩家。"
+msgstr "ห้องเดิมพัน {1} นี้สำหรับผู้เล่นที่ถือชิปมากกว่า {2}"
+
+#: lang.lua:1498
+msgid "您是高手中的高手,请移步至高级别房间游戏。"
+msgstr "ฝีมือท่านสุดยอดเลย กรุณาไปห้องระดับสูงกว่า"
+
+#: lang.lua:1500
+msgid "祝您游戏愉快:)"
+msgstr "ขอให้มีความสุขนะจ๊ะ"
+
+#: lang.lua:1501
+msgid "现在就去 >>"
+msgstr "เล่นตอนนี้ >>"
+
+#: lang.lua:1504
+msgid "充值"
+msgstr "เติม"
+
+#: lang.lua:1505
+#, lua-format
+msgid "首次送500%%"
+msgstr "ครั้งแรก ฟรี 500%%"
+
+#: lang.lua:1506
+#, lua-format
+msgid "现充值BluePay享受500%%特惠"
+msgstr "เติม BluePay ครั้งแรก ฟรี 500%%"
+
+#: lang.lua:1507
+msgid "优惠仅限一次哦!"
+msgstr "โอกาสมีเพียง 1 ครั้งเท่านั้นนะ!"
+
+#: lang.lua:1508
+msgid "Sorry筹码不足以入场！"
+msgstr "ขอโทษค่ะ ชิปมีไม่พอเข้าห้อง!"
+
+#: lang.lua:1509
+msgid "Sorry您破产啦！"
+msgstr "ขอโทษค่ะ คนล้มละลายแล้ว!"
+
+#: lang.lua:1510
+msgid "获取"
+msgstr "ซื้อทันที"
+
+#: lang.lua:1511
+msgid "首次充值任意订单"
+msgstr "ครั้งแรก ไม่ว่าเท่าใดก็ได้"
+
+#: lang.lua:1512
+#, lua-format
+msgid "均可获得500%%加送优惠"
+msgstr "รับชิปฟรีเพิ่ม 500%%"
+
+#: lang.lua:1513
+msgid "快捷储值,面值越高越优惠"
+msgstr "เติมชิปแบบเร็ว เติมยิ่งเยอะยิ่งคุ้ม"
+
+#: lang.lua:1515
+#, lua-format
+msgid "首次储值任意订单,均可获得100%%的充值加送,额度越高越划算!"
+msgstr "ไม่ว่าซื้อจำนวนเท่าใดก็ได้ครั้งแรก รับฟรีเพิ่มอีก 100%% ยิ่งเติมเยอะ ยิ่งคุ้ม！"
+
+#: lang.lua:1516
+#, lua-format
+msgid "首充优惠100%% 仅限一次哦！"
+msgstr "เติมเงินครั้งแรกแถม 100%% จำกัดครั้งเดียวเท่านั้น!"
+
+#: lang.lua:1517
+#, lua-format
+msgid "筹码不足入场,现在储值劲享100%%加送优惠！"
+msgstr "ชิปไม่พอเข้าห้อง เติมชิปแถมฟรีอีก 100%%!"
+
+#: lang.lua:1518
+#, lua-format
+msgid "您破产啦,现在储值劲享100%%加送优惠！"
+msgstr "คุณล้มละลายแล้ว เติมชิปแถมฟรีอีก 100%%!"
+
+#: lang.lua:1520
+msgid "其它订单 >>"
+msgstr "สินค้าอื่นๆ >>"
+
+#: lang.lua:1523
+msgid "1THB = {1}筹码"
+msgstr "1THB = {1}ชิป"
+
+#: lang.lua:1524
+msgid "更多支付方式"
+msgstr "ช่องทางเติมเงินอื่นๆ"
+
+#: lang.lua:1527
+msgid "报名参赛>夺取实物券>兑换实物奖励"
+msgstr "ลงชื่อร่วมแข่ง>แย่งคูปอง>แลกรางวัลจริง"
+
+#: lang.lua:1528
+msgid "现金币是游戏里的重要通用货币"
+msgstr "ชิปเงินสดเป็นเงินสกุลสำคัญที่สุดในเกมส์"
+
+#: lang.lua:1530
+msgid "轻松获得 {1}筹码"
+msgstr "{1} ชิป รับได้ง่ายๆ"
+
+#: lang.lua:1531
+msgid "{1} 现金币，玩转现金币场"
+msgstr "ชิปเงินสด {1} บาท มันส์ระทึกใจที่ห้องชิปเงินสด"
+
+#: lang.lua:1534
+msgid "{1}฿立即抢"
+msgstr "แย่งซื้อ {1} บาททันที"
+
+#: lang.lua:1535
+msgid "本礼包还没到购买时间,请在指定时间内购买！"
+msgstr "แพ็คเกจนี้ยังไม่ถึงเวลาซื้อ กรุณาซื้อตามเวลาที่กำหมดค่ะ"
+
+#: lang.lua:1538
+msgid "您是Vip用户,可享受[Vip*2]双倍奖励"
+msgstr "Vip มีสิทธิ์รับรางวัล X2"
+
+#: lang.lua:1539
+msgid "储值任意订单即可成为Vip用户"
+msgstr "เติมเงินไม่จำกัดจำนวน รับสิทธิ์ Vip"
+
+#: lang.lua:1540
+msgid "累计签到礼包"
+msgstr "รางวัลลงชื่อสะสม"
+
+#: lang.lua:1541
+msgid "还差{1}天领取"
+msgstr "อีก {1} วันถึงรับได้"
+
+#: lang.lua:1542
+msgid "累计天数不足,不能领奖"
+msgstr "จำนวนวันไม่พอ ไม่สามารถรับรางวัลได้ค่ะ"
+
+#: lang.lua:1543
+msgid "成功领取{1}日累计签到礼包"
+msgstr "รับรางวัลลงชื่อสะสมครบ {1} วันสำเร็จ"
+
+#: lang.lua:1544
+msgid "签到失败,请重试"
+msgstr "ลงชื่อล้มเหลว กรุณาลองใหม่อีกครั้ง"
+
+#: lang.lua:1545
+msgid "签到成功,获得"
+msgstr "ลงชื่อสำเร็จ ได้รับ"
+
+#: lang.lua:1547
+msgid "1.储值任意订单即为Vip用户"
+msgstr "1.เติมเงินไม่จำกัดจำนวน รับสิทธิ์ VIP"
+
+#: lang.lua:1548
+msgid "2.成为Vip用户,可享[Vip*2]双倍奖励"
+msgstr "2. VIP มีสิทธิ์รับรางวัล X2"
+
+#: lang.lua:1549
+msgid "3.累计签到天数可领取累计签到礼包"
+msgstr "3. วันลงชื่อครบตามจำนวนที่กำหนด ก็รับรางวัลไปเลย"
+
+#: lang.lua:1555
+msgid "累计天数"
+msgstr "วันลงชื่อสะสม"
+
+#: lang.lua:1557
+msgid "{1} 筹码 + 银元宝种子 * {2} + 金元宝种子 * {3}"
+msgstr "{1} ชิป + เมล็ดตำลึงเงิน * {2} + เมล็ดตำลึงทอง * {3}"
+
+#: lang.lua:1558
+msgid "已领完所有奖励"
+msgstr "รับรางวัลทั้งหมดแล้ว"
+
+#: lang.lua:1560
+msgid "每日签到领奖，越签奖励越高"
+msgstr "ลงชื่อรับรางวัลทุกวัน ยิ่งทำต่อเนื่อง รางวัลยิ่งเยอะ!"
+
+#: lang.lua:1561
+msgid "每月签到第7天，送绝版专属礼物"
+msgstr "ทุกเดือนลงชื่อถึงครั้งที่ 7 หรือลงชื่อครบทั้งหมด จะได้รับของขวัญพิเศษ"
+
+#: lang.lua:1563
+msgid "1.签到依次顺序领奖，每月1号0点重置签到次数;"
+msgstr "1.ลงชื่อรับรางวัลตามลำดับ   ระบบจะเซ็ตจำนวนวันลงชื่อเป็น 0 ทุกเดือนในวันที่ 1 เวลา 00:00 น."
+
+#: lang.lua:1564
+msgid "2.越往后签，奖励越高;"
+msgstr "2.ยิ่งลงชื่อต่อเนื่อง รางวัลยิ่งใหญ่."
+
+#: lang.lua:1565
+msgid "3.每月第7次签到或满签即可获得绝版签到礼物;"
+msgstr "3.ทุกเดือนลงชื่อถึงครั้งที่ 7 หรือลงชื่อครบทั้งหมด จะได้รับของขวัญพิเศษ."
+
+#: lang.lua:1568
+msgid "绝版"
+msgstr "พิเศษ"
+
+#: lang.lua:1570
+msgid "专属礼物"
+msgstr "เทพธิดาลัคกี้"
+
+#: lang.lua:1571
+msgid "皇冠"
+msgstr "มงกุฎ"
+
+#: lang.lua:1572
+msgid "财神爷"
+msgstr "ไฉ่ซิ่งเอี๊ย"
+
+#: lang.lua:1580
+msgid "再次点击退出活动中心！"
+msgstr "กดอีกครั้งเพื่อออกศูนย์กิจกรรม！"
+
+#: lang.lua:1583
+msgid "领取失败,请重试！"
+msgstr "รับรางวัลล้มเหลว กรุณาลองใหม่อีกครั้ง!"
+
+#: lang.lua:1584
+msgid "进行中"
+msgstr "กำลังทำ"
+
+#: lang.lua:1585
+msgid "下载并安装三公[{1}]"
+msgstr "โหลดและติดตั้ง เกมส์เก้าเกไทย [{1}]"
+
+#: lang.lua:1586
+msgid "在三公中玩30局牌[{1}]"
+msgstr "เล่นเกมส์ เก้าเกไทย 30 รอบ [{1}]"
+
+#: lang.lua:1587
+msgid "在三公中成功邀请两位好友[{1}]"
+msgstr "เชิญเพื่อนใน เกมส์เก้าเกไทย สำเร็จ 2 ท่าน [{1}]"
+
+#: lang.lua:1588
+msgid "下载三公"
+msgstr "โหลดเกมส์เก้าเกไทย"
+
+#: lang.lua:1589
+msgid "进入三公"
+msgstr "เข้าเกมส์"
+
+#: lang.lua:1590
+msgid "立即领取"
+msgstr "รับทันที"
+
+#: lang.lua:1591
+msgid "已下载"
+msgstr "โหลดแล้ว"
+
+#: lang.lua:1592
+msgid "立即下载"
+msgstr "โหลดทันที"
+
+#: lang.lua:1593
+msgid "三公 搏定 联合送礼活动说明"
+msgstr "คำอธิบาย"
+
+#: lang.lua:1595
+msgid "1.在搏定中,完成[下载+玩牌+邀请]三公游戏即可完成活动目标、获得奖励"
+msgstr "1.[โหลดเกมส์+เล่นไพ่+เชิญเพื่อนเกมส์เก้าเกไทย] ในเกมส์ไพ่ป๊อกเด้ง สำเร็จภารกิจ รับฟรีรางวัล！"
+
+#: lang.lua:1596
+msgid "2.活动目标1,2,3需逐次完成"
+msgstr "2.ภารกิจ 1,2 และ 3 จะต้องทำทีละขั้นตอนจนครบ"
+
+#: lang.lua:1597
+msgid "3.每完成一个目标即可领取奖励，全部完成即可领取稀有专属礼物，具体奖励设定如下:"
+msgstr ""
+"3. สำเร็จภารกิจทุกครั้ง สามารถรับรางวัลฟรี หากสำเร็จทุกภารกิจ รับไปเลยของขวัญหายาก “ไพ่เก้าเกทองคำ” รายละเอียดรางวัลมีดังนี้ :"
+
+#: lang.lua:1599
+msgid "目标"
+msgstr "ภารกิจ"
+
+#: lang.lua:1602
+msgid "下载"
+msgstr " โหลดเกมส์และติดตั้งเก้าเกไทย"
+
+#: lang.lua:1603
+msgid "玩牌30局"
+msgstr "เล่นไพ่ 30 รอบ"
+
+#: lang.lua:1604
+msgid "邀请2好友"
+msgstr "เชิญเพื่อน 2 คน"
+
+#: lang.lua:1605
+msgid "全部完成"
+msgstr "สำเร็จทั้งหมด"
+
+#: lang.lua:1608
+msgid "60K筹码+30次互动道具"
+msgstr "60K ชิป+ไอเทม 30 ครั้ง"
+
+#: lang.lua:1609
+msgid "80K筹码+20颗银元宝"
+msgstr "80K ชิป+เมล็ดตำลึงเงิน 20 เมล็ด"
+
+#: lang.lua:1610
+msgid "120K筹码+10颗金元宝"
+msgstr "120K ชิป+เมล็ดตำลึงทอง 10 เมล็ด"
+
+#: lang.lua:1611
+msgid "200K筹码+专属礼物"
+msgstr "200K ชิป+ไพ่เก้าเกทองคำ"
+
+#: lang.lua:1614
+msgid "领奖成功,您获得60K筹码+30次道具"
+msgstr "รับรางวัลสำเร็จ คุณได้รับ 60K ชิป+ไอเทม 30 ครั้ง"
+
+#: lang.lua:1615
+msgid "领奖成功,您获得80K筹码+银元宝20个"
+msgstr "รับรางวัลสำเร็จ คุณได้รับ 80K ชิป+เมล็ดตำลึงเงิน 20 เมล็ด"
+
+#: lang.lua:1616
+msgid "领奖成功,您获得120K筹码+金元宝10个"
+msgstr "รับรางวัลสำเร็จ คุณได้รับ 120K ชิป+เมล็ดตำลึงทอง 10 เมล็ด"
+
+#: lang.lua:1619
+msgid "恭喜您成功获得了终极礼包 200K筹码+稀有三公专属礼物！"
+msgstr "ยินดีด้วยค่ะ คุณสำเร็จภารกิจได้รับ รางวัลใหญ่ 200K ชิป+ไพ่ทองคำเก้าเกไทย!"
+
+#: lang.lua:1621
+msgid "等待其他玩家进入私人房"
+msgstr "กำลังรอผู้เล่นท่านอื่นเข้าห้องส่วนตัว"
+
+#: lang.lua:1624
+msgid "兑换奖品"
+msgstr "แลกรางวัล"
+
+#: lang.lua:1625
+msgid "兑换记录"
+msgstr "บันทึกการแลก"
+
+#: lang.lua:1626
+msgid "游戏礼包"
+msgstr "รางวัลใหญ่"
+
+#: lang.lua:1627
+msgid "现金卡"
+msgstr "บัตรเงินสด"
+
+#: lang.lua:1628
+msgid "Line Coins"
+msgstr "Line Coins"
+
+#: lang.lua:1629
+msgid "实物"
+msgstr "รางวัลจริง"
+
+#: lang.lua:1630
+msgid "幸运大转盘"
+msgstr "วงล้อหมุนๆ"
+
+#: lang.lua:1631
+msgid "礼品"
+msgstr "รางวัลจริง"
+
+#: lang.lua:1632
+msgid "情人节专柜"
+msgstr "รางวัลสื่อรัก"
+
+#: lang.lua:1633
+msgid "复制"
+msgstr "คัดลอก"
+
+#: lang.lua:1634
+msgid "复制成功！"
+msgstr "คัดลอกสำเร็จ!"
+
+#: lang.lua:1636
+msgid "我的现金币:"
+msgstr "ชิปเงินสด:"
+
+#: lang.lua:1638
+msgid "尊敬的用户，测试期间Line Coins与现金卡的兑换暂未开放，您可积累积分，待比赛场正式上线时参与兑换"
+msgstr ""
+"สวัสดีค่ะ ในช่วงทดลองห้องแข่ง  Line Coins และบัตรเงินสดยังไม่เปิดให้บริการในการแลก คุณสามารถสะสมชิปเงินสดไว้ก่อน "
+"รอห้องแข่งเปิดตัวอย่างเป็นทางการเมื่อไหร่ แล้วค่อยมาแลกค่ะ ขอบคุณค่ะ "
+
+#: lang.lua:1639
+msgid "暂无兑奖记录..."
+msgstr "ยังไม่มีบันทึกการแลก…"
+
+#: lang.lua:1640
+msgid "剩余数量：{1}"
+msgstr "เหลือ：{1}"
+
+#: lang.lua:1641
+msgid "已经抢光"
+msgstr "หมดคลังแล้ว"
+
+#: lang.lua:1642
+msgid "奖品充足"
+msgstr "มีรางวัล"
+
+#: lang.lua:1643
+msgid "{1} 现金币"
+msgstr "{1} ชิปเงินสด"
+
+#: lang.lua:1644
+msgid "{1} 筹码"
+msgstr "{1} ชิป"
+
+#: lang.lua:1645
+msgid "{1} 兑换券"
+msgstr "{1} คูปอง"
+
+#: lang.lua:1646
+msgid "对不起，您的现金币不足"
+msgstr "ขอโทษค่ะ ชิปเงินสดของคุณมีไม่พอค่ะ"
+
+#: lang.lua:1647
+msgid "您确认要使用{1}现金币兑换{2}"
+msgstr "คุณยืนยันใช้{1}ชิปเงินสดแลก{2}"
+
+#: lang.lua:1648
+msgid "我要參加"
+msgstr "ฉันจะเข้าร่วม"
+
+#: lang.lua:1649
+msgid "收货地址"
+msgstr "ที่อยู่"
+
+#: lang.lua:1650 lang.lua:1897
+msgid "收货信息"
+msgstr "ข้อมูลรับรางวัล"
+
+#: lang.lua:1651
+msgid "保存"
+msgstr "บันทึก"
+
+#: lang.lua:1652
+msgid "你的姓名"
+msgstr "ชื่อ-สกุล"
+
+#: lang.lua:1653
+msgid "您的性别"
+msgstr "เพศ"
+
+#: lang.lua:1654
+msgid "手机号码"
+msgstr "เบอร์โทร"
+
+#: lang.lua:1655
+msgid "详细地址"
+msgstr "ที่อยู่"
+
+#: lang.lua:1656
+msgid "电子邮箱"
+msgstr "อีเมล์"
+
+#: lang.lua:1657
+msgid "女士"
+msgstr "หญิง"
+
+#: lang.lua:1658
+msgid "男士"
+msgstr "ชาย"
+
+#: lang.lua:1659
+msgid "保存收货地址失败"
+msgstr "บันทึกที่อยู่ล้มเหลวค่ะ"
+
+#: lang.lua:1660
+msgid "保存收货地址成功"
+msgstr "บันทึกที่อยู่สำเร็จค่ะ"
+
+#: lang.lua:1662
+msgid "您将花费 {1} 积分兑换"
+msgstr "คุณจะใช้{1}คะแนนในการแลก"
+
+#: lang.lua:1663
+msgid "请确认收货信息，确保无误！"
+msgstr "กรุณายืนยันข้อมูลรับสินค้าค่ะ"
+
+#: lang.lua:1664
+msgid "确认兑换"
+msgstr "ยืนยันการแลก"
+
+#: lang.lua:1666
+msgid "修改信息>>"
+msgstr "แก้ไขข้อมูล>>"
+
+#: lang.lua:1667
+msgid "兑换条件"
+msgstr "เงื่อนไขการแลก"
+
+#: lang.lua:1668
+msgid "消耗 {1} 现金币可获得"
+msgstr "ใช้ {1} ชิปเงินสดถึงจะได้รับ"
+
+#: lang.lua:1669
+msgid "消耗 {1} 兑换券可获得"
+msgstr "ใช้ {1} ในการแลก จะได้รับ"
+
+#: lang.lua:1670
+msgid "消耗 {1} 金币可获得"
+msgstr "ใช้{1} ชิปสามารถรับได้"
+
+#: lang.lua:1671
+msgid "剩余数量:{1}"
+msgstr "เหลือ:{1}"
+
+#: lang.lua:1672
+msgid "您的现金币不足，快去参加比赛赢取现金币吧"
+msgstr "ชิปเงินสดของคุณมีไม่พอ รีบไปร่วมแข่งแล้วรับชิปเงินสดกันเถอะ"
+
+#: lang.lua:1673
+msgid "您的兑换券不足，快去参加比赛赢取兑换券吧"
+msgstr "คูปองแลกรางวัลของคุณมีไม่พอ กรุณาไปร่วมแข่งสะสมคูปองก่อนค่ะ"
+
+#: lang.lua:1674
+msgid "您的筹码不足，快去赢取筹码吧"
+msgstr "ชิปของคุณมีไม่พอค่ะ รีบไปสะสมชิปจ้า!"
+
+#: lang.lua:1675
+msgid "已被抢完，我们会尽快添加库存！"
+msgstr "ถูกแย่งหมดแล้ว ระบบจะเพิ่มสินค้าเร็วๆนี้ค่ะ"
+
+#: lang.lua:1676
+msgid "实物兑换券 x {1}"
+msgstr "คูปองแลกของจริง x {1}"
+
+#: lang.lua:1677
+msgid "已被抢光"
+msgstr "ถูกแย่งหมดแล้วค่ะ"
+
+#: lang.lua:1678
+msgid "恭喜您 {1} 兑换成功，我们的客服将于3个工作日内与您联系，请你保持手机畅通"
+msgstr "ยินดีด้วยค่ะ {1} แลกสำเร็จ ทีมงานจะติดต่อกลับไปภายใน 3 วันทำการ กรุณารอรับโทรศัพท์ด้วยนะคะ"
+
+#: lang.lua:1679
+msgid "兑换成功！"
+msgstr "แลกสำเร็จค่ะ!"
+
+#: lang.lua:1680
+msgid "确认"
+msgstr "ยืนยัน"
+
+#: lang.lua:1681
+msgid "请填写 {1}"
+msgstr "กรุณากรอก{1}"
+
+#: lang.lua:1682
+msgid "当前兑换物品每天仅可兑换{1}次，每天总兑换次数不得超过{2}次!"
+msgstr "สินค้านี้สามารถแลกได้ {1} ครั้ง/วัน ทุกวันแลกได้ไม่เกิน {2} ครั้ง"
+
+#: lang.lua:1723
+msgid "兑换须知"
+msgstr "คำอธิบายการแลก"
+
+#: lang.lua:1725
+msgid "1.收货地址"
+msgstr "1.ที่อยู่รับรางวัล"
+
+#: lang.lua:1726
+msgid "2.兑换流程"
+msgstr "2.ขั้นตอนการแลก"
+
+#: lang.lua:1727
+msgid "3.点卡及实物奖励兑换说明"
+msgstr "3.คำอธิบายของการแลกบัตรเงินสดและรางวัลจริง"
+
+#: lang.lua:1728
+msgid "4.兑换问题反馈"
+msgstr "4.ช่องทางฟีดแบค"
+
+#: lang.lua:1732
+msgid ""
+"兑换点卡或实物奖励前，请先确定自己的收货信息，因信息错误导致的奖励发放失败官方概不负责。实物奖励兑换后，"
+"将在10天内有工作人员与您联系确认兑换信息领取奖励。"
+msgstr ""
+"ก่อนแลกบัตรเงินสดหรือรางวัลจริง กรุณายืนยันที่อยู่รับรางวัลก่อนค่ะ หากข้อมูลมีความผิดพลาด ทำให้ไม่สามารถรับรางวัลได้ "
+"ระบบจะไม่รับผิดชอบใดๆทั้งสิ้น.หลังแลกสินค้า ทีมงานจะติดต่อคุณเพื่อยืนยันข้อมูลจัดส่งรางวัลภายใน 10 วัน"
+
+#: lang.lua:1733
+msgid ""
+"确定收货信息 > 选择想要兑换的商品 > 确定兑换 > 进入兑换记录 > 领取奖励。虚拟奖励兑换后无需领取，兑换成功"
+"后自动获得"
+msgstr ""
+"ยืนยันข้อมูลรับรางวัล> เลือกรางวัลที่อยากแลก > ยืนยันแลก > เข้าไปบันทึกแลก > รับรางวัล.หลังแลกชิป/ชิปเงินสด/"
+"คูปองแล้วไม่ต้องกดรับเอง ระบบจะส่งเข้าบัญชีคุณอัตโนมัติ"
+
+#: lang.lua:1735
+msgid ""
+"兑换点卡或实物奖励时，除需要等价的现金币外，还需要少量的实物券,实物券：可通过比赛、虚拟道具兑换及其它活动"
+"获得，配合现金币可兑换点卡及实物奖励"
+msgstr ""
+"การแลกบัตรเงินสดหรือรางวัลจริง นอกจากจะต้องใช้จำนวนชิปเงินสดตามราคาของรางวัลที่ต้องการแลก "
+"ยังจะต้องใช้คูปองจำนวนหนึ่งในการแลกด้วย.คูปอง：สามารถรับคูปองโดยการร่วมแข่ง แลกด้วยชิป/ชิปเงินสด และการเข้าร่วมกิจกรรมต่างๆ  "
+"สามารถใช้คูปอง+ชิปเงินสดแลกบัตรเงินสดหรือรางวัลจริงได้"
+
+#: lang.lua:1737
+msgid ""
+"客服联系方式:打开FB,搜索搏定,找到搏定粉丝页,直接在上面发问;或者打开右下角“系统”,点击“问号”,进行发问。"
+msgstr ""
+"หากมีปัญหาหรือคำถามใดๆ กรุณาติดต่อแอดมินโดยเข้า Facebook คนหาเพจแอพ【ไพ่ป๊อกเด้ง】 แล้วส่งฟีดเบคผ่าน【ข้อความ】นะคะ "
+"หรือฟีดแบคผ่านเกมส์ก็ได้ค่ะ."
+
+#: lang.lua:1742
+msgid "{1}个现金币"
+msgstr "{1}ชิปเงินสด"
+
+#: lang.lua:1743
+msgid "{1}个兑换券"
+msgstr "คูปองแลก{1}ใบ"
+
+#: lang.lua:1744
+msgid "{1}个实物券"
+msgstr "คูปอง{1}ใบ"
+
+#: lang.lua:1745
+msgid "你还差{1}就可以兑换此商品"
+msgstr "สะสมอีก{1}ก็แลกสินค้านี้ได้แล้ว"
+
+#: lang.lua:1746
+msgid "去获得"
+msgstr "ไปสะสม"
+
+#: lang.lua:1747
+msgid "继续玩牌"
+msgstr "เล่นไพ่ต่อ"
+
+#: lang.lua:1748
+msgid "尊敬的牌友你好，今天您的兑换次数已用完"
+msgstr "ผู้เล่นที่รัก วันนี้หมดจำนวนครั้งแลกแล้วค่ะ"
+
+#: lang.lua:1750
+msgid "欢迎上庄,{1}局之后更新庄家位"
+msgstr "ยินดีต้อนรับเป็นเจ้า หลัง{1}รอบจะอัพเดทตำแหน่งเจ้า"
+
+#: lang.lua:1751
+msgid "{1} 抢庄啦!"
+msgstr "{1} กำลังแย่งเป็นเจ้า"
+
+#: lang.lua:1752
+msgid "玩筹码场玩久了，来现金币场赢取更丰厚的奖励吧。"
+msgstr "เล่นฟาร์มชิปเหนื่อยแล้ว มาเล่นห้องชิปเงินสดชิงรางวัลมหาศาลกัน!"
+
+#: lang.lua:1753
+msgid "您的现金币不足该房间的最小买入，请补充现金币后游戏"
+msgstr "ชิปของคุณมีไม่พอเข้าห้องนำเข้าต่ำสุดห้องนี้ กรุณาไปสะสมชิปก่อนค่อยมาใหม่นะคะ"
+
+#: lang.lua:1755
+msgid "需要{1}筹码才可以上庄哦"
+msgstr "ต้องการอีก {1} ชิปจึงเป็นเจ้าได้"
+
+#: lang.lua:1756
+msgid "需要{1}现金币才可以上庄哦，请补充现金币后游戏"
+msgstr "ต้องการอีก {1} ชิปเงินสดจึงเป็นเจ้าได้"
+
+#: lang.lua:1758
+msgid "邀请已发布"
+msgstr "คำเชิญส่งออกแล้วค่ะ"
+
+#: lang.lua:1761 lang.lua:1950
+msgid "已过期"
+msgstr "หมดเวลาแล้ว"
+
+#: lang.lua:1762
+msgid "已结束"
+msgstr "สิ้นสุดแล้ว"
+
+#: lang.lua:1763 lang.lua:1798 lang.lua:1855
+msgid "一口价"
+msgstr "ราคาเดียว"
+
+#: lang.lua:1764
+msgid "拍卖人"
+msgstr "ผู้ขาย"
+
+#: lang.lua:1765
+msgid "一口价竞拍"
+msgstr "ประมูลแบบราคาเดียว"
+
+#: lang.lua:1766
+msgid "普通竞拍"
+msgstr "ประมูลธรรมดา"
+
+#: lang.lua:1767
+msgid "确定竞拍"
+msgstr "ยืนยันประมูล"
+
+#: lang.lua:1768
+msgid "确定拍卖"
+msgstr "ยืนยันที่จะขาย"
+
+#: lang.lua:1769
+msgid "确定竞拍即可立即获得物品完成交易"
+msgstr "หากยืนยันที่จะประมูล สามารถรับสินค้าได้ทันที ถือว่าการซื้อขายสำเร็จค่ะ"
+
+#: lang.lua:1770
+msgid "时间结束时无人超过你的出价,则由您获得该物品"
+msgstr "หากเลยเวลาที่กำหนด แต่ยังไม่มีใครประมูลราคาเกินกว่าที่คุณประมูล ถือว่าคุณประมูลสำเร็จค่ะ"
+
+#: lang.lua:1771
+msgid "您的筹码低于该物品一口价竞拍价格,请重新选择竞拍！"
+msgstr "จำนวนชิปของคุณต่ำกว่าการประมูลแบบราคาเดียว กรุณาเลือกประมูลใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1772
+msgid "竞拍成功,请耐心等待！"
+msgstr "ประมูลสำเร็จ กรุณารอสักครู่ค่ะ"
+
+#: lang.lua:1773
+msgid "竞拍物品已过期"
+msgstr "สินค้าที่ประมูลหมดเวลาแล้วค่ะ"
+
+#: lang.lua:1774
+msgid "竞拍物品已被拍走！"
+msgstr "สินค้าถูกประมูลไปแล้วค่ะ"
+
+#: lang.lua:1775
+msgid "竞拍失败,请重试！"
+msgstr "ประมูลล้มเหลว กรุณาลองใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1776
+msgid "您正在竞拍(买)此物品，换一个试试吧！"
+msgstr "คุณกำลังประมูลสินค้านี้อยู่ ลองเลือกสินค้าใหม่ดูนะคะ"
+
+#: lang.lua:1777
+msgid "已有新的竞价,请重新参与竞拍！"
+msgstr "มีราคาประมูลใหม่ กรุณาร่วมประมูลใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1778
+msgid "筹码不足竞拍，请重新选择"
+msgstr "จำนวนชิปมีไม่พอจะประมูลค่ะ กรุณาเลือกใหม่"
+
+#: lang.lua:1779
+msgid "立即竞拍"
+msgstr "ประมูล"
+
+#: lang.lua:1780
+msgid "暂无任何拍卖品"
+msgstr "ตอนนี้ยังไม่มีสินค้าขายเลหลังค่ะ"
+
+#: lang.lua:1781
+msgid "暂无任何拍卖记录"
+msgstr "ตอนนี้ยังไม่มีบันทึกการขายค่ะ"
+
+#: lang.lua:1782
+msgid "满10级才可参与一口价竞拍,请再接再厉！"
+msgstr "ถึง Lv.10 ถึงจะสามารถร่วมประมูลแบบราคาเดียวได้ สู้ๆนะคะ"
+
+#: lang.lua:1783
+msgid "您的筹码不足10M,不能参与一口价竞拍！"
+msgstr "จำนวนชิปของคุณมีน้อยกว่า 10M ไม่สามารถร่วมประมูลแบบราคาเดียวได้ค่ะ"
+
+#: lang.lua:1784
+msgid "拍卖行规则说明"
+msgstr "กติกา"
+
+#: lang.lua:1788
+msgid "1.仅有现金币、和实物兑换卡才可被拍卖"
+msgstr "1.เฉพาะชิบเงินสดและคูปองแลกเท่านั้นที่สามารถขายเลหลังได"
+
+#: lang.lua:1789
+msgid "2.拍卖或竞拍失败会反还拍卖物品或竞拍筹码，请放心参与"
+msgstr "2.หากประมูลหรือขายเลหลังล้มเหลว ระบบจะคืนชิปหรือสินค้ากลับเข้าบัญชีให้ กรุณาวางใจใช้บริการค่ะ"
+
+#: lang.lua:1790
+msgid "3.拍卖行以筹码做为唯一货币，只可使用筹码参与竞拍"
+msgstr "3.ชิปเป็นสกุลเงินเดียวในศูนย์ขายเลหลังค่ะ ใช้ชิปในการประมูลได้เท่านั้น"
+
+#: lang.lua:1791
+msgid "4.满10级才可参与一口价拍卖和竞拍，一天可设置3单一口价"
+msgstr "4.ครบ Lv.10 ถึงจะสามารถร่วมประมูลแบบราคาเดียวหรือขายเลหลังได้ สามารถตั้งค่าการขายแบบราคาเดียวได้ 3 ครั้ง/วัน "
+
+#: lang.lua:1792
+#, lua-format
+msgid "5.成功拍卖的物品，需收取拍卖方成交价的10%%做为手续费"
+msgstr "5.สินค้าที่ขายเลหลังสำเร็จ ผู้ขายจะต้องเสียค่าบริการ 10%% ของราคาประมูลค่ะ"
+
+#: lang.lua:1797
+msgid "拍卖中心"
+msgstr "ศูนย์ขาย"
+
+#: lang.lua:1799
+msgid "我的拍卖"
+msgstr "การขายของฉัน"
+
+#: lang.lua:1800
+msgid "拍卖记录"
+msgstr "บันทึกการขาย"
+
+#: lang.lua:1805
+msgid "展示所有常规拍卖，供您参与竞拍"
+msgstr "แสดงสินค้าทั้งหมดที่ขายเลหลัง ยินดีต้อนรับคุณมาร่วมประมูลค่ะ"
+
+#: lang.lua:1806
+msgid "展示所有一口价拍卖，竞拍立即交易成功"
+msgstr "แสดงสินค้าที่ขายแบบราคาเดียวทั้งหมด ประมูลและรับสินค้าได้ในทันที"
+
+#: lang.lua:1807
+msgid "展示或添加自己要拍卖的物品，包含一口价"
+msgstr "แสดงหรือเพิ่มสินค้าที่ตนเองต้องการที่จะขาย รวมถึงสินค้าแบบราคาเดียว"
+
+#: lang.lua:1808
+msgid "记录自己最近参与的拍卖或竞拍"
+msgstr "บันทึกการเข้าร่วมการประมูลหรือสินค้าที่ขายเลหลังของตนในช่วงเวลาไม่นานมานี"
+
+#: lang.lua:1814 lang.lua:1826
+msgid "拍卖物品"
+msgstr "สินค้า"
+
+#: lang.lua:1815 lang.lua:1827
+msgid "拍卖数量"
+msgstr "จำนวน"
+
+#: lang.lua:1817 lang.lua:1829
+msgid "初始价"
+msgstr "เริ่มต้น"
+
+#: lang.lua:1818
+msgid "当前竞价"
+msgstr "ปัจจุบัน"
+
+#: lang.lua:1819 lang.lua:1831
+msgid "剩余时间"
+msgstr "เวลาเหลือ"
+
+#: lang.lua:1820 lang.lua:1832
+msgid "竞拍人"
+msgstr "ผู้ประมูล"
+
+#: lang.lua:1830
+msgid "拍卖模式"
+msgstr "ประเภท"
+
+#: lang.lua:1836
+msgid "空"
+msgstr "ไม่มี"
+
+#: lang.lua:1837
+msgid "添加竞拍"
+msgstr "เพิ่มสินค้า"
+
+#: lang.lua:1838
+msgid "拍卖中"
+msgstr "ขายอยู่"
+
+#: lang.lua:1840
+msgid "拍卖须知"
+msgstr "คำอธิบาย"
+
+#: lang.lua:1843
+msgid "1、确定拍卖后不可取消，请谨慎操作"
+msgstr "1、ยืนยันขายเลหลังแล้ว ทำการยกเลิกไม่ได้"
+
+#: lang.lua:1844
+msgid "2、计时结束流拍的物品会自动返还至账户"
+msgstr "2、สินค้าที่ไม่ถูกประมูล เมื่อเลยเวลา จะคืนให้อัตโนมัติ"
+
+#: lang.lua:1845
+#, lua-format
+msgid "3、成功拍卖后，系统将取消10%%的手续费"
+msgstr "3、หลังขายสำเร็จ ระบบเก็บค่าบริการ 10%%"
+
+#: lang.lua:1846
+msgid "4、仅可拍卖现金币、实物兑换卡2钟道具"
+msgstr "4、ขายเลหลังได้เฉพาะชิปเงินสดและคูปองแลกเท่านั้น"
+
+#: lang.lua:1847
+msgid "5、参与拍卖视为同意以上守则，祝大家游戏愉快"
+msgstr "5、หากร่วมการขายถือว่าคุณตกลงที่จะทำตามกติกาข้างต้น ขอให้มีความสุขในการประมูลนะคะ"
+
+#: lang.lua:1851
+msgid "我的实物兑换卡:"
+msgstr "คูปองแลกของฉัน:"
+
+#: lang.lua:1852
+msgid "暂无实物兑换卡"
+msgstr "ยังไม่มีคูปองแลก"
+
+#: lang.lua:1854
+msgid "普通"
+msgstr "ธรรมดา"
+
+#: lang.lua:1856
+msgid "竞拍成功"
+msgstr "ประมูลสำเร็จ"
+
+#: lang.lua:1857
+msgid "竞拍失败"
+msgstr "ประมูลล้มเหลว"
+
+#: lang.lua:1858
+msgid "拍卖成功"
+msgstr "การขายสำเร็จ"
+
+#: lang.lua:1859
+msgid "拍卖失败"
+msgstr "การขายล้มเหลว"
+
+#: lang.lua:1861
+msgid "小时"
+msgstr "ช.ม."
+
+#: lang.lua:1864
+msgid "普通拍卖"
+msgstr "การขายแบบธรรมดา"
+
+#: lang.lua:1865
+msgid "一口价拍卖"
+msgstr "ขายแบบราคาเดียว"
+
+#: lang.lua:1868
+msgid "暂未开放"
+msgstr "ยังไม่เปิดให้บริการ"
+
+#: lang.lua:1869
+msgid "选择拍卖时长:"
+msgstr "เลือกเวลาการขาย:"
+
+#: lang.lua:1870
+msgid "输入拍卖数量:"
+msgstr "กรอกจำนวนสินค้า:"
+
+#: lang.lua:1871
+msgid "你的物品数量不足,请重新输入"
+msgstr "จำนวนสินค้าของคุณมีไม่พอ กรุณากรอกใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1872
+msgid "暂无可拍卖的物品"
+msgstr "ยังไม่มีสินค้าที่สามารถขายได้ค่ะ"
+
+#: lang.lua:1873
+msgid "选择拍卖物品:"
+msgstr "เลือกสินค้า:"
+
+#: lang.lua:1875
+msgid "输入初始价"
+msgstr "กรอกราคาเริ่มต้น"
+
+#: lang.lua:1877
+msgid "参与一口价拍卖的物品定价不得低于10M"
+msgstr "สินค้าที่ร่วมการขายแบบราคาเดียว การตั้งค่าราคาห้ามต่ำกว่า 10M ชิป"
+
+#: lang.lua:1878
+msgid "不得低于10M"
+msgstr "ห้ามต่ำกว่า 10M ชิป"
+
+#: lang.lua:1879
+msgid "满10级才可参与一口价竞拍,请再接再厉"
+msgstr "ถึง Lv.10 ถึงจะสามารถร่วมประมูลแบบราคาเดียวได้ สู้ๆนะคะ"
+
+#: lang.lua:1880
+msgid "确定拍卖后不可取消,请谨慎操作"
+msgstr "หลังยืนยันที่จะขายเลหลัง จะไม่สามารถทำการยกเลิกได้ กรุณาพิจาณาให้รอบคอบค่ะ"
+
+#: lang.lua:1881
+msgid "已成功添加拍卖！"
+msgstr "เพิ่มสินค้าที่จะขายสำเร็จค่ะ"
+
+#: lang.lua:1882
+msgid "每天最多可设置三次一口价拍卖,请明日再来！"
+msgstr "ตั้งค่าการขายแบบราคาเดียวได้มากสุด 3 ครั้ง/วัน พรุ่งนี้ค่อยมาใหม่นะคะ"
+
+#: lang.lua:1883
+msgid "添加拍卖失败,请重试！"
+msgstr "การประมูลล้มเหลว กรุณาลองใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1885
+msgid "昵称:"
+msgstr "ชื่อ:"
+
+#: lang.lua:1886
+msgid "均价:{1}筹码"
+msgstr "ราคาเฉลีย:{1}ชิป"
+
+#: lang.lua:1888
+msgid "欢迎回家"
+msgstr "ยินดีต้อนรับกลับกลุ่มป๊อกเด้ง"
+
+#: lang.lua:1889
+msgid "亲爱的牌友您好，最近这段时间很忙碌吧。欢迎回家。我们为您准备了丰厚的回归礼包。"
+msgstr "สวัสดีผู้เล่นที่รักทุกท่าน ช่วงนี้ยุ่งใช่ไหมจ๊ะ ทีมงานป๊อกเด้งขอต้อนรับกลับสู่เกมส์ รางวัลต้อนรับของคุณเตรียมพร้อมแล้ว!"
+
+#: lang.lua:1891
+msgid "点击领取"
+msgstr "กดรับ"
+
+#: lang.lua:1899
+msgid "你的姓名："
+msgstr "ชื่อ："
+
+#: lang.lua:1900
+msgid "你的性别："
+msgstr "เพศ："
+
+#: lang.lua:1901
+msgid "详细地址："
+msgstr "ที่อยู่："
+
+#: lang.lua:1902
+msgid "手机号码："
+msgstr "เบอร์มือถือ:"
+
+#: lang.lua:1903
+msgid "电子邮箱："
+msgstr "อีเมล์:"
+
+#: lang.lua:1905
+msgid "确定信息可以联系到我"
+msgstr "ยืนยันข้อมูลแล้วสามารถติดต่อทีมงานได้ค่ะ"
+
+#: lang.lua:1906
+msgid "更新收货信息"
+msgstr "อัพเดทข้อมูล"
+
+#: lang.lua:1907
+msgid "温馨提示:请认真填写,因信息错误导致领奖失败,官方概不负责"
+msgstr "คำเตือน:ขอกรอกข้อมูลให้ถูกต้อง ไม่งั้นจะไม่สามารถรับของได้ ทีมงานไม่รับผิดชอบค่ะ"
+
+#: lang.lua:1910
+msgid "夺宝列表"
+msgstr "รายการ"
+
+#: lang.lua:1911
+msgid "开奖记录"
+msgstr "บันทึกรางวัล"
+
+#: lang.lua:1912
+msgid "我的奖励"
+msgstr "รางวัลของฉัน "
+
+#: lang.lua:1914
+msgid "查看夺宝说明"
+msgstr "ดูคำอธิบาย"
+
+#: lang.lua:1916
+msgid "第{1}期"
+msgstr "งวดที่ {1}"
+
+#: lang.lua:1918
+msgid "今日夺宝结束,欢迎明天再来"
+msgstr "ชิงสมบัติรอบนี้จบแล้วค่ะ"
+
+#: lang.lua:1919
+msgid "夺宝进行中....."
+msgstr "กำลังชิงสมบัติอยู่......"
+
+#: lang.lua:1920
+msgid "已颁奖, {1}后开始下一轮"
+msgstr "รอบหน้าจะเริ่มเวลา {1} น."
+
+#: lang.lua:1921
+msgid "满"
+msgstr "ครบ"
+
+#: lang.lua:1922
+msgid "人次"
+msgstr "คน"
+
+#: lang.lua:1923
+msgid "开奖[每日{1}/{2}次]"
+msgstr "เปิดรางวัล[ทุกวัน{1}/{2}ครั้ง]"
+
+#: lang.lua:1924
+msgid "已参与人次"
+msgstr "ผู้เข้าร่วม"
+
+#: lang.lua:1925
+msgid "剩余人次"
+msgstr "ขาด"
+
+#: lang.lua:1926
+msgid "立即夺宝"
+msgstr "ชิงทันที"
+
+#: lang.lua:1927
+msgid "夺宝单位: {1}现金币 + {2}筹码"
+msgstr "ราคา : {1} ชิปเงินสด + {2} ชิป"
+
+#: lang.lua:1930 lang.lua:1941
+msgid "夺宝物品"
+msgstr "สมบัติ"
+
+#: lang.lua:1931 lang.lua:1942
+msgid "中奖编号"
+msgstr "เลขที่ถูกรางวัล"
+
+#: lang.lua:1932
+msgid "获奖用户"
+msgstr "ผู้เล่นที่ถูกรางวัล"
+
+#: lang.lua:1933
+msgid "我的夺宝编号"
+msgstr "เลขชิงสมบัติของฉัน"
+
+#: lang.lua:1935
+msgid "暂未有记录"
+msgstr "ยังไม่มีบันทึก"
+
+#: lang.lua:1936
+msgid "未开奖"
+msgstr "ยังไม่ได้เปิดรางวัล"
+
+#: lang.lua:1937
+msgid "未参与"
+msgstr "ไม่ได้เข้าร่วม"
+
+#: lang.lua:1940
+msgid "夺宝期号"
+msgstr "งวดชิงสมบัติ"
+
+#: lang.lua:1943
+msgid "过期时间"
+msgstr "เวลาที่หมดอายุ"
+
+#: lang.lua:1944
+msgid "领奖查询"
+msgstr "บันทึกรับรางวัล"
+
+#: lang.lua:1947
+msgid "{1}期"
+msgstr "งวดที่ {1}"
+
+#: lang.lua:1949
+msgid "已领取"
+msgstr "รับแล้ว "
+
+#: lang.lua:1951 lang.lua:2015
+msgid "领奖成功"
+msgstr "รับรางวัลสำเร็จค่ะ"
+
+#: lang.lua:1953
+msgid "领奖失败,奖励已过期！"
+msgstr "รับรางวัลล้มเหลว รางวัลหมดอายุแล้วค่ะ"
+
+#: lang.lua:1954
+msgid "网络错误,领奖失败！"
+msgstr "เน็ตเกิดการผิดพลาด รับรางวัลล้มเหลวค่ะ"
+
+#: lang.lua:1956
+msgid "夺宝玩法说明"
+msgstr "รายการชิงสมบัติ"
+
+#: lang.lua:1958
+msgid "1.参与流程"
+msgstr "1.ขั้นตอน"
+
+#: lang.lua:1959
+msgid "2.具体说明"
+msgstr "2.รายละเอียด"
+
+#: lang.lua:1961
+msgid "参加夺宝>获得夺宝编号>满足参与人次后开奖>查询获奖编号>领取奖励"
+msgstr " ร่วมชิงสมบัติ>รับเลขชิงสมบัติ>เปิดรางวัลเมื่อจำนวนผู้เข้าร่วมครบ>ตรวจสอบเลขที่ถูกรางวัล>รับรางวัล"
+
+#: lang.lua:1963
+msgid "每日玩牌后才可参与夺宝;"
+msgstr "กรุณาไปเล่นไพ่ก่อนค่อยมาร่วมชิงสมบัตินะคะ"
+
+#: lang.lua:1964
+msgid "满足夺宝单价即可参与夺宝,不同物品的参与单价不同;"
+msgstr "หากถึงราคาที่ระบบกำหนด จะสามารถร่วมชิงสมบัติได้ทันที สมบัติแต่ละชิ้นราคาไม่เหมือนกัน;"
+
+#: lang.lua:1965
+msgid "夺宝后可获得夺宝编号，满足参与人次后根据夺宝编号确定最终奖励获得者;"
+msgstr "หลังชิงสมบัติจะได้รับเลขชิงสมบัติ เมื่อครบจำนวนผู้เข้าร่วมจะลุ้นผู้รับรางวัลตามเลขสมบัติ;"
+
+#: lang.lua:1966
+msgid "一场夺宝同一个用户可多次参与，但不参超过3次;"
+msgstr "ในงวดเดียวกัน ผู้เล่นทุกท่านสามารถร่วมชิงสมบัติได้หลายครั้ง แต่ห้ามเกิน 3 ครั้ง;"
+
+#: lang.lua:1967
+msgid "夺宝奖品根据运营需要会有不定期调整，属于正常现象;"
+msgstr "ระบบจะอัพเดทรางวัลการชิงสมบัติเรื่อยๆ ;"
+
+#: lang.lua:1968
+msgid "可在开奖记录中查询自己的夺宝编号，以及中奖获得者;"
+msgstr "คุณสามารถเช็คเลขชิงสมบัติและผู้ที่ถูกรางวัลได้ที่บันทึกเปิดรางวัล;"
+
+#: lang.lua:1969
+msgid "中奖后在我的奖励中领取奖励，实物奖励的需要填写相关信息;"
+msgstr "หลังถูกรางวัล คุณสามารถรับรางวัลได้ที่【รางวัลของฉัน】หากรางวัลที่ได้รับเป็นของจริง ;"
+
+#: lang.lua:1970
+msgid "请在中奖日起7天内完成领取，逾期视为自行放弃;"
+msgstr "กรุณารับรางวัลภายใน 7 วัน นับตั้งแต่วันที่ถูกรางวัล ไม่งั้นถือว่าสละสิทธิ์ค่ะ;"
+
+#: lang.lua:1971
+msgid "实物奖励将在7天内完成采购并联系中奖玩家核对领取方式."
+msgstr "ระบบจะจัดซื้อรางวัลภายใน 7 วัน และจะติดต่อผู้เล่นเพื่อยืนยันวิธีรับรางวัลค่ะ."
+
+#: lang.lua:1973
+msgid "博定确保会给大家一个公平公正的夺宝环境,欢迎监督,请放心参与"
+msgstr "ระบบขอรับรองความยุติธรรมและความเสมอภาคในการชิงสมบัติ "
+
+#: lang.lua:1975
+msgid "确定花费{1}现金币 + {2}筹码参与此次夺宝吗？"
+msgstr "คุณยืนยันจ่าย {1} ชิปเงินสด + {2} ชิปเพื่อเข้าร่วม ชิงสมบัติไหมคะ？"
+
+#: lang.lua:1976
+msgid "剩余参与人次: {1}"
+msgstr "จำนวนผู้ที่เหลือ: {1}"
+
+#: lang.lua:1977
+msgid "确定夺宝"
+msgstr "ยืนยัน"
+
+#: lang.lua:1978
+msgid "我已了解夺宝规划,自愿参加夺宝"
+msgstr "ฉันรับทราบกติกาการชิงสมบัติแล้ว ขอร่วมกิจกรรมโดยสมัครใจค่ะ"
+
+#: lang.lua:1979
+msgid "参与人次不足,请刷新！"
+msgstr "ยังไม่ครบจำนวนผู้เข้าร่วม กรุณารีเฟรชค่ะ"
+
+#: lang.lua:1980
+msgid "夺宝失败,本期夺宝活动已结束！"
+msgstr "ชิงสมบัติล้มเหลว ชิงสมบัติงวดนี้จบแล้วค่ะ"
+
+#: lang.lua:1981
+msgid "夺宝失败,宝物已过期！"
+msgstr "ชิงสมบัติล้มเหลว สมบัติหมดอายุแล้วค่ะ"
+
+#: lang.lua:1983
+msgid "恭喜您夺宝成功,您的夺宝编号为:"
+msgstr "ยินดีด้วยค่ะ คุณชิงสมบัติสำเร็จ เลขชิงสมบัติของคุณคือ："
+
+#: lang.lua:1984
+msgid "夺宝失败,您的现金币或筹码不足."
+msgstr "ชิงสมบัติล้มเหลว ชิปเงินสดหรือชิปของคุณมีไม่พอค่ะ"
+
+#: lang.lua:1985
+msgid "夺宝失败,您已经夺宝该物品三次啦"
+msgstr "ชิงสมบัติล้มเหลว คุณชิงสมบัติชิ้นนี้ครบ 3 ครั้งแล้ว"
+
+#: lang.lua:1986
+msgid "换一个试试吧！"
+msgstr " ลองเปลี่ยนชิงสมบัติอื่นๆสิคะ！"
+
+#: lang.lua:1987
+msgid "可在开奖记录中查询自己的夺宝编号,祝您中奖"
+msgstr "คุณสามารถเช็คเลขชิงสมบัติได้ที่บันทึกเปิดรางวัลค่ะ"
+
+#: lang.lua:1988
+msgid "我知道了"
+msgstr "รับทราบค่ะ"
+
+#: lang.lua:1991
+msgid "兑换成功，恭喜您获得了{1}现金币"
+msgstr "แลกสำเร็จค่ะ คุณได้รับ {1} ชิปเงินสด"
+
+#: lang.lua:1992
+msgid "兑换失败，请稍后重试"
+msgstr "แลกล้มเหลว กรุณาลองใหม่อีกครั้งค่ะ"
+
+#: lang.lua:1993
+msgid "即日起将取消通用门票的使用及购买"
+msgstr "นับแต่วันนี้เป็นต้นไป ระบบจะยกเลิกการใช้และการสั่งซื้อคูปองรวมค่ะ"
+
+#: lang.lua:1994
+msgid "通用门票可{1}兑换为现金币，报名参与比赛"
+msgstr "คูปองรวม 1 ใบแลกชิปเงินสดได้แบบ {1}  ชิปเงินสดนำไปลงชื่อเข้าแข่งได้ค่ะ"
+
+#: lang.lua:1995
+msgid "现金币是玩现金币场，兑换实物奖励不可或缺的货币"
+msgstr "ชิปเงินสดเป็นสกุลเงินที่ใช้เล่นห้องชิปเงินสดและแลกรางวัลจริงค่ะ"
+
+#: lang.lua:1996
+msgid "未完成转换的，将于{1}由系统自动完成转换，请悉知"
+msgstr "แจ้งให้ทราบ! หากคุณไม่ทำการแลกก่อน {1} ระบบจะนำคูปองรวมทั้งหมดแลกเป็นชิปเงินสดให้คุณโดยอัตโนมัติค่ะ"
+
+#: lang.lua:1997
+msgid "转换现金币不会导致您的资产有任何亏损"
+msgstr "การแลกชิปเงินสดจากคูปองจะไม่ทำให้สินทรัพย์ของคุณมีความเสียหายใดๆ"
+
+#: lang.lua:1998
+msgid "立即换"
+msgstr "แลกทันที"
+
+#: lang.lua:2000
+msgid "{1}现金币"
+msgstr "{1}ชิปเงินสด"
+
+#: lang.lua:2003
+msgid "明日登录立即领取200000"
+msgstr "พรุ่งนี้มารับ 200K ชิป"
+
+#: lang.lua:2004
+msgid "点击立即领取200000"
+msgstr "กดรับ 200K ชิปทันที"
+
+#: lang.lua:2006
+msgid ""
+"恭喜您免费获得{1}筹码\n"
+"次日登陆还可再获得{2}，记得回来领取哦！"
+msgstr ""
+"ยินดีด้วยค่ะ คุณได้รับฟรี  {1} ชิป\n"
+"พรุ่งนี้ล็อกอินรับเพิ่ม {2} ชิป อย่าลืมมารับด้วยนะคะ!"
+
+#: lang.lua:2007
+msgid "明日登陆即可领取{1}筹码，仅限明天当日，记得来哦"
+msgstr "พรุ่งนี้ล็อกอินรับ {1} ชิปทันที เฉพาะวันพรุ่งนี้เท่านั้น ห้ามพลาดนะคะ"
+
+#: lang.lua:2008
+msgid "点击任意位置即可关闭"
+msgstr "กดปิดบริเวณไหนก็ได้"
+
+#: lang.lua:2010
+msgid ""
+"恭喜您玩牌获得{1}筹码,继续玩牌奖励更多，仅限今天哦!\n"
+"(奖励已自动到账)"
+msgstr ""
+"ยินดีด้วยค่ะ คุณเล่นไพ่ได้รับ {1} ชิป เล่นต่อมีรางวัลอีกเพียบ เฉพาระวันนี้เท่านั้น\n"
+"รางวัลเข้าบัญชีอัตโนมัติ"
+
+#: lang.lua:2011
+msgid "恭喜您玩牌获得{1}筹码,新手成长奖励已全部领完,明日登陆还可直接领取{2}，不要错过哦！"
+msgstr "ยินดีด้วยค่ะ คุณเล่นไพ่ได้รับ {1} ชิป รางวัลมือใหม่รับหมดแล้วค่ะ,พรุ่งนี้ล็อกอินรับ {2} ชิปทันที ห้ามพลาดนะคะ"
+
+#: lang.lua:2012
+msgid "5秒后自动消失"
+msgstr "จะหายไปหลัง 5 วินาที"
+
+#: lang.lua:2013
+msgid "搏定新手成长奖励"
+msgstr "รางวัลมือใหม่ป๊อกเด้ง"
+
+#: lang.lua:2017
+msgid "满3级后才开放，快点击快速开始玩牌升级吧！"
+msgstr "Lv.3 ถึงเปิด กดเริ่มทันทีเพื่อเล่นไพ่อัพ Lv. กัน"
+
+#: lang.lua:2018
+msgid "LV.3级后开启"
+msgstr "Lv.3 ถึงเปิด"
+
+#: lang.lua:2019
+msgid "点击此处快速入场开始游戏"
+msgstr "กดเริ่มเกมส์ทันที"
+
+#: lang.lua:2020
+msgid "点此查看牌型比牌说明"
+msgstr "กดดูคำอธิบายรูปแบบไพ่"
+
+#: lang.lua:2022
+msgid "点此可邀请好友获得筹码"
+msgstr "กดเชิญเพื่อนเพื่อรับชิป"
+
+#: lang.lua:2023
+msgid "点此可参与获取免费筹码"
+msgstr "กดรับชิปฟรี"
+
+#: lang.lua:2024
+msgid "点此进入房间大厅自主选场"
+msgstr "กดเลือกห้องเอง"
+
+#: lang.lua:2025
+msgid "点此可直接购买筹码"
+msgstr "กดเติมชิป"
+
+#: lang.lua:2030
+msgid "玩牌赢现金币，即有机会兑换实物奖励"
+msgstr "เล่นไพ่ชนะชิปเงินสด จะมีโอกาสแลกรางวัลจริงได"
+
+#: lang.lua:2031
+msgid "累积现金币可在兑换商城中兑换实物奖励"
+msgstr "สะสมชิปเงินสดไปแลกรางวัลจริงที่ห้องแลกได"
+
+#: lang.lua:2032
+msgid "点击立即上庄,赢钱更快更刺激"
+msgstr "กดเป็นเจ้าทันที รับเงิน"
+
+#: lang.lua:2034
+msgid "您还没有这个节日限定道具,快去参加水灯节活动获得吧！"
+msgstr "คุณยังไม่มีไอเทมพิเศษ รีบไปเข้าร่วมกิจกรรมวันลอยกระทงกันเลยค่ะ！"
+
+#: lang.lua:2035
+msgid "使用水灯互动道具失败！"
+msgstr "ใช้ไอเทมกระทงล้มเหลวค่ะ！"
+
+#: lang.lua:2038
+msgid "水灯节快乐"
+msgstr "สุขสันต์วันลอยกระทงค่า"
+
+#: lang.lua:2039
+msgid "希望好运到来"
+msgstr "ขอให้โชคดีจ้า"
+
+#: lang.lua:2040
+msgid "希望每个人都幸福"
+msgstr "ขอให้สุขใจสบายกายทุกท่าน"
+
+#~ msgid "使用互动道具失败！"
+#~ msgstr "ขอให้โชคดีจ้า！"
+
+#~ msgid "1.每发送一条全服广播需消耗小喇叭*1 (老版本用户消耗10M筹码)"
+#~ msgstr "1.จะต้องใช้ลำโพง *1 ในการส่งลำโพงเซิร์ฟ (ผู้เล่นเวอร์ชั่นเก่าใช้ 10M ชิปในทุกการส่ง)"
+
+#~ msgid "合理使用全服喇叭  注意文明发言"
+#~ msgstr "กรุณาใช้ลำโพงอย่างเหมาะสม และเขียนด้วยข้อความที่สุภาพเท่านั้น"
+
+#~ msgid "1.每发送一条全服广播需花费10M筹码（新版本用户消耗小喇叭）"
+#~ msgstr "1."
+
+#~ msgid "小喇叭"
+#~ msgstr "ลำโพง"
+
+#~ msgid "喇叭记录"
+#~ msgstr "บันทึกลำโพง"
+
+#~ msgid "1.每发送一条全服小喇叭需花费10M筹码"
+#~ msgstr "1.ทุกครั้งที่ส่งลำโพง 1 ข้อความทั่วเซิร์ฟ ต้องจ่าย 10M ชิป"
+
+#~ msgid "2.每人每3分钟内只可发放一条全服小喇叭"
+#~ msgstr "2.ทุกๆ 3 นาทีสามารถส่งลำโพงทั่วเซิร์ฟได้ 1 ข้อความเท่านั้น/คน"
+
+#~ msgid "3.在线的人均可看到喇叭发言，大胆告白吧"
+#~ msgstr "3.ผู้เล่นที่ออนไลน์ทุกท่านสามารถมองเห็นข้อความจากลำโพงได้  อยากบอกอะไรก็เขียนเลย"
+
+#~ msgid "您已连续当庄50局,休息一会给别人一个机会吧"
+#~ msgstr "คุณเป็นเจ้าต่อเนื่อง 50 รอบแล้ว กรุณาพักผ่อนก่อนให้คนอื่นๆเป็นเจ้านะ"
+
+#~ msgid "邀请送元宝"
+#~ msgstr "แจกเมล็ดพันธุ์"
+
+#~ msgid "比赛场赢Iphone6"
+#~ msgstr "แข่งชิงไอโฟน 6"
+
+#~ msgid "筹码农场"
+#~ msgstr "ฟาร์มชิป"
+
+#~ msgid "送金饰"
+#~ msgstr "แจกทองสื่อรัก"
+
+#~ msgid "确定花费{1}现金币 + {1}筹码参与此次夺宝吗？"
+#~ msgstr "คุณยืนยันจ่าย {1} ชิปเงินสด + {1} ชิปเพื่อเข้าร่วม ชิงสมบัติไหมคะ？"
+
+#~ msgid "您已连续当庄20局,休息一会给别人一个机会吧"
+#~ msgstr "คุณเป็นเจ้าต่อเนื่อง 50 รอบแล้ว กรุณาพักผ่อนก่อนให้คนอื่นๆเป็นเจ้านะ"
+
+#~ msgid ""
+#~ "每邀请一位Facebook好友，可立即获赠500筹码。FaceBook好友接受邀请并成功登录游戏，您还可以额外获得50000筹"
+#~ "码奖励，多劳多送。\n"
+#~ "\n"
+#~ "同时，被邀请的好友登录游戏后也可获赠150000筹码的注册礼包，赠送的筹码由系统免费发放。"
+#~ msgstr ""
+#~ "คุณจะได้รับรางวัล 1000 ชิปฟรีต่อการเชิญเพื่อน FB 1 ท่าน หากเพื่อนตอบรับคำเชิญเข้าเล่นเกมส์ คุณจะได้รับรางวัลชิปฟรีเพิ่มอีก 50K "
+#~ "ชิป ยิ่งขยันเชิญเพื่อน ยิ่งได้ชิปฟรีมากขึ้น ส่วนเพื่อนที่เข้าเกมส์จะได้รับรางวัลลงทะเบียนฟรี 150K ชิป ซึ่งระบบจะส่งชิปเข้าบัญชีอัตโนมัติ"
+
+#~ msgid ""
+#~ "为您推荐一个既刺激又有趣的扑克游戏，我给你赠送了15万的筹码礼包，注册即可领取，快来和我一起玩吧！"
+#~ "http://dwz.cn/Gc7zQ"
+#~ msgstr "ป๊อกเด้งมันส์ๆ เพื่อนเล่นเพียบ เข้าเล่นเกมส์รับไปเลย 150K ชิป มาเล่นด้วยกันนะ! https://goo.gl/hdX7vp"
+
+#~ msgid "全部奖池"
+#~ msgstr ""
+#~ "ยอดชิป\n"
+#~ "กองกลาง"
+
+#~ msgid "3/4奖池"
+#~ msgstr ""
+#~ "3/4\n"
+#~ "ชิปกองกลาง"
+
+#~ msgid "1/2奖池"
+#~ msgstr ""
+#~ "1/2\n"
+#~ "ชิปกองกลาง"
+
+#~ msgid "3倍反加"
+#~ msgstr "เก 3 เท่า"
+
+#~ msgid "29฿立即抢"
+#~ msgstr "แย่งซื้อ 29 บาททันที"
+
+#~ msgid "49฿立即抢"
+#~ msgstr "แย่งซื้อ 49 บาททันที"
+
+#~ msgid "去参赛"
+#~ msgstr "ไปแข่ง"
+
+#~ msgid "点击查看玩法介绍"
+#~ msgstr "กติกาห้องเจ้า"
+
+#~ msgid "当前庄家"
+#~ msgstr "เจ้ามือปัจจุบัน"
+
+#~ msgid "庄家携带"
+#~ msgstr "ชิปเจ้ามือ"
+
+#~ msgid "底注场次"
+#~ msgstr " ห้องเดิมพัน  "
+
+#~ msgid "上庄门槛"
+#~ msgstr "ชิงตำแหน่งเจ้า"
+
+#~ msgid "最小携带"
+#~ msgstr "นำเข้าต่ำสุด  "
+
+#~ msgid "快速加入"
+#~ msgstr "เข้าทันที"
+
+#~ msgid "兑换券不足"
+#~ msgstr "คูปองมีไม่พอค่ะ"
+
+#~ msgid "上庄场"
+#~ msgstr "ห้องเจ้า"
+
+#~ msgid "热身赛门票"
+#~ msgstr "ตั๋วห้องวอมอัพ"
+
+#~ msgid "每召回8位好友即可获得1张热身赛门票"
+#~ msgstr "สะกิดเพื่อนครบ 8 คน รับฟรีตั๋วห้องวอมอัพ 1 ใบทันที"
+
+#~ msgid "恭喜您获得热身赛门票"
+#~ msgstr "ยินดีด้วยค่ะ คุณได้รับตั๋วห้องวอมอัพ"
+
+#~ msgid "召回奖筹码"
+#~ msgstr "สะกิดเพื่อนแจกรางวัล"
+
+#~ msgid "召回赢门票"
+#~ msgstr "สะกิดเพื่อนรับตั๋วแข่ง"
+
+#~ msgid "3.热身赛门票每天最多可获得2张(今日: {1})"
+#~ msgstr "3.จำกัดรับตั๋วห้องวอมอัพ 2 ใบ/วัน (วันนี้ ：{1})"
+
+#~ msgid "{1} 门票意参与奖励赛事"
+#~ msgstr "คูปองรวม {1} ใบที่เข้าได้ทุกห้องแข่ง"
+
+#~ msgid "1.什么是现金币？"
+#~ msgstr "1.\"ชิปเงินสด\"คืออะไร？"
+
+#~ msgid "2.如何兑换奖品？"
+#~ msgstr "2.แลกรางวัลจริงอย่างไร？"
+
+#~ msgid "3.若有任何问题,请联系客服。"
+#~ msgstr "3.วิธีติดต่อแอดมินป๊อกเด้ง."
+
+#~ msgid "现金币是搏定的一直兑换货币,通过赢比赛和现金币场可以获得。现金币累计到一定数量后进行兑奖。"
+#~ msgstr "\"ชิปเงินสด\" สามารถแลกรางวัลในห้างได้ หากได้อันดับในห้องแข่ง จะได้ชิปเงินสดเป็นรางวัล."
+
+#~ msgid ""
+#~ "通过比赛或者现金币场赢得奖券,打开兑换中心,选择喜欢的奖品,点击“立即兑换”,即可兑换成功。兑换成功后打"
+#~ "开“兑换记录”,就可以领取奖励。"
+#~ msgstr ""
+#~ "ชิปเงินสดที่ได้จากการเล่นห้องแข่งหรือห้องชิปเงินสด สามารถนำไปแลกได้โดยกดเข้า【ห้างแลก】แล้ว【เลือกสินค้าที่อยากแลก】"
+#~ "สุดท้ายกด【แลกทันที】 เพื่อแลกสินค้า หากแลกสำเร็จสามารถรับรางวัลได้โดยกด【บันทึกการแลก】"
+
+#~ msgid "张"
+#~ msgstr "ใบ"
+
+#~ msgid "参加比赛>赚取现金币>兑换实物"
+#~ msgstr "ร่วมแข่ง>รับชิปเงินสด>แลกรางวัลใหญ่"
+
+#~ msgid "使用通用门票报名更划算"
+#~ msgstr "ใช้คูปองรวมลงชื่อคุ้มมากกว่า"
+
+#~ msgid "奖励{1}筹码"
+#~ msgstr "ได้รับรางวัล {1} ชิป"
+
+#~ msgid "chip{1}"
+#~ msgstr "ชิป {1}"
+
+#~ msgid "购买{1}现金币"
+#~ msgstr "ซื้อ{1}ชิปเงินสด"
+
+#~ msgid "购买{1}比赛门票"
+#~ msgstr "ซื้อ{1}คูปองรวม"
+
+#~ msgid "购买{1}TH大礼包"
+#~ msgstr "ซื้อ{1}บาทแพคเกจใหญ่"
+
+#~ msgid "ฟิดแบก"
+#~ msgstr "ฟีดแบค"
+
+#~ msgid "这什么游戏啊 ，每天都发免费游戏币，还可以抽百万大奖，来试试吧，别说没告诉你哦"
+#~ msgstr "เกมส์อะไรไม่รู้แจกชิปฟรีทุกวันเลย มาลองดูสิ เดี๋ยวจะหาว่าไม่บอก!"
+
+#~ msgid "哇！好多免费筹码，怎么领都領不完，来帮我领吧！"
+#~ msgstr "ว๊าว! ได้ชิปฟรีเพียบเลย เก็บยังไงก็ไม่หมด มาช่วยเก็บหน่อยจิ!"
+
+#~ msgid "我用三公粉丝页的兑换码换到了{1}的奖励，快来和我一起玩吧！"
+#~ msgstr "ฉันใช้รหัสโบนัสแลกรางวัลในเกมส์ไพ่ป๊อกเด้งได้รับ {1} มาเล่นกับฉันสิ!"
+
+#~ msgid "粉丝奖励兑换有礼"
+#~ msgstr "รหัสโบนัสแฟนส์แจกรางวัล"
+
+#~ msgid "免费转，天天大奖免费等你拿，来试试，看你能转到什么！"
+#~ msgstr "หมุนฟรีนะจะบอกให้ มีแต่ได้กับได้ รับรางวัลเต็มพิกัดทุกวัน ลองมาหมุนดูสิว่าเธอจะได้อะไร!"
+
+#~ msgid "啊啊啊!好高兴啊，博定转盘每天100%%发放免费奖励"
+#~ msgstr " โอ๊ยๆๆ ดีใจฝุดๆ วงล้อหมุนๆไพ่ป๊อกเด้งแจกรางวัล 100%% ฟรีทุกวัน"
+
+#~ msgid "我在三公的幸运转转转获得了{1}的奖励，快来和我一起玩吧！"
+#~ msgstr "ฉันเล่นวงล้อหมุนๆในเกมส์ไพ่ป๊อกเด้งได้รับรางวัล {1} มาสิ มาลองลุ้นรางวัลกัน!"
+
+#~ msgid "开心转转转100%%中奖"
+#~ msgstr "ได้รางวัล 100 %% ทุกครั้ง"
+
+#~ msgid "我刚刚在博定成功升到了{1}级，领取了{2}的奖励，快来膜拜吧！"
+#~ msgstr "เมื่อกี๊เล่นไพ่ป๊อกเด้งอัพเป็น LV.{1} ได้รางวัล {2} มาลองดูจิ!"
+
+#~ msgid "升级领取大礼"
+#~ msgstr "รางวัลอัพ Lv."
+
+#~ msgid "发现一个搏定牌游戏，和我们平时玩的一样。大家下载一起玩吧！"
+#~ msgstr "เจอเกมส์ไพ่ป๊อกเด้ง เหมือนที่เราเคยเล่นกันเลยแหละ โหลดมาเล่นเป็นเพื่อนกันนะ!"
+
+#~ msgid "我发现了一个好玩的游戏"
+#~ msgstr "ฉันเจอเกมส์ใหม่ ขอบอกว่ามันส์มากอ่ะ!"
+
+#~ msgid "每局都好刺激，还有不限量免费筹码可以拿，怎么玩都不会腻，邀请好友进来一起玩吧！"
+#~ msgstr "ฟินอ่ะ! ไม่เคยรู้สึกแบบนี้กับเกมส์ไหนมาก่อนเลย ลองดูสิ แล้วจะติดใจ!"
+
+#~ msgid "好满足！从未有过的快感，快来试试吧，你会上瘾的！"
+#~ msgstr "รางวัลให้ไม่อั้น เล่นทีไรก็ตื่นเต้นสุดๆ ชวนเพื่อนมาเล่นกันเยอะๆนะ!"
+
+#~ msgid "快速收取筹码的居家良药，你值得拥有"
+#~ msgstr "มาเก็บปุ๋ยเพื่อเพิ่มผลผลิตชิปในฟาร์มกัน มันเจ๋งสุดๆละ!"
+
+#~ msgid "我获得一个最稀有的加速药水"
+#~ msgstr "เย้ๆ ดีใจจัง! ฉันได้ปุ๋ยเพิ่มความเร็วที่หายากที่สุดแล้ว "
+
+#~ msgid "种下即可收获海量游戏筹码，快来和我一起种。"
+#~ msgstr "ปลูกเมล็ดพันธุ์ในฟาร์มรับเงินอื้อซ่า รีบมาปลูกกันเถอะเพื่อน"
+
+#~ msgid "我在搏定中获得了一个金元宝种子"
+#~ msgstr "ว๊าว! เล่นป๊อกเด้งอยู่ดีๆก็ได้เมล็ดพันธุ์ตำลึงทอง"
+
+#~ msgid "种下即可收获大量游戏筹码，快事和我一起种。"
+#~ msgstr "ปลูกเมล็ดพันธุ์ในฟาร์มรับเงินอื้อซ่า รีบมาปลูกกันเถอะเพื่อน"
+
+#~ msgid "我在搏定中获得了一个银元宝种子"
+#~ msgstr "ว๊าว! เล่นป๊อกเด้งอยู่ดีๆก็ได้เมล็ดพันธุ์ตำลึงเงิน"
+
+#~ msgid "一个可以自己种筹码的游戏，别说我没告诉你哦！"
+#~ msgstr "เกมส์อะไรก็ไม่รู้ ปลูกชิปฟรีได้ด้วย บอกต่อแล้วนะ รีบเลย!"
+
+#~ msgid "自己的游戏筹码自己种"
+#~ msgstr "อยากได้ชิป  ก็มาฟาร์มชิปปลูกต้นชิปกัน!"
+
+#~ msgid "我在博定中获得连胜5局的成绩"
+#~ msgstr "ฟินฝุดๆ!เล่นไพ่ป๊อกเด้งชนะ 5 ครั้งติดง่ะ!"
+
+#~ msgid "真是一个IQ300的天才，谁敢来挑战我"
+#~ msgstr "ไอคิวสูง 300 ก็งี๊แหละ ใครกล้ามาประลองกัน!"
+
+#~ msgid "今天，我人品爆发，谁与争锋，等你来战哦"
+#~ msgstr "วันนี้ ฉันได้โชคก้อนใหญ่  ใครกล้ามาลองดีกับฉันบ้าง รออยู่นะ!"
+
+#~ msgid "点滴记录，丝丝分享，等你哦"
+#~ msgstr "บันทึกไพ่ป๊อกเด้งอันยิ่งใหญ่นี้  ต้องบอกต่อ มาดวลกันเถอะ！"
+
+#~ msgid "好紧张 获得黄金和一笔大钱！"
+#~ msgstr "ตื่นเต้นอ่ะ ได้ทองคำ แถมเงินหนักอึ้งเลย!!!"
+
+#~ msgid "好高兴，我在博定获得了稀有礼物”三公金牌“ 加上200000 免费筹码  来试试看吧！"
+#~ msgstr "ดีใจจัง ฉันได้ของขวัญหายาก \"ไพ่ทองคำเก้าเกไทย\" ในเกมส์ไพ่ป๊อกเด้ง แถมชิปอีก 200000 ฟรี มาลองกันดูสิ!"
+
+#~ msgid "恭喜{1}在搏定比赛中获得了第{2}名的好成绩。大家快来祝贺TA吧。"
+#~ msgstr "ยินดีด้วยค่ะ {1} คุณได้ที่ 2 ในห้องแข่งไพ่ป๊อกเด้ง อวดเพื่อนกันเลย!"
+
+#~ msgid "搏定比赛场，激情四射，敢不敢来挑战 ?"
+#~ msgstr "ห้องแข่งไพ่ป๊อกเด้ง ท้ามันส์ดวลสนุก ใครกล้าลอง?"
+
+#~ msgid "请输入6位数字奖励兑换码"
+#~ msgstr "กรุณากรอกรหัสโบนัส 6 หลัก"
+
+#, fuzzy
+#~ msgid "现金币场不可换桌"
+#~ msgstr "ห้องชิปเงินสดไม่สามารถเปลี่ยนโต๊ะได้ค่ะ"
+
+#~ msgid "均价:%s筹码"
+#~ msgstr "ราคาเฉลีย:%sชิป"
+
+#~ msgid "物品数量"
+#~ msgstr "ได้"
+
+#~ msgid "请输入，限233字节以内"
+#~ msgstr "กรุณากรอก จำกัดภายใน 233 ตัวอักษร"
+
+#~ msgid ""
+#~ "{1}游戏币\n"
+#~ "{2}THB"
+#~ msgstr ""
+#~ "{1} ชิป\n"
+#~ "{2} THB"
+
+#~ msgid "1.每发送一条全服小喇叭需花费2000000筹码"
+#~ msgstr "1.ทุกครั้งที่ส่งลำโพง 1 ข้อความทั่วเซิร์ฟ ต้องจ่าย 2M ชิป"
+
+#~ msgid "高级场"
+#~ msgstr "ห้องเศรษฐี"
+
+#~ msgid ""
+#~ "赢一场就送50THB话费\n"
+#~ "圣诞特别赛:50THB话费赛\n"
+#~ "比赛时间:12月22日17:00-12月25日17:00"
+#~ msgstr ""
+#~ "ชนะเพียง 1 รอบ แจกบัตรเงินสด 50 บาทฟรี\n"
+#~ "แข่งนัดพิเศษวันคริสต์มาส: ชิงบัตรเงินสด 50 บาท\n"
+#~ "เวลาแข่ง: 22 ธ.ค. 58 16:00 น.– 25 ธ.ค. 58 16:00 น."
+
+#~ msgid ""
+#~ "赢一场就送50THB话费\n"
+#~ "圣诞特别赛:50THB话费赛\n"
+#~ "比赛时间:12月22日17:00-12月24日17:00"
+#~ msgstr ""
+#~ "ชนะเพียง 1 รอบ แจกบัตรเงินสด 50 บาทฟรี\n"
+#~ "แข่งนัดพิเศษวันคริสต์มาส: ชิงบัตรเงินสด 50 บาท\n"
+#~ "เวลาแข่ง: 22 ธ.ค. 58 16:00 น.– 24 ธ.ค. 58 16:00 น."
+
+#~ msgid "房间服务费: "
+#~ msgstr "ค่าบริการ:"
+
+#~ msgid "ทุกรอบการเล่นในห้องชิปจะเก็บค่าบริการ โดย ค่าบริการ = เดิมพัน x 10%%"
+#~ msgstr "ทุกรอบการเล่นในห้องชิปจะเก็บค่าบริการ โดย ค่าบริการ = เดิมพัน x 10%%"
+
+#~ msgid "นำเข้าต่ำสุด = เดิมพัน x20เท่า"
+#~ msgstr "นำเข้าต่ำสุด = เดิมพัน x20เท่า"
+
+#~ msgid ""
+#~ "您在游戏中碰到的问题或者对游戏有任何意见或者建议，我们都欢迎您给我们反馈。\n"
+#~ "客服联系方式: \n"
+#~ "邮件：Pokdengfeedback@boyaa.com \n"
+#~ "电话：026700909或026700919转0(接通时间：09.00-18.00 周一到周日)\n"
+#~ "粉丝页：https://www.facebook.com/pokdengtl/"
+#~ msgstr ""
+#~ "หากพบเจอปัญหาหรือมีคำแนะนำใดๆ แจ้งรายละเอียดพร้อมแคปภาพให้เราได้เสมอค่ะ \n"
+#~ "ติดต่อฝ่ายบริการลูกค้า->>\n"
+#~ "อีเมล์: Pokdengfeedback@boyaa.com\n"
+#~ "เบอร์โทร: 026700909/026700919 กด 0(เวลาทำการ: จันทร์-อาทิตย์ เวลา 09.00-18.00 น.)\n"
+#~ "แฟนเพจ:https://www.facebook.com/pokdengtl/"
+
+#~ msgid "您在游戏中碰到的问题或者对游戏有任何意见或者建议，我们都欢迎您给我们反馈"
+#~ msgstr "หากคุณพบเจอปัญหาในเกมส์หรือมีคำแนะนำใดๆสามารถส่งฟีดแบคมาหาเราได้นะคะ"
+
+#~ msgid "比赛已经开始，不可退赛"
+#~ msgstr "การแข่งขันเริ่มแล้ว ไม่สามารถออกจากเกมส์ได้ค่ะ"
+
+#~ msgid "签到活动"
+#~ msgstr "ลงชื่อหรรษา"
+
+#~ msgid "购买记录"
+#~ msgstr "บันทึกการซื้อ"
+
+#~ msgid "精品"
+#~ msgstr "ชั้นเลิศ"
+
+#~ msgid "等级说明"
+#~ msgstr "กติกา Lv."
+
+#~ msgid "你的等级没有达到七级，不能使用保险箱"
+#~ msgstr "บัญชีของคุณยังไม่ถึง Lv.5  ไม่สามารถใช้ธนาคารได้ค่ะ"
+
+#~ msgid ""
+#~ "比赛门票有2种获取方式:\n"
+#~ "1.参加低级别的比赛取得名次后可获取高级别的比赛门票;\n"
+#~ "2.在商城储值购买“比赛门票”;"
+#~ msgstr ""
+#~ "วิธีการหาตั๋วแข่งขันมี 2 วิธี ดังนี้ \n"
+#~ "  1.เข้าร่วมการแข่งขันในห้องระดับต่ำ หลังได้แรงค์กิ้งตามที่ระบบกำหนด จะได้รับตั๋วแข่งขันที่มีสิทธิ์เข้าแข่งในห้องระดับสูงฟรี \n"
+#~ "  2.สามารถหาซื้อ “ตั๋วแข่งขัน” ได้ใน “ห้าง”"
+
+#~ msgid "玩牌宝箱"
+#~ msgstr "หีบสมบัติ"
+
+#~ msgid "太棒了，我刚刚在三公成功升到了{1}级，领取了{2}的奖励，快来膜拜吧！"
+#~ msgstr "เจ๋งสุดๆ เมื่อกี๊เล่นเกมส์ไพ่ป๊อกเด้งได้อัพเป็น  Lv.{1} แถมได้รางวัล {2} มาแข่งกัน!"
+
+#~ msgid "注:储值成功后加送筹码自动发放到账户,仅限BluePay支付方式"
+#~ msgstr "คำเตือน:หลังเติมเงินสำเร็จชิปที่เพิ่มให้ 500%% จะส่งเข้าบัญชีอัตโนมัติ จำกัดเฉพาะช่องทาง BluePay เท่านั้น"
+
+#~ msgid "邀请翻倍"
+#~ msgstr "รางวัล *2"
+
+#~ msgid "10K筹码+30次互动道具"
+#~ msgstr "10K ชิป+ไอเทม 30 ครั้ง"
+
+#~ msgid "20K筹码+20颗银元宝"
+#~ msgstr "20K ชิป+เมล็ดตำลึงเงิน 20 เมล็ด"
+
+#~ msgid "30K筹码+10颗金元宝"
+#~ msgstr "30K ชิป+เมล็ดตำลึงทอง 10 เมล็ด"
+
+#~ msgid "50K筹码+专属礼物"
+#~ msgstr "50K ชิป+ไพ่เก้าเกทองคำ"
+
+#~ msgid "领奖成功,您获得10K筹码+30次道具"
+#~ msgstr "รับรางวัลสำเร็จ คุณได้รับ 10K ชิป+ไอเทม 30 ครั้ง"
+
+#~ msgid "领奖成功,您获得20K筹码+银元宝20个"
+#~ msgstr "รับรางวัลสำเร็จ คุณได้รับ 20K ชิป+เมล็ดตำลึงเงิน 20 เมล็ด"
+
+#~ msgid "领奖成功,您获得30K筹码+金元宝10个"
+#~ msgstr "รับรางวัลสำเร็จ คุณได้รับ 30K ชิป+เมล็ดตำลึงทอง 10 เมล็ด"
+
+#~ msgid "恭喜您成功获得了终极礼包 50K筹码+稀有三公专属礼物！"
+#~ msgstr "ยินดีด้วยค่ะ คุณสำเร็จภารกิจได้รับ รางวัลใหญ่ 50K ชิป+ไพ่ทองคำเก้าเกไทย!"
+
+#~ msgid "Google Play 下载三公"
+#~ msgstr "โหลดเกมส์เก้าเกไทย"
+
+#~ msgid "2.每完成一个目标即可领取奖励，全部完成即可领取稀有专属礼物，具体奖励设定如下:"
+#~ msgstr "สำเร็จภารกิจทุกครั้งสามารถรับรางวัลฟรี หากสำเร็จทุกภารกิจ รับไปเลยของขวัญหายาก รายละเอียดรางวัลมีดังนี้:"
+
+#~ msgid "(FB登录多加50000筹码)"
+#~ msgstr "(ล็อกอินบัญชี FB +100000 ชิป)"
+
+#~ msgid "打牌做任务"
+#~ msgstr "ภารกิจประจำวัน"
+
+#~ msgid "邀请FB好友+50000"
+#~ msgstr "เชิญเพื่อน +50000"
+
+#~ msgid "超级大转盘"
+#~ msgstr "วงล้อหมุนๆ"
+
+#~ msgid "2.成为V用户,可享[Vip*2]双倍奖励"
+#~ msgstr "2.VIP มีสิทธิ์รับรางวัล X2"
+
+#~ msgid "您是Vip用户,可享受【Vip*2】双倍奖励"
+#~ msgstr "Vip มีสิทธิ์รับรางวัล X2"
+
+#~ msgid "已经领取完所有奖励"
+#~ msgstr "รับรางวัลทั้งหมดแล้ว"
+
+#~ msgid "请输入5或6位的房间号码"
+#~ msgstr "กรุณากรอกเลขไอดีห้องจำนวน 5-6 หลักค่ะ"
+
+#~ msgid "母亲节活动"
+#~ msgstr "กิจกรรมวันแม่"
+
+#~ msgid "他的聚宝盆"
+#~ msgstr "ฟาร์มของเขา"
+
+#~ msgid "成熟奖励: ${200}"
+#~ msgstr "ผลิตผลที่ได้: ${200}"
+
+#~ msgid "成长时间: {20} Min"
+#~ msgstr "เวลาเก็บ: {20}Min"
+
+#~ msgid "剩余数量: {}"
+#~ msgstr "เหลือ:{}"
+
+#~ msgid "LV.{}解锁"
+#~ msgstr "LV.{} ปลดล็อค"
+
+#~ msgid "成功发送了邀请，获得{1}筹码的奖励！"
+#~ msgstr "ส่งคำเชิญสำเร็จ ได้รับรางวัล {1} !"
+
+#~ msgid "太棒了!我在三公领取了{1}筹码的奖励，快来和我一起玩吧！"
+#~ msgstr "ฟินสุดๆ! ฉันเล่นเกมส์ไพ่ป๊อกเด้งได้รับรางวัล {1} ชิป มาเล่นกันเหอะ!"
+
+#~ msgid "天天登录筹码送不停"
+#~ msgstr "ล็อกอินทุกวันรับรางวัลฟรีไม่อั้น"
+
+#~ msgid "快来和我一起玩开心转转转吧，每天登录就有三次机会！"
+#~ msgstr "มาเล่นวงล้อหมุนๆกันนะ หมุนฟรี 3 ครั้งต่อวัน!"
+
+#~ msgid "UID {1}"
+#~ msgstr "ID: {1}"
+
+#~ msgid "再玩{1}分{2}秒，您将获得{3}。"
+#~ msgstr "เล่นอีก {1} นาที {2} วิ คุณจะได้รับ {3}"
+
+#~ msgid "恭喜您获得宝箱奖励{1}。"
+#~ msgstr "ยินดีด้วยค่ะ คุณได้รับรางวัลหีบสมบัติ {1}"
+
+#~ msgid "(N天天内仅限3次)"
+#~ msgstr "(3 ครั้งต่อ N วันเท่านั้น )"
+
+#~ msgid "知道搏定"
+#~ msgstr "เด็กน้อยมฤตยู"
+
+#~ msgid "搏定新手"
+#~ msgstr "เด็กน้อยพิชิตมาร"
+
+#~ msgid "搏定爱好者"
+#~ msgstr "เด็กน้อยมือหนึ่ง"
+
+#~ msgid "俱乐部牌手"
+#~ msgstr "เด็กน้อยอัจฉริยะ"
+
+#~ msgid "俱乐部专业牌手"
+#~ msgstr "เด็กน้อยป๊อกเด้ง"
+
+#~ msgid "俱乐部冠军"
+#~ msgstr "โปรมฤตยู"
+
+#~ msgid "区牌手"
+#~ msgstr "โปรพิชิตมาร"
+
+#~ msgid "区专业牌手"
+#~ msgstr "โปรมือหนึ่ง"
+
+#~ msgid "区冠军"
+#~ msgstr "โปรอัจฉริยะ"
+
+#~ msgid "市牌手"
+#~ msgstr "โปรป๊อกเด้ง"
+
+#~ msgid "市专业牌手"
+#~ msgstr "มือฉมังมฤตยู"
+
+#~ msgid "市冠军"
+#~ msgstr "มือฉมังพิชิตมาร"
+
+#~ msgid "全国牌手"
+#~ msgstr "มือฉมังมือหนึ่ง"
+
+#~ msgid "全国专业牌手"
+#~ msgstr "มือฉมังอัจฉริยะ"
+
+#~ msgid "全国冠军"
+#~ msgstr "มือฉมังป๊อกเด้ง"
+
+#~ msgid "亚洲牌手"
+#~ msgstr "ฮีโร่มฤตยู"
+
+#~ msgid "亚洲专业牌手"
+#~ msgstr "ฮีโร่พิชิตมาร"
+
+#~ msgid "亚洲冠军"
+#~ msgstr "ฮีโร่มือหนึ่ง"
+
+#~ msgid "国际牌手"
+#~ msgstr "ฮีโร่อัจฉริยะ"
+
+#~ msgid "国际专业牌手"
+#~ msgstr "ฮีโร่ป๊อกเด้ง"
+
+#~ msgid "国际冠军"
+#~ msgstr "เซียนมฤตยู"
+
+#~ msgid "世界牌手"
+#~ msgstr "เซียนพิชิตมาร"
+
+#~ msgid "世界专业牌手"
+#~ msgstr "เซียนมือหนึ่ง"
+
+#~ msgid "世界冠军"
+#~ msgstr "เซียนอัจฉริยะ"
+
+#~ msgid "搏定新星"
+#~ msgstr "เซียนป๊อกเด้ง"
+
+#~ msgid "搏定挚爱"
+#~ msgstr "คิงมฤตยู"
+
+#~ msgid "搏定英雄"
+#~ msgstr "คิงพิชิตมาร"
+
+#~ msgid "搏定王者"
+#~ msgstr "คิงมือหนึ่ง"
+
+#~ msgid "搏定传奇"
+#~ msgstr "คิงอัจฉริยะ"
+
+#~ msgid "搏定之心"
+#~ msgstr "คิงป๊อกเด้ง"
+
+#~ msgid "1={1}筹码"
+#~ msgstr "1{2}={1} ชิป"
+
+#~ msgid ""
+#~ "您已选择了{1}位好友\n"
+#~ "发送邀请即可获得{2}筹码的奖励"
+#~ msgstr "คุณได้เลือกเพื่อนแล้ว {1} ท่าน ส่งคำเชิญรับฟรีรางวัล {2} ชิป"
+
+#~ msgid "服务器登录成功"
+#~ msgstr "เข้าสู่ระบบเซิร์ฟเวอร์สำเร็จ"
+
+#~ msgid ""
+#~ "关注粉丝页可免费领取奖励兑换码,我们还会不定期在官方粉丝页推出各种精彩活动,谢谢关注。\n"
+#~ "\n"
+#~ "粉丝页地址 https://www.facebook.com/9kThai"
+#~ msgstr ""
+#~ "กดไลค์ติดตามแฟนส์เพจรับฟรีรหัสโบนัสแฟนส์ กิจกรรมสนุกๆรอคุณอยู่เพียบ ไลค์เลย!\n"
+#~ "ลิงค์แฟนส์: https://www.facebook.com/pokdengtl"
+
+#~ msgid "!!服务器登录超时!!"
+#~ msgstr "!! หมดเวลาล็อกอินเซิร์ฟเวอร์!!"

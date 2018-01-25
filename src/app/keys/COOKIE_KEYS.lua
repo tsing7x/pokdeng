@@ -1,0 +1,71 @@
+--
+-- Author: tony
+-- Date: 2014-08-24 20:45:24
+--
+local K = {}
+local COOKIE_KEYS = K
+
+K.AUTO_BUY_IN = "AUTO_BUY_IN"
+K.AUTO_SIT = "AUTO_SIT"
+K.SHOCK = "SHOCK"
+K.VOLUME = "VOLUME"
+
+
+K.LAST_LOGIN_TYPE              = "LAST_LOGIN_TYPE"
+K.LAST_LOGIN_MID               = "LAST_LOGIN_MID"
+K.LOGIN_MTKEY                  = "LOGIN_MTKEY"
+K.LOGIN_SESSKEY                = "SESSKEY"
+K.LOGINED_DEVICE               = "LOGINED_DEVICE"
+K.USER_FIRST_DEALER_SEND_CHIP  = "USER_FIRST_DEALER_SEND_CHIP"  --用户第一次给荷官送筹码
+K.FACEBOOK_ACCESS_TOKEN        = "FACEBOOK_ACCESS_TOKEN"
+K.FACEBOOK_INVITED_NAMES       = "FACEBOOK_INVITED_NAMES"
+K.FACEBOOK_INVITE_MONEY        = "FACEBOOK_INVITE_MONEY"
+K.FACEBOOK_INVITED_PAGE        = "FACEBOOK_INVITED_PAGE"
+K.RECORD_SEND_DEALER_CHIP_TIME = "RECORD_SEND_DEALER_CHIP_TIME" -- 记录给荷官送筹码的次数
+K.DALIY_REPORT_INVITABLE       = "DALIY_REPORT_INVITABLE"       -- 记录每日是否已经上报能邀请的用户数
+K.CONFIG_VER				   = "CONFIG_VER"					-- 配置信息版本号前缀
+
+K.LOGIN_UIDS                   = "LOGIN_UIDS"                   -- 登录uid列表
+
+K.DALIY_REPORT_OLDUSER_INVITED = "DALIY_REPORT_OLDUSER_INVITED" -- 记录每日使用邀请老用户的功能时间
+
+K.GTF_GUIDE_TO_FACEBOOK        = 'GTF_GUIDE_TO_FACEBOOK'        -- 是否已经引导过facebook登录
+K.GTF_CHECK_TODAY              = 'GTF_CHECK_TODAY'              -- 今天是否已经检查过
+K.GTF_LOGIN_COUNT              = 'GTF_LOGIN_COUNT'              -- 使用游客登录的次数
+
+K.TIPS_STATE                   = 'TIPS_STATE'                   -- 提示标识
+
+K.QT_NEXT_DAY_CHIPS_TYPE       = 'QT_NEXT_DAY_CHIPS_TYPE'       -- 明天再来可以领取的奖励类型
+K.QT_NEXT_DAY_CHIPS_REWARD     = 'QT_NEXT_DAY_CHIPS_REWARD'     -- 明天再来可以领取的奖励数量
+
+K.DALIY_POPUP_INVITABLE        = 'DALIY_POPUP_INVITABLE'        -- 每日房间返回大厅自动弹邀请活动框
+
+K.DALIY_USERHEADIMG_UPDATE 	   = "DALIY_USERHEADIMG_UPDATE"     -- 每天首次登陆清空头像缓存;共用for每日首次进入表情界面
+K.SERVER_LOGIN_URL             = 'SERVER_LOGIN_URL' 			-- 记录成功登陆的URL
+K.IOS_ORDER_INFO               = 'IOS_ORDER_INFO'               -- 记录苹果支付信息
+K.ANDROID_ORDER_INFO           = 'ANDROID_ORDER_INFO'           -- 记录谷歌支付信息     
+
+K.MATCH_RECOMMEND_PUSH         = 'MATCH_RECOMMEND_PUSH'         -- 玩几局推荐比赛场
+
+K.MATCH_PAOPTIP_LASTRECORDDAY = "MATCH_PAOPTIP_LASTRECORDDAY"  -- 比赛场第四场的推送上次记录时间(由开关“popmsg”控制)
+K.PAOP_POP_TIME = "PAOP_POP_TIME"                              -- 泡泡弹框次数
+
+K.ATTEND_DOKBACT_TIP_LASTRECDDAY = "ATTEND_DOKBACT_TIP_LASTRECDDAY"  -- 夺宝页面帮助提示上次记录时间
+K.ATTEND_DOKBACT_TIP_SHOWNTIME = "ATTEND_DOKBACT_TIP_SHOWNTIME"  -- 夺宝页面帮助显示次数
+
+K.ENTEREDEXPER_TIMES_TODAY = "ENTEREDEXPER_TIMES_TODAY"  -- 当天已进入表情次数
+K.LAST_USED_EXPRE = "LAST_USED_EXPRE"  -- 上一次使用的表情类型
+
+K.ACT_PUSH_DISRECORDDAY = "ACT_PUSH_DISRECORDDAY"  -- 强推上一次展示日期
+K.ACT_PUSH_DISTIME = "ACT_PUSH_DISTIME"  -- 强推已展示次数
+
+K.DALIY_ROOM_GO_TIP = "DALIY_ROOM_GO_TIP"
+
+
+K.DALIY_NEW_VERSION_GUIDE_TAG = "DALIY_NEW_VERSION_GUIDE_TAG"
+
+
+K.DAILY_GUIDE_TIP_CASH_WIN = "DAILY_GUIDE_TIP_CASH_WIN"
+K.DAILY_GUIDE_TIP_TO_DEALER = "DAILY_GUIDE_TIP_TO_DEALER"
+
+return COOKIE_KEYS

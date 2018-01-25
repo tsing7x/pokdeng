@@ -1,0 +1,1 @@
+%QUICK_V3_ROOT%\quick\bin\win32\php.exe decrypt_hotfix.php

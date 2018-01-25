@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">GoodGamesPayment.framework</string>
+    <string name="version">1.1c</string>
+    <string name="authen_gg">GG Passport</string>
+    <string name="authen_facebook">Facebook</string>
+    <string name="authen_guest">Guest</string>
+
+</resources>

@@ -1,0 +1,1929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-07-15 16:46+0800\n"
+"PO-Revision-Date: 2015-07-15 16:46+0800\n"
+"Last-Translator: \n"
+"Language-Team: Boyaa <LeoLuo@boyaa.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ../scripts\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/module/hall/HallController.lua:55
+msgid "您的账户在别处登录"
+msgstr ""
+
+#: app/module/hall/HallController.lua:56
+#: app/module/hall/MainHallView.lua:666 app/module/hall/MainHallView.lua:890
+#: lang.lua:40
+msgid "确定"
+msgstr ""
+
+#: app/module/hall/HallController.lua:504
+#, lua-format
+msgid "服务器繁忙,请稍后再试[%d]"
+msgstr ""
+
+#: app/module/hall/HallController.lua:510
+msgid "服务器连接失败"
+msgstr ""
+
+#: app/module/hall/HallController.lua:513
+msgid "服务器响应超时"
+msgstr ""
+
+#: app/module/hall/HallController.lua:516
+msgid "服务器登录超时"
+msgstr ""
+
+#: app/module/hall/HallController.lua:523 lang.lua:44
+msgid "重试"
+msgstr ""
+
+#: app/module/hall/HallController.lua:524
+msgid "错误提示"
+msgstr ""
+
+#: app/module/hall/MainHallView.lua:665 app/module/hall/MainHallView.lua:889
+#: lang.lua:92
+msgid "暂未开放 敬请期待"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:18
+msgid "最低下注"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:19
+msgid "下注"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:20
+msgid "要牌"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:21
+msgid "不要牌"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:22
+msgid "自动要牌"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:23
+msgid "自动不要牌"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:24
+msgid "全下"
+msgstr ""
+
+#: app/module/room/OperationManager.lua:118
+msgid "等待闲家下注"
+msgstr ""
+
+#: app/module/room/views/UserInfoOtherDialog.lua:296
+#: app/module/userInfo/UserInfoPopup.lua:738
+#, lua-format
+msgid "Lv.%d"
+msgstr ""
+
+#: app/module/settingAndhelp/help/HelpController.lua:121
+msgid "升级奖励"
+msgstr ""
+
+#: app/module/settingAndhelp/help/HelpController.lua:121
+msgid "称号"
+msgstr ""
+
+#: app/module/settingAndhelp/help/HelpController.lua:121
+msgid "所有EXP"
+msgstr ""
+
+#: app/util/functions.lua:111
+msgid "游戏玩家"
+msgstr ""
+
+#: lang.lua:38 lang.lua:114
+msgid "Lv.{1}"
+msgstr ""
+
+#: lang.lua:39
+msgid "${1}"
+msgstr ""
+
+#: lang.lua:41
+msgid "取消"
+msgstr ""
+
+#: lang.lua:42
+msgid "同意"
+msgstr ""
+
+#: lang.lua:43
+msgid "拒绝"
+msgstr ""
+
+#: lang.lua:45
+msgid "温馨提示"
+msgstr ""
+
+#: lang.lua:46 lang.lua:60 lang.lua:282
+msgid "购买"
+msgstr ""
+
+#: lang.lua:47
+msgid "发送"
+msgstr ""
+
+#: lang.lua:48
+msgid "网络不给力"
+msgstr ""
+
+#: lang.lua:49
+msgid "网络不给力，获取数据失败，请重试！"
+msgstr ""
+
+#: lang.lua:50
+msgid "现在该房间旁观人数过多，请换一个房间"
+msgstr ""
+
+#: lang.lua:51
+msgid "您的账户被冻结了，请你反馈或联系管理员"
+msgstr ""
+
+#: lang.lua:52
+msgid "历史最高资产: {1}"
+msgstr ""
+
+#: lang.lua:53
+msgid "赢得最大奖池: {1}"
+msgstr ""
+
+#: lang.lua:54
+#, lua-format
+msgid "历史胜率: {1}%%"
+msgstr ""
+
+#: lang.lua:55 lang.lua:308
+msgid "历史最佳牌型:"
+msgstr ""
+
+#: lang.lua:56
+msgid "恭喜你升到{1}级, 获得奖励:{2}"
+msgstr ""
+
+#: lang.lua:57 lang.lua:309
+msgid "我的道具:"
+msgstr ""
+
+#: lang.lua:58
+msgid "分  享"
+msgstr ""
+
+#: lang.lua:59 lang.lua:471
+msgid "领取奖励"
+msgstr ""
+
+#: lang.lua:61 lang.lua:358
+msgid "登出"
+msgstr ""
+
+#: lang.lua:62
+msgid "确认退出"
+msgstr ""
+
+#: lang.lua:63
+msgid "真的确认退出游戏吗？淫家好舍不得滴啦~\\(≧▽≦)/~"
+msgstr ""
+
+#: lang.lua:64
+msgid "忍痛退出"
+msgstr ""
+
+#: lang.lua:65
+msgid "我点错了"
+msgstr ""
+
+#: lang.lua:66
+msgid "确认退出登录"
+msgstr ""
+
+#: lang.lua:67
+msgid "真的要退出登录吗？"
+msgstr ""
+
+#: lang.lua:68
+msgid "您的筹码不足最小买入{1}，您需要补充筹码后重试。"
+msgstr ""
+
+#: lang.lua:69
+msgid "您的帐号已被禁言，您可以在帮助-反馈里联系管理员处理"
+msgstr ""
+
+#: lang.lua:71
+msgid "FB账户登录"
+msgstr ""
+
+#: lang.lua:72
+msgid "游客账户登录"
+msgstr ""
+
+#: lang.lua:73
+msgid ""
+"您是否允许我们使用您的设备名称\n"
+"作为游客账户的昵称并上传到游戏服务器？"
+msgstr ""
+
+#: lang.lua:74
+msgid "领取奖励成功"
+msgstr ""
+
+#: lang.lua:75
+msgid "领取失败"
+msgstr ""
+
+#: lang.lua:76
+msgid "第一天"
+msgstr ""
+
+#: lang.lua:77
+msgid "第二天"
+msgstr ""
+
+#: lang.lua:78
+msgid "第三天"
+msgstr ""
+
+#: lang.lua:79
+msgid "正在登录游戏..."
+msgstr ""
+
+#: lang.lua:80
+msgid "登录已经取消"
+msgstr ""
+
+#: lang.lua:81
+msgid ""
+"กรุณาแจ้งปัญหาโดยละเอียดพร้อมเบอร์โทรของท่าน "
+"ทางทีมงานจะรีบติดต่อท่านเพื่อแก้ปัญหาเข้าเกมไม่ได้โดยเร็ว ขอบคุณค่ะ "
+msgstr ""
+
+#: lang.lua:82
+msgid "ฟิดแบก"
+msgstr ""
+
+#: lang.lua:83
+msgid " โปรดกรอกเบอร์โทร (ต้องกรอก)"
+msgstr ""
+
+#: lang.lua:84
+msgid "您的账户在其他地方登录"
+msgstr ""
+
+#: lang.lua:86
+msgid "当前在线人数{1}"
+msgstr ""
+
+#: lang.lua:87
+msgid "邀请FB好友+50000"
+msgstr ""
+
+#: lang.lua:88
+msgid "登录奖励"
+msgstr ""
+
+#: lang.lua:89
+msgid "每日任务"
+msgstr ""
+
+#: lang.lua:90 lang.lua:487
+msgid "最新活动"
+msgstr ""
+
+#: lang.lua:91
+msgid "幸运转转转"
+msgstr ""
+
+#: lang.lua:93 lang.lua:273
+msgid "商城"
+msgstr ""
+
+#: lang.lua:94
+msgid "好友"
+msgstr ""
+
+#: lang.lua:95
+msgid "排行榜"
+msgstr ""
+
+#: lang.lua:96
+msgid "最大买入{1}"
+msgstr ""
+
+#: lang.lua:97
+msgid "最小买入{1}"
+msgstr ""
+
+#: lang.lua:98
+msgid "前注"
+msgstr ""
+
+#: lang.lua:99
+msgid "你输入的房间号码有误"
+msgstr ""
+
+#: lang.lua:100
+msgid "房间号码不能为空"
+msgstr ""
+
+#: lang.lua:101
+msgid "你输入的房间位数不对"
+msgstr ""
+
+#: lang.lua:102
+msgid "请输入5或6位的房间号码"
+msgstr ""
+
+#: lang.lua:104
+msgid "初级场"
+msgstr ""
+
+#: lang.lua:105
+msgid "中级场"
+msgstr ""
+
+#: lang.lua:106
+msgid "高级场"
+msgstr ""
+
+#: lang.lua:109
+msgid ""
+"9\n"
+"人"
+msgstr ""
+
+#: lang.lua:110
+msgid ""
+"5\n"
+"人"
+msgstr ""
+
+#: lang.lua:113
+msgid "UID {1}"
+msgstr ""
+
+#: lang.lua:115
+msgid "排名:  {1}"
+msgstr ""
+
+#: lang.lua:116
+#, lua-format
+msgid "胜率:  {1}%%"
+msgstr ""
+
+#: lang.lua:117 lang.lua:314
+msgid "赠送筹码"
+msgstr ""
+
+#: lang.lua:118
+msgid "加为好友"
+msgstr ""
+
+#: lang.lua:119
+msgid "删除好友"
+msgstr ""
+
+#: lang.lua:120
+msgid "添加好友失败"
+msgstr ""
+
+#: lang.lua:121
+msgid "删除好友成功"
+msgstr ""
+
+#: lang.lua:122
+msgid "删除好友失败"
+msgstr ""
+
+#: lang.lua:123
+msgid "只有普通场才可以赠送筹码"
+msgstr ""
+
+#: lang.lua:124
+msgid "你的筹码不够多，不足给荷官小费"
+msgstr ""
+
+#: lang.lua:125
+msgid "坐下才可以赠送筹码"
+msgstr ""
+
+#: lang.lua:126
+msgid "钱不够啊"
+msgstr ""
+
+#: lang.lua:127
+msgid "赠送的太频繁了"
+msgstr ""
+
+#: lang.lua:128
+msgid "赠送的太多了"
+msgstr ""
+
+#: lang.lua:129
+msgid "比赛场不能发送互动道具"
+msgstr ""
+
+#: lang.lua:130
+msgid "坐下才能发送互动道具"
+msgstr ""
+
+#: lang.lua:131
+msgid "您的互动道具数量不足，赶快去商城购买吧"
+msgstr ""
+
+#: lang.lua:132
+msgid "坐下才可以发送表情"
+msgstr ""
+
+#: lang.lua:133
+msgid "{1}: {2}"
+msgstr ""
+
+#: lang.lua:134
+msgid "{1} {2}/前注{3}"
+msgstr ""
+
+#: lang.lua:135
+msgid "暂无喇叭,是否立即购买？"
+msgstr ""
+
+#: lang.lua:136
+msgid "发送大喇叭消息失败"
+msgstr ""
+
+#: lang.lua:137
+msgid "您获得了{1}筹码的破产补助，终身只有三次机会获得，且用且珍惜"
+msgstr ""
+
+#: lang.lua:138
+msgid "您也可以立即购买，输赢只是转瞬的事"
+msgstr ""
+
+#: lang.lua:139
+msgid ""
+"您已经领完所有破产补助，您可以去商城购买筹码，每天登录还有免费筹码赠送哦！"
+msgstr ""
+
+#: lang.lua:140
+msgid "输赢乃兵家常事，不要灰心，立即购买筹码，重整旗鼓。"
+msgstr ""
+
+#: lang.lua:141
+msgid "请等待下一局开始"
+msgstr ""
+
+#: lang.lua:142
+msgid "登录房间失败"
+msgstr ""
+
+#: lang.lua:143
+msgid "全部奖池"
+msgstr ""
+
+#: lang.lua:144
+msgid "3/4奖池"
+msgstr ""
+
+#: lang.lua:145
+msgid "1/2奖池"
+msgstr ""
+
+#: lang.lua:146
+msgid "3倍反加"
+msgstr ""
+
+#: lang.lua:147
+msgid "快捷聊天"
+msgstr ""
+
+#: lang.lua:148
+msgid "聊天记录"
+msgstr ""
+
+#: lang.lua:149
+msgid "点击输入聊天内容"
+msgstr ""
+
+#: lang.lua:151
+msgid "大家好!"
+msgstr ""
+
+#: lang.lua:152
+msgid "初来乍到，多多关照"
+msgstr ""
+
+#: lang.lua:153
+msgid "我等到花儿都谢了"
+msgstr ""
+
+#: lang.lua:154
+msgid "ALL IN 他!!"
+msgstr ""
+
+#: lang.lua:155
+msgid "你的牌打得太好了!"
+msgstr ""
+
+#: lang.lua:156
+msgid "冲动是魔鬼，淡定!"
+msgstr ""
+
+#: lang.lua:157
+msgid "求跟注，求ALL IN!"
+msgstr ""
+
+#: lang.lua:158
+msgid "送点钱给我吧!"
+msgstr ""
+
+#: lang.lua:159
+msgid "哇，你抢钱啊!"
+msgstr ""
+
+#: lang.lua:160
+msgid "又断线，网络太差了!"
+msgstr ""
+
+#: lang.lua:164
+msgid "买入筹码"
+msgstr ""
+
+#: lang.lua:165
+msgid "您的账户余额:"
+msgstr ""
+
+#: lang.lua:166
+msgid "最低买入"
+msgstr ""
+
+#: lang.lua:167
+msgid "最高买入"
+msgstr ""
+
+#: lang.lua:168
+msgid "筹码不足时自动买入"
+msgstr ""
+
+#: lang.lua:169
+msgid "买入坐下"
+msgstr ""
+
+#: lang.lua:170
+msgid "返回大厅"
+msgstr ""
+
+#: lang.lua:171
+msgid "换  桌"
+msgstr ""
+
+#: lang.lua:172
+msgid "设  置"
+msgstr ""
+
+#: lang.lua:173
+msgid ""
+"您的筹码不足当前房间的最小携带，您可以点击自动换桌系统帮你选择房间或者补足"
+"筹码重新坐下。"
+msgstr ""
+
+#: lang.lua:174
+msgid "自动换桌"
+msgstr ""
+
+#: lang.lua:175
+msgid "个人信息"
+msgstr ""
+
+#: lang.lua:176
+msgid "补充筹码"
+msgstr ""
+
+#: lang.lua:177
+msgid ""
+"正在进入，请稍候...\n"
+"有识尚需有胆方可成赢家"
+msgstr ""
+
+#: lang.lua:178
+msgid "正在退出，请稍候..."
+msgstr ""
+
+#: lang.lua:179
+msgid "正在更换房间.."
+msgstr ""
+
+#: lang.lua:180
+msgid "更换房间失败，是否重试？"
+msgstr ""
+
+#: lang.lua:181
+msgid "请在本局结束后站起, 强制站起按“输牌”处理, 你确定要站起吗?"
+msgstr ""
+
+#: lang.lua:182
+msgid "请在本局结束后退出, 强制退出按“输牌”处理, 你确定要退出吗?"
+msgstr ""
+
+#: lang.lua:183
+msgid "请在本局结束后换桌, 强制换桌按“输牌”处理, 你确定要换桌吗?"
+msgstr ""
+
+#: lang.lua:184
+msgid "与服务器的连接中断，是否尝试重新连接？"
+msgstr ""
+
+#: lang.lua:185
+msgid "正在重新连接.."
+msgstr ""
+
+#: lang.lua:187
+msgid "自动看牌"
+msgstr ""
+
+#: lang.lua:188
+msgid "看或弃"
+msgstr ""
+
+#: lang.lua:189
+msgid "自动弃牌"
+msgstr ""
+
+#: lang.lua:190
+msgid "跟任何注"
+msgstr ""
+
+#: lang.lua:191
+msgid "弃  牌"
+msgstr ""
+
+#: lang.lua:192
+msgid "ALL IN"
+msgstr ""
+
+#: lang.lua:193
+msgid "跟  注"
+msgstr ""
+
+#: lang.lua:194
+msgid "跟注 {1}"
+msgstr ""
+
+#: lang.lua:195
+msgid "小盲"
+msgstr ""
+
+#: lang.lua:196
+msgid "大盲"
+msgstr ""
+
+#: lang.lua:197
+msgid "加  注"
+msgstr ""
+
+#: lang.lua:198
+msgid "加注 {1}"
+msgstr ""
+
+#: lang.lua:199
+msgid "看  牌"
+msgstr ""
+
+#: lang.lua:201
+msgid "小提示：游客用户点击自己的头像弹框或者性别标志可更换头像和性别哦"
+msgstr ""
+
+#: lang.lua:202
+msgid "小经验：当你牌比对方小的时候，你会输掉已经押上的所有筹码"
+msgstr ""
+
+#: lang.lua:203
+msgid "高手养成：所有的高手，在他会三公游戏之前，一定是一个三公游戏的菜鸟"
+msgstr ""
+
+#: lang.lua:204
+msgid "有了好牌要加注，要掌握优势，主动进攻。"
+msgstr ""
+
+#: lang.lua:205
+msgid "留意观察对手，不要被对手的某些伎俩所欺骗。"
+msgstr ""
+
+#: lang.lua:206
+msgid "要打出气势，让别人怕你。"
+msgstr ""
+
+#: lang.lua:207
+msgid "控制情绪，赢下该赢的牌。"
+msgstr ""
+
+#: lang.lua:208
+msgid "游客玩家可以自定义自己的头像。"
+msgstr ""
+
+#: lang.lua:209
+msgid "小提示：设置页可以设置进入房间是否自动买入坐下。"
+msgstr ""
+
+#: lang.lua:210
+msgid "小提示：设置页可以设置是否震动提醒。"
+msgstr ""
+
+#: lang.lua:211
+msgid "忍是为了下一次All In。"
+msgstr ""
+
+#: lang.lua:212
+msgid "冲动是魔鬼，心态好，好运自然来。"
+msgstr ""
+
+#: lang.lua:213
+msgid "风水不好时，尝试换个位置。"
+msgstr ""
+
+#: lang.lua:214
+msgid "输牌并不可怕，输掉信心才是最可怕的。"
+msgstr ""
+
+#: lang.lua:215
+msgid "你不能控制输赢，但可以控制输赢的多少。"
+msgstr ""
+
+#: lang.lua:216
+msgid "用互动道具砸醒长时间不反应的玩家。"
+msgstr ""
+
+#: lang.lua:217
+msgid "运气有时好有时坏，知识将伴随你一生。"
+msgstr ""
+
+#: lang.lua:218
+msgid "诈唬是胜利的一大手段，要有选择性的诈唬。"
+msgstr ""
+
+#: lang.lua:219
+msgid "下注要结合池底，不要看绝对数字。"
+msgstr ""
+
+#: lang.lua:220
+msgid "All In是一种战术，用好并不容易。"
+msgstr ""
+
+#: lang.lua:222
+msgid "亮出手牌"
+msgstr ""
+
+#: lang.lua:224
+msgid "祝您牌运亨通，{1}"
+msgstr ""
+
+#: lang.lua:225
+msgid "祝您好运连连，{1}"
+msgstr ""
+
+#: lang.lua:226
+msgid "您人真好，{1}"
+msgstr ""
+
+#: lang.lua:227
+msgid "真高兴能为您服务，{1}"
+msgstr ""
+
+#: lang.lua:228
+msgid "衷心的感谢您，{1}"
+msgstr ""
+
+#: lang.lua:230
+msgid "服务器正在升级中，请稍候.."
+msgstr ""
+
+#: lang.lua:231
+msgid "破产了"
+msgstr ""
+
+#: lang.lua:233
+msgid "消息"
+msgstr ""
+
+#: lang.lua:234
+msgid "消息记录"
+msgstr ""
+
+#: lang.lua:236
+msgid "您已被管理员踢出该房间"
+msgstr ""
+
+#: lang.lua:237
+msgid "您被用户{1}踢出了房间"
+msgstr ""
+
+#: lang.lua:238
+msgid "您被用户{1}踢出房间，本局结束之后将自动返回大厅"
+msgstr ""
+
+#: lang.lua:244
+msgid "顺子"
+msgstr ""
+
+#: lang.lua:245
+msgid "同花顺"
+msgstr ""
+
+#: lang.lua:246
+msgid "三黄"
+msgstr ""
+
+#: lang.lua:247
+msgid "三张"
+msgstr ""
+
+#: lang.lua:248
+msgid "博定"
+msgstr ""
+
+#: lang.lua:249
+msgid "0点"
+msgstr ""
+
+#: lang.lua:250
+msgid "1点"
+msgstr ""
+
+#: lang.lua:251
+msgid "2点"
+msgstr ""
+
+#: lang.lua:252
+msgid "3点"
+msgstr ""
+
+#: lang.lua:253
+msgid "4点"
+msgstr ""
+
+#: lang.lua:254
+msgid "5点"
+msgstr ""
+
+#: lang.lua:255
+msgid "6点"
+msgstr ""
+
+#: lang.lua:256
+msgid "7点"
+msgstr ""
+
+#: lang.lua:257
+msgid "8点"
+msgstr ""
+
+#: lang.lua:258
+msgid "9点"
+msgstr ""
+
+#: lang.lua:261
+msgid "坐下失败，同一IP不能坐下"
+msgstr ""
+
+#: lang.lua:262
+msgid "坐下失败，该桌位已经有玩家坐下。"
+msgstr ""
+
+#: lang.lua:263
+msgid "坐下失败, 携带的筹码不正确。"
+msgstr ""
+
+#: lang.lua:264
+msgid "坐下失败."
+msgstr ""
+
+#: lang.lua:266
+msgid "系统正在停服维护, 请耐心等候"
+msgstr ""
+
+#: lang.lua:267
+msgid "您的账户暂不支持支付"
+msgstr ""
+
+#: lang.lua:268
+msgid "已支付成功，正在进行发货，请稍候.."
+msgstr ""
+
+#: lang.lua:269
+msgid "支付已经取消"
+msgstr ""
+
+#: lang.lua:270
+msgid "支付失败"
+msgstr ""
+
+#: lang.lua:271
+msgid "网络故障，系统将在您下次打开商城时重试。"
+msgstr ""
+
+#: lang.lua:272
+msgid "发货成功，感谢您的购买。"
+msgstr ""
+
+#: lang.lua:274
+msgid "筹码"
+msgstr ""
+
+#: lang.lua:275 lang.lua:281
+msgid "互动道具"
+msgstr ""
+
+#: lang.lua:276 lang.lua:563
+msgid "我的道具"
+msgstr ""
+
+#: lang.lua:277
+msgid "购买记录"
+msgstr ""
+
+#: lang.lua:278
+msgid "1{2}={1}筹码"
+msgstr ""
+
+#: lang.lua:279
+msgid "chip{1}"
+msgstr ""
+
+#: lang.lua:280
+msgid "剩余：{1}{2}"
+msgstr ""
+
+#: lang.lua:283
+msgid "使用"
+msgstr ""
+
+#: lang.lua:284
+msgid "购买{1}筹码"
+msgstr ""
+
+#: lang.lua:286
+msgid "已下单"
+msgstr ""
+
+#: lang.lua:287
+msgid "已发货"
+msgstr ""
+
+#: lang.lua:288
+msgid "已退款"
+msgstr ""
+
+#: lang.lua:290
+msgid "道具使用成功"
+msgstr ""
+
+#: lang.lua:291
+msgid "道具使用失败"
+msgstr ""
+
+#: lang.lua:292
+msgid "暂无商品"
+msgstr ""
+
+#: lang.lua:293
+msgid "暂无支付记录"
+msgstr ""
+
+#: lang.lua:294
+msgid "我的筹码 {1}"
+msgstr ""
+
+#: lang.lua:295
+msgid "正在购买，请稍候.."
+msgstr ""
+
+#: lang.lua:297
+msgid "连续登录奖励"
+msgstr ""
+
+#: lang.lua:298
+msgid "今日奖励{1}筹码"
+msgstr ""
+
+#: lang.lua:299
+msgid "(FB登录多加50000筹码)"
+msgstr ""
+
+#: lang.lua:300
+msgid "连续登录可获得更多奖励，最高每天{1}游戏币奖励"
+msgstr ""
+
+#: lang.lua:301
+msgid "{1}天"
+msgstr ""
+
+#: lang.lua:302
+msgid "三次注册礼包领取完成后即可领取"
+msgstr ""
+
+#: lang.lua:304
+msgid "历史最高资产:"
+msgstr ""
+
+#: lang.lua:305
+msgid "赢得最大奖池:"
+msgstr ""
+
+#: lang.lua:306
+msgid "历史胜率:"
+msgstr ""
+
+#: lang.lua:307
+msgid "排名:"
+msgstr ""
+
+#: lang.lua:313
+msgid ""
+"暂无好友\n"
+"立即邀请好友可获得丰厚筹码赠送！"
+msgstr ""
+
+#: lang.lua:315
+msgid "赠送{1}筹码"
+msgstr ""
+
+#: lang.lua:316
+msgid "您成功给好友赠送了{1}筹码。"
+msgstr ""
+
+#: lang.lua:317
+msgid "您的筹码太少了，请去商城购买筹码后重试。"
+msgstr ""
+
+#: lang.lua:318
+msgid "您今天已经给该好友赠送过筹码了，请明天再试。"
+msgstr ""
+
+#: lang.lua:319
+msgid ""
+"每邀请一位Facebook好友，可立即获赠500筹码。FaceBook好友接受邀请并成功登录游"
+"戏，您还可以额外获得50000筹码奖励，多劳多送。\n"
+"\n"
+"同时，被邀请的好友登录游戏后也可获赠150000筹码的注册礼包，赠送的筹码由系统"
+"免费发放。"
+msgstr ""
+
+#: lang.lua:320
+msgid "您已累计获得了{1}筹码的邀请奖励，多劳多得，天天都有哦！"
+msgstr ""
+
+#: lang.lua:321
+msgid ""
+"Facebook\n"
+"邀请"
+msgstr ""
+
+#: lang.lua:322
+msgid "短信邀请"
+msgstr ""
+
+#: lang.lua:323
+msgid "邮件邀请"
+msgstr ""
+
+#: lang.lua:324
+msgid "全选"
+msgstr ""
+
+#: lang.lua:325
+msgid "取消全选"
+msgstr ""
+
+#: lang.lua:326
+msgid "邀请"
+msgstr ""
+
+#: lang.lua:327
+msgid "您绝对会喜欢"
+msgstr ""
+
+#: lang.lua:328
+msgid ""
+"为您推荐一个既刺激又有趣的扑克游戏，我给你赠送了15万的筹码礼包，注册即可领"
+"取，快来和我一起玩吧！http://dwz.cn/Gc7zQ"
+msgstr ""
+
+#: lang.lua:329
+msgid "您已选择了{1}位好友 发送邀请即可获得{2}筹码的奖励"
+msgstr ""
+
+#: lang.lua:330
+msgid "一次邀请最多选取50位好友"
+msgstr ""
+
+#: lang.lua:331
+msgid "成功发送了邀请，获得{1}筹码的奖励！"
+msgstr ""
+
+#: lang.lua:332
+msgid "您还没有设置邮箱账户，现在去设置吗？"
+msgstr ""
+
+#: lang.lua:333
+msgid "对不起，无法调用发送短信功能！"
+msgstr ""
+
+#: lang.lua:335
+msgid "我的好友"
+msgstr ""
+
+#: lang.lua:336
+msgid "邀请好友"
+msgstr ""
+
+#: lang.lua:338
+msgid "您的好友已达到600上限，请删除部分后重新添加"
+msgstr ""
+
+#: lang.lua:340
+msgid "追踪玩家"
+msgstr ""
+
+#: lang.lua:342
+msgid "好友排行"
+msgstr ""
+
+#: lang.lua:343
+msgid "总排行榜"
+msgstr ""
+
+#: lang.lua:346 lang.lua:350
+msgid "筹码排行"
+msgstr ""
+
+#: lang.lua:347 lang.lua:351
+msgid "等级排行"
+msgstr ""
+
+#: lang.lua:352
+msgid "盈利排行"
+msgstr ""
+
+#: lang.lua:356
+msgid "设置"
+msgstr ""
+
+#: lang.lua:357
+msgid "昵称"
+msgstr ""
+
+#: lang.lua:359
+msgid "声音和震动"
+msgstr ""
+
+#: lang.lua:360
+msgid "声音"
+msgstr ""
+
+#: lang.lua:361
+msgid "震动"
+msgstr ""
+
+#: lang.lua:362 lang.lua:621
+msgid "其他"
+msgstr ""
+
+#: lang.lua:363
+msgid "进入房间自动坐下"
+msgstr ""
+
+#: lang.lua:364
+msgid "自动买入"
+msgstr ""
+
+#: lang.lua:365
+msgid "喜欢我们，打分鼓励"
+msgstr ""
+
+#: lang.lua:366
+msgid "检测更新"
+msgstr ""
+
+#: lang.lua:367
+msgid "当前版本号：V{1}"
+msgstr ""
+
+#: lang.lua:368 lang.lua:463
+msgid "关于"
+msgstr ""
+
+#: lang.lua:369
+msgid "官方粉丝页"
+msgstr ""
+
+#: lang.lua:370
+msgid "帮助"
+msgstr ""
+
+#: lang.lua:372
+msgid "问题反馈"
+msgstr ""
+
+#: lang.lua:373
+msgid "常见问题"
+msgstr ""
+
+#: lang.lua:374
+msgid "基本规则"
+msgstr ""
+
+#: lang.lua:375
+msgid "等级说明"
+msgstr ""
+
+#: lang.lua:377
+msgid ""
+"您在游戏中碰到的问题或者对游戏有任何意见或者建议，我们都欢迎您给我们反馈"
+msgstr ""
+
+#: lang.lua:378
+msgid "您现在还没有反馈记录"
+msgstr ""
+
+#: lang.lua:379
+msgid "反馈成功!"
+msgstr ""
+
+#: lang.lua:380
+msgid "正在上传图片，请稍候.."
+msgstr ""
+
+#: lang.lua:381
+msgid "请输入反馈内容"
+msgstr ""
+
+#: lang.lua:417
+msgid "翻倍规则"
+msgstr ""
+
+#: lang.lua:459
+msgid "发现新版本"
+msgstr ""
+
+#: lang.lua:460
+msgid "以后再说"
+msgstr ""
+
+#: lang.lua:461
+msgid "立即升级"
+msgstr ""
+
+#: lang.lua:462
+msgid "您已经安装了最新版本"
+msgstr ""
+
+#: lang.lua:464
+msgid "当前玩家ID: {1}"
+msgstr ""
+
+#: lang.lua:465
+msgid "版本号：V{1}"
+msgstr ""
+
+#: lang.lua:466
+msgid "官方粉丝页："
+msgstr ""
+
+#: lang.lua:469
+msgid "服务条款与隐私策略"
+msgstr ""
+
+#: lang.lua:472
+msgid "已完成"
+msgstr ""
+
+#: lang.lua:473
+msgid "恭喜你完成了任务：{1}"
+msgstr ""
+
+#: lang.lua:474
+msgid "奖励{1}筹码"
+msgstr ""
+
+#: lang.lua:476
+msgid "倒计时宝箱"
+msgstr ""
+
+#: lang.lua:477
+msgid "坐下才可以继续计时。"
+msgstr ""
+
+#: lang.lua:478
+msgid "您今天的宝箱已经全部领取，明天还有哦。"
+msgstr ""
+
+#: lang.lua:479
+msgid "再玩{1}分{2}秒，您将获得{3}。"
+msgstr ""
+
+#: lang.lua:480
+msgid "恭喜您获得宝箱奖励{1}。"
+msgstr ""
+
+#: lang.lua:481
+msgid "没有安装SD卡，无法使用头像上传功能"
+msgstr ""
+
+#: lang.lua:482
+msgid "获取图像失败"
+msgstr ""
+
+#: lang.lua:483
+msgid "上传头像失败，请稍后重试"
+msgstr ""
+
+#: lang.lua:484
+msgid "正在上传头像，请稍候..."
+msgstr ""
+
+#: lang.lua:485
+msgid "上传头像成功"
+msgstr ""
+
+#: lang.lua:486
+msgid "暂无活动"
+msgstr ""
+
+#: lang.lua:488
+msgid "加载中..."
+msgstr ""
+
+#: lang.lua:489
+msgid "分享成功"
+msgstr ""
+
+#: lang.lua:490
+msgid "分享失败"
+msgstr ""
+
+#: lang.lua:492
+msgid "太棒了!我在三公领取了{1}筹码的奖励，快来和我一起玩吧！"
+msgstr ""
+
+#: lang.lua:493
+msgid "天天登录筹码送不停"
+msgstr ""
+
+#: lang.lua:499
+msgid "我用三公粉丝页的兑换码换到了{1}的奖励，快来和我一起玩吧！"
+msgstr ""
+
+#: lang.lua:500
+msgid "粉丝奖励兑换有礼"
+msgstr ""
+
+#: lang.lua:506
+msgid "快来和我一起玩开心转转转吧，每天登录就有三次机会！"
+msgstr ""
+
+#: lang.lua:507 lang.lua:514
+#, lua-format
+msgid "开心转转转100%%中奖"
+msgstr ""
+
+#: lang.lua:513
+msgid "我在三公的幸运转转转获得了{1}的奖励，快来和我一起玩吧！"
+msgstr ""
+
+#: lang.lua:520
+msgid "太棒了，我刚刚在三公成功升到了{1}级，领取了{2}的奖励，快来膜拜吧！"
+msgstr ""
+
+#: lang.lua:521
+msgid "升级领取大礼"
+msgstr ""
+
+#: lang.lua:529
+msgid "好友消息"
+msgstr ""
+
+#: lang.lua:530
+msgid "系统消息"
+msgstr ""
+
+#: lang.lua:532
+msgid "您现在没有消息记录"
+msgstr ""
+
+#: lang.lua:534
+msgid "奖励兑换"
+msgstr ""
+
+#: lang.lua:535
+msgid "请输入6位数字奖励兑换码"
+msgstr ""
+
+#: lang.lua:536
+msgid ""
+"关注粉丝页可免费领取奖励兑换码,我们还会不定期在官方粉丝页推出各种精彩活动,"
+"谢谢关注。\n"
+"\n"
+"粉丝页地址 https://www.facebook.com/pokdengtl"
+msgstr ""
+
+#: lang.lua:537
+msgid "兑  奖"
+msgstr ""
+
+#: lang.lua:538
+msgid ""
+"恭喜您，兑奖成功！\n"
+"您获得了{1}"
+msgstr ""
+
+#: lang.lua:539
+msgid "兑奖失败，请确认您的兑换码是否输入正确！"
+msgstr ""
+
+#: lang.lua:540
+msgid "兑奖失败，您的兑换码已经失效。"
+msgstr ""
+
+#: lang.lua:541
+msgid ""
+"兑奖失败，每个兑换码只能兑换一次。\n"
+"您已经兑换到了{1}"
+msgstr ""
+
+#: lang.lua:542
+msgid "领取失败，本次奖励已经全部领光了，关注我们下次早点来哦"
+msgstr ""
+
+#: lang.lua:543
+msgid "关注粉丝页"
+msgstr ""
+
+#: lang.lua:545 lang.lua:599
+msgid "分享"
+msgstr ""
+
+#: lang.lua:546
+msgid "剩余抽奖数"
+msgstr ""
+
+#: lang.lua:547
+msgid "次"
+msgstr ""
+
+#: lang.lua:548
+msgid "每天登录即可免费获得3次抽奖机会"
+msgstr ""
+
+#: lang.lua:549
+msgid "每次"
+msgstr ""
+
+#: lang.lua:550
+msgid "中奖"
+msgstr ""
+
+#: lang.lua:551
+msgid "绝不落空，最高可赢取一千万筹码。"
+msgstr ""
+
+#: lang.lua:552
+msgid "立即开始吧，点击开始抽奖按钮！"
+msgstr ""
+
+#: lang.lua:553
+msgid ""
+"开始\n"
+"抽奖"
+msgstr ""
+
+#: lang.lua:555
+msgid "中大奖了!"
+msgstr ""
+
+#: lang.lua:556
+msgid "恭喜您,抽中{1}的奖励。"
+msgstr ""
+
+#: lang.lua:561
+msgid "银行"
+msgstr ""
+
+#: lang.lua:562 lang.lua:630
+msgid "我的礼物"
+msgstr ""
+
+#: lang.lua:564
+msgid "喇叭"
+msgstr ""
+
+#: lang.lua:565
+msgid "银行内资产"
+msgstr ""
+
+#: lang.lua:566
+msgid "存钱"
+msgstr ""
+
+#: lang.lua:567
+msgid "取钱"
+msgstr ""
+
+#: lang.lua:568
+msgid "取消密码成功"
+msgstr ""
+
+#: lang.lua:569
+msgid "取消密码失败"
+msgstr ""
+
+#: lang.lua:570
+msgid "请输入金额"
+msgstr ""
+
+#: lang.lua:571
+msgid "你不是VIP用户不能使用保险箱功能"
+msgstr ""
+
+#: lang.lua:572
+msgid "存钱成功"
+msgstr ""
+
+#: lang.lua:573
+msgid "存钱失败"
+msgstr ""
+
+#: lang.lua:574
+msgid "取钱成功"
+msgstr ""
+
+#: lang.lua:575
+msgid "取钱失败"
+msgstr ""
+
+#: lang.lua:576
+msgid "个人银行"
+msgstr ""
+
+#: lang.lua:577
+msgid "请输入密码"
+msgstr ""
+
+#: lang.lua:578
+msgid "请再次输入密码"
+msgstr ""
+
+#: lang.lua:579
+msgid "你输入的密码有误，请从新输入"
+msgstr ""
+
+#: lang.lua:580 lang.lua:587
+msgid "设置密码"
+msgstr ""
+
+#: lang.lua:581
+msgid "设置密码成功"
+msgstr ""
+
+#: lang.lua:582
+msgid "设置密码失败"
+msgstr ""
+
+#: lang.lua:583
+msgid "你的等级没有达到七级，不能使用保险箱"
+msgstr ""
+
+#: lang.lua:584
+msgid "取消或者设置密码"
+msgstr ""
+
+#: lang.lua:585
+msgid "忘记密码请向管理员反馈"
+msgstr ""
+
+#: lang.lua:586
+msgid "忘记密码"
+msgstr ""
+
+#: lang.lua:588
+msgid "取消密码"
+msgstr ""
+
+#: lang.lua:590
+msgid "老虎机购买失败,你的筹码不足"
+msgstr ""
+
+#: lang.lua:591
+msgid "老虎机购买失败，系统出现错误"
+msgstr ""
+
+#: lang.lua:592
+msgid "你赢得了{1}筹码"
+msgstr ""
+
+#: lang.lua:593
+msgid "玩家 {1} 玩老虎机抽中大奖，获得筹码{2}"
+msgstr ""
+
+#: lang.lua:594
+msgid "头奖：{1}"
+msgstr ""
+
+#: lang.lua:595
+msgid "你赢了：{1}"
+msgstr ""
+
+#: lang.lua:596
+msgid "自动"
+msgstr ""
+
+#: lang.lua:598
+msgid "打开"
+msgstr ""
+
+#: lang.lua:600
+msgid "获得{1}"
+msgstr ""
+
+#: lang.lua:601
+msgid "设为我的礼物"
+msgstr ""
+
+#: lang.lua:602
+msgid "买给牌桌x{1}"
+msgstr ""
+
+#: lang.lua:603
+msgid "你当前选择的礼物"
+msgstr ""
+
+#: lang.lua:604
+msgid "赠送"
+msgstr ""
+
+#: lang.lua:605
+msgid "天"
+msgstr ""
+
+#: lang.lua:606
+msgid "请选择礼物"
+msgstr ""
+
+#: lang.lua:607
+msgid "购买礼物成功"
+msgstr ""
+
+#: lang.lua:608
+msgid "购买礼物失败"
+msgstr ""
+
+#: lang.lua:609
+msgid "设置礼物成功"
+msgstr ""
+
+#: lang.lua:610
+msgid "设置礼物失败"
+msgstr ""
+
+#: lang.lua:611
+msgid "赠送礼物成功"
+msgstr ""
+
+#: lang.lua:612
+msgid "赠送礼物失败"
+msgstr ""
+
+#: lang.lua:613
+msgid "赠送牌桌礼物成功"
+msgstr ""
+
+#: lang.lua:614
+msgid "赠送牌桌礼物失败"
+msgstr ""
+
+#: lang.lua:615
+msgid "暂时没有礼物"
+msgstr ""
+
+#: lang.lua:616
+msgid "点击选中既可在牌桌上展示才礼物"
+msgstr ""
+
+#: lang.lua:618
+msgid "热销"
+msgstr ""
+
+#: lang.lua:619
+msgid "精品"
+msgstr ""
+
+#: lang.lua:620
+msgid "节日"
+msgstr ""
+
+#: lang.lua:624
+msgid "自己购买"
+msgstr ""
+
+#: lang.lua:625
+msgid "牌友赠送"
+msgstr ""
+
+#: lang.lua:629
+msgid "商城礼物"
+msgstr ""
+
+#: lang.lua:634
+msgid ""
+"您获得{1}筹码的破产救济金，同时还获得当日充值优惠一次，立即充值，重振雄风！"
+msgstr ""
+
+#: lang.lua:635
+msgid ""
+"您获得最后一次{1}筹码的破产救济金，同时还获得当日充值优惠一次，立即满血复"
+"活，再战江湖！"
+msgstr ""
+
+#: lang.lua:636
+msgid ""
+"您已经领完所有破产救济金了，您可以去商城购买筹码，每天登录还有免费筹码赠送"
+"哦！"
+msgstr ""
+
+#: lang.lua:637
+msgid "你破产了！"
+msgstr ""
+
+#: lang.lua:638
+msgid "破产救济"
+msgstr ""
+
+#: lang.lua:640
+msgid "{1}游戏币"
+msgstr ""
+
+#: lang.lua:641
+msgid "(N天天内仅限3次)"
+msgstr ""
+
+#: lang.lua:642
+msgid "FB邀请"
+msgstr ""
+
+#: lang.lua:643
+msgid "(邀请1个新朋友并成功进游戏)"
+msgstr ""
+
+#: lang.lua:644
+msgid "FB招回"
+msgstr ""
+
+#: lang.lua:645
+msgid "(成功召回1个老用户回归游戏)"
+msgstr ""
+
+#: lang.lua:646
+msgid "领取"
+msgstr ""
+
+#: lang.lua:647
+msgid ""
+"{1}游戏币\n"
+"{2}THB"
+msgstr ""
+
+#: lang.lua:648
+msgid "获得{1}游戏币"
+msgstr ""
+
+#: lang.lua:649
+msgid "仅限E2P"
+msgstr ""
+
+#~ msgid "知道搏定"
+#~ msgstr "เด็กน้อยมฤตยู"
+
+#~ msgid "搏定新手"
+#~ msgstr "เด็กน้อยพิชิตมาร"
+
+#~ msgid "搏定爱好者"
+#~ msgstr "เด็กน้อยมือหนึ่ง"
+
+#~ msgid "俱乐部牌手"
+#~ msgstr "เด็กน้อยอัจฉริยะ"
+
+#~ msgid "俱乐部专业牌手"
+#~ msgstr "เด็กน้อยป๊อกเด้ง"
+
+#~ msgid "俱乐部冠军"
+#~ msgstr "โปรมฤตยู"
+
+#~ msgid "区牌手"
+#~ msgstr "โปรพิชิตมาร"
+
+#~ msgid "区专业牌手"
+#~ msgstr "โปรมือหนึ่ง"
+
+#~ msgid "区冠军"
+#~ msgstr "โปรอัจฉริยะ"
+
+#~ msgid "市牌手"
+#~ msgstr "โปรป๊อกเด้ง"
+
+#~ msgid "市专业牌手"
+#~ msgstr "มือฉมังมฤตยู"
+
+#~ msgid "市冠军"
+#~ msgstr "มือฉมังพิชิตมาร"
+
+#~ msgid "全国牌手"
+#~ msgstr "มือฉมังมือหนึ่ง"
+
+#~ msgid "全国专业牌手"
+#~ msgstr "มือฉมังอัจฉริยะ"
+
+#~ msgid "全国冠军"
+#~ msgstr "มือฉมังป๊อกเด้ง"
+
+#~ msgid "亚洲牌手"
+#~ msgstr "ฮีโร่มฤตยู"
+
+#~ msgid "亚洲专业牌手"
+#~ msgstr "ฮีโร่พิชิตมาร"
+
+#~ msgid "亚洲冠军"
+#~ msgstr "ฮีโร่มือหนึ่ง"
+
+#~ msgid "国际牌手"
+#~ msgstr "ฮีโร่อัจฉริยะ"
+
+#~ msgid "国际专业牌手"
+#~ msgstr "ฮีโร่ป๊อกเด้ง"
+
+#~ msgid "国际冠军"
+#~ msgstr "เซียนมฤตยู"
+
+#~ msgid "世界牌手"
+#~ msgstr "เซียนพิชิตมาร"
+
+#~ msgid "世界专业牌手"
+#~ msgstr "เซียนมือหนึ่ง"
+
+#~ msgid "世界冠军"
+#~ msgstr "เซียนอัจฉริยะ"
+
+#~ msgid "搏定新星"
+#~ msgstr "เซียนป๊อกเด้ง"
+
+#~ msgid "搏定挚爱"
+#~ msgstr "คิงมฤตยู"
+
+#~ msgid "搏定英雄"
+#~ msgstr "คิงพิชิตมาร"
+
+#~ msgid "搏定王者"
+#~ msgstr "คิงมือหนึ่ง"
+
+#~ msgid "搏定传奇"
+#~ msgstr "คิงอัจฉริยะ"
+
+#~ msgid "搏定之心"
+#~ msgstr "คิงป๊อกเด้ง"
+
+#~ msgid "1={1}筹码"
+#~ msgstr "1{2}={1} ชิป"
+
+#~ msgid ""
+#~ "您已选择了{1}位好友\n"
+#~ "发送邀请即可获得{2}筹码的奖励"
+#~ msgstr "คุณได้เลือกเพื่อนแล้ว {1} ท่าน ส่งคำเชิญรับฟรีรางวัล {2} ชิป"
+
+#~ msgid "服务器登录成功"
+#~ msgstr "เข้าสู่ระบบเซิร์ฟเวอร์สำเร็จ"
+
+#~ msgid ""
+#~ "关注粉丝页可免费领取奖励兑换码,我们还会不定期在官方粉丝页推出各种精彩活"
+#~ "动,谢谢关注。\n"
+#~ "\n"
+#~ "粉丝页地址 https://www.facebook.com/9kThai"
+#~ msgstr ""
+#~ "กดไลค์ติดตามแฟนส์เพจรับฟรีรหัสโบนัสแฟนส์ กิจกรรมสนุกๆรอคุณอยู่เพียบ ไลค์เลย!\n"
+#~ "ลิงค์แฟนส์: https://www.facebook.com/pokdengtl"
+
+#~ msgid "!!服务器登录超时!!"
+#~ msgstr "!! หมดเวลาล็อกอินเซิร์ฟเวอร์!!"
